@@ -5,3 +5,9 @@
 */
 
 @import '_variables';
+@import '_header';
+
+body {
+    margin: 0;
+    line-height: 1.4;
+}
