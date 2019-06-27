@@ -1,0 +1,41 @@
+.chart-separator {
+    width: 100%;
+    padding: 2rem 0;
+}
+
+.chart-text-container {
+    width: 40rem;
+    margin: 0 auto;
+}
+
+.chart-text-title {
+    font-size: 2rem;
+    font-family: var(--title);
+    color: var(--black);
+}
+
+.chart-text {
+    font-size: 1rem;
+    font-family: var(--text);
+    color: var(--black);
+}
+
+.temperature-container-full {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.chart {
+    text {
+        font-family: var(--roboto);
+        font-size: .75rem;
+    }
+    .line {
+        fill: none;
+        stroke: var(--black);
+        stroke-width: 3px;
+    }
+    .circles {
+        r: 3;
+    }
+}

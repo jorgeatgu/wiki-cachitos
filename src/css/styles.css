@@ -6,6 +6,7 @@
 
 @import '_variables';
 @import '_header';
+@import '_charts';
 
 body {
     margin: 0;

@@ -407,7 +407,7 @@ template {
 
 .header {
     position: relative;
-    min-height: 70vh;
+    height: 100vh;
 }
 
 .header-section {
@@ -448,7 +448,7 @@ template {
 
 .header-text {
     position: absolute;
-    top: 55%;
+    top: 35%;
     left: 20vh;
     padding: 1rem 2rem;
     background-color: rgba(255, 255, 255, .75);
@@ -477,6 +477,60 @@ template {
 .through {
     text-decoration: line-through;
 }
+
+.line-lluvia {
+    width: 70rem;
+    display: block;
+    height: 30vh;
+}
+
+.chart-separator {
+    width: 100%;
+    padding: 2rem 0;
+}
+
+.chart-text-container {
+    width: 40rem;
+    margin: 0 auto;
+}
+
+.chart-text-title {
+    font-size: 2rem;
+    font-family: 'Staatliches', cursive;
+    font-family: var(--title);
+    color: #111;
+    color: var(--black);
+}
+
+.chart-text {
+    font-size: 1rem;
+    font-family: 'IBM Plex Serif', serif;
+    font-family: var(--text);
+    color: #111;
+    color: var(--black);
+}
+
+.temperature-container-full {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.chart text {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-family: var(--roboto);
+        font-size: .75rem;
+    }
+
+.chart .line {
+        fill: none;
+        stroke: #111;
+        stroke: var(--black);
+        stroke-width: 3px;
+    }
+
+.chart .circles {
+        r: 3;
+    }
 
 body {
     margin: 0;
