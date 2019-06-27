@@ -16,7 +16,7 @@ for (( i=0; i<${#artist[@]}; ++i )); do
 
     for (( j=0; j<${#type[@]}; ++j )); do
 
-    curl -s "GET" "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/mobile-app/user/"${artist[$i]}"/daily/20190324/20190424" | jq '[.items[] | {"artista": .article, "fecha": .timestamp, "visitas": .views}]' > json/"${artist[$i]}"-"${type[$j]}".json
+    curl -s "GET" "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/${type[$i]}/user/${artist[$i]}/daily/20190214/20190525" | jq '.items[] | {"artista": .article, "fecha": .timestamp, "visitas": .views}' > json/"${artist[$i]}".json
 
     done
 
