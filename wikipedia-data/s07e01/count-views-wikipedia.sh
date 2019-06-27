@@ -6,4 +6,12 @@ A partir de los JSON con las diferentes listas de spotify
 vamos a obtener solamente la lista de artistas.
 '
 
-def sum(f): map(f) | add;   def consolidate:   .[0]   + {visitas:  sum(.visitas) } ;  . | group_by([.fecha]) | map(consolidate)
+# Guardamos en un array la lista de artistas que han participado en el episodio
+readarray -t artist < ~/github/wiki-cachitos/wikipedia-data/s07e01/s07e01.txt
+
+
+for (( i=0; i<${#artist[@]}; ++i )); do
+
+
+
+done
