@@ -7,7 +7,7 @@ vamos a obtener solamente la lista de artistas.
 '
 
 # Guardamos en un array la lista de artistas que han participado en el episodio
-readarray -t artist < ~/github/wiki-cachitos/wikipedia-data/s07e03/s07e03.txt
+readarray -t artist < ~/github/wiki-cachitos/wikipedia-data/s07e05/s07e05.txt
 
 type=('mobile-app' 'desktop' 'mobile-web')
 
