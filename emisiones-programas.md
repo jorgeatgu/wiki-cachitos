@@ -9,4 +9,4 @@ S07E05 cachitos INFANTIL - 11 de junio de 2019
 S07E04 cachitos CANTAUTORES - 4 de junio de 2019
 S07E03 cachitos GIRLPOWER - 28 de mayo de 2019
 S07E02 cachitos POP ESPAÑOL - 21 de mayo de 2019
-S07E01 cachitos POP ESPAÑOL - 14 de mayo de 2019
+S07E01 cachitos POP ESPAÑOL - 23 de abril de 2019

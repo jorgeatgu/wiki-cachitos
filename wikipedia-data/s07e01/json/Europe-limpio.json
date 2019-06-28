@@ -1,6 +1,116 @@
 [
   {
     "artista": "Europe",
+    "fecha": "2019-01-23",
+    "visitas": 282
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-24",
+    "visitas": 272
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-25",
+    "visitas": 247
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-26",
+    "visitas": 320
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-27",
+    "visitas": 350
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-28",
+    "visitas": 303
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-29",
+    "visitas": 322
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-30",
+    "visitas": 250
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-01-31",
+    "visitas": 284
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-01",
+    "visitas": 307
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-02",
+    "visitas": 365
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-03",
+    "visitas": 394
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-04",
+    "visitas": 285
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-05",
+    "visitas": 306
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-06",
+    "visitas": 285
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-07",
+    "visitas": 301
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-08",
+    "visitas": 347
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-09",
+    "visitas": 404
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-10",
+    "visitas": 400
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-11",
+    "visitas": 294
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-12",
+    "visitas": 299
+  },
+  {
+    "artista": "Europe",
+    "fecha": "2019-02-13",
+    "visitas": 313
+  },
+  {
+    "artista": "Europe",
     "fecha": "2019-02-14",
     "visitas": 320
   },
@@ -348,160 +458,5 @@
     "artista": "Europe",
     "fecha": "2019-04-24",
     "visitas": 282
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-04-25",
-    "visitas": 247
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-04-26",
-    "visitas": 274
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-04-27",
-    "visitas": 350
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-04-28",
-    "visitas": 326
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-04-29",
-    "visitas": 206
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-04-30",
-    "visitas": 229
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-01",
-    "visitas": 293
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-02",
-    "visitas": 243
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-03",
-    "visitas": 276
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-04",
-    "visitas": 298
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-05",
-    "visitas": 250
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-06",
-    "visitas": 257
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-07",
-    "visitas": 268
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-08",
-    "visitas": 244
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-09",
-    "visitas": 291
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-10",
-    "visitas": 273
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-11",
-    "visitas": 331
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-12",
-    "visitas": 310
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-13",
-    "visitas": 283
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-14",
-    "visitas": 272
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-15",
-    "visitas": 278
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-16",
-    "visitas": 268
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-17",
-    "visitas": 272
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-18",
-    "visitas": 379
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-19",
-    "visitas": 300
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-20",
-    "visitas": 257
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-21",
-    "visitas": 247
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-22",
-    "visitas": 234
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-23",
-    "visitas": 309
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-24",
-    "visitas": 557
-  },
-  {
-    "artista": "Europe",
-    "fecha": "2019-05-25",
-    "visitas": 316
   }
 ]

@@ -1,6 +1,116 @@
 [
   {
     "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-23",
+    "visitas": 99
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-24",
+    "visitas": 102
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-25",
+    "visitas": 94
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-26",
+    "visitas": 77
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-27",
+    "visitas": 106
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-28",
+    "visitas": 97
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-29",
+    "visitas": 90
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-30",
+    "visitas": 96
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-01-31",
+    "visitas": 105
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-01",
+    "visitas": 110
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-02",
+    "visitas": 95
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-03",
+    "visitas": 82
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-04",
+    "visitas": 145
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-05",
+    "visitas": 111
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-06",
+    "visitas": 110
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-07",
+    "visitas": 89
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-08",
+    "visitas": 111
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-09",
+    "visitas": 95
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-10",
+    "visitas": 110
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-11",
+    "visitas": 103
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-12",
+    "visitas": 124
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
+    "fecha": "2019-02-13",
+    "visitas": 114
+  },
+  {
+    "artista": "Los_Planetas_(banda)",
     "fecha": "2019-02-14",
     "visitas": 112
   },
@@ -348,160 +458,5 @@
     "artista": "Los_Planetas_(banda)",
     "fecha": "2019-04-24",
     "visitas": 154
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-04-25",
-    "visitas": 147
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-04-26",
-    "visitas": 124
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-04-27",
-    "visitas": 190
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-04-28",
-    "visitas": 97
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-04-29",
-    "visitas": 119
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-04-30",
-    "visitas": 111
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-01",
-    "visitas": 122
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-02",
-    "visitas": 102
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-03",
-    "visitas": 121
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-04",
-    "visitas": 105
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-05",
-    "visitas": 119
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-06",
-    "visitas": 243
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-07",
-    "visitas": 116
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-08",
-    "visitas": 140
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-09",
-    "visitas": 114
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-10",
-    "visitas": 125
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-11",
-    "visitas": 124
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-12",
-    "visitas": 102
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-13",
-    "visitas": 124
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-14",
-    "visitas": 106
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-15",
-    "visitas": 105
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-16",
-    "visitas": 138
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-17",
-    "visitas": 134
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-18",
-    "visitas": 133
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-19",
-    "visitas": 105
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-20",
-    "visitas": 120
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-21",
-    "visitas": 139
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-22",
-    "visitas": 110
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-23",
-    "visitas": 145
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-24",
-    "visitas": 146
-  },
-  {
-    "artista": "Los_Planetas_(banda)",
-    "fecha": "2019-05-25",
-    "visitas": 135
   }
 ]

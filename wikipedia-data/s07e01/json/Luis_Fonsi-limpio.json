@@ -1,6 +1,116 @@
 [
   {
     "artista": "Luis_Fonsi",
+    "fecha": "2019-01-23",
+    "visitas": 6022
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-24",
+    "visitas": 2789
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-25",
+    "visitas": 2468
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-26",
+    "visitas": 2250
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-27",
+    "visitas": 2257
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-28",
+    "visitas": 9613
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-29",
+    "visitas": 7197
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-30",
+    "visitas": 2952
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-01-31",
+    "visitas": 2872
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-01",
+    "visitas": 3003
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-02",
+    "visitas": 4850
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-03",
+    "visitas": 2984
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-04",
+    "visitas": 6368
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-05",
+    "visitas": 14276
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-06",
+    "visitas": 4322
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-07",
+    "visitas": 2345
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-08",
+    "visitas": 2035
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-09",
+    "visitas": 3007
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-10",
+    "visitas": 2192
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-11",
+    "visitas": 5973
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-12",
+    "visitas": 5851
+  },
+  {
+    "artista": "Luis_Fonsi",
+    "fecha": "2019-02-13",
+    "visitas": 2496
+  },
+  {
+    "artista": "Luis_Fonsi",
     "fecha": "2019-02-14",
     "visitas": 1742
   },
@@ -348,160 +458,5 @@
     "artista": "Luis_Fonsi",
     "fecha": "2019-04-24",
     "visitas": 1355
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-04-25",
-    "visitas": 1314
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-04-26",
-    "visitas": 1823
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-04-27",
-    "visitas": 1374
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-04-28",
-    "visitas": 1329
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-04-29",
-    "visitas": 978
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-04-30",
-    "visitas": 857
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-01",
-    "visitas": 909
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-02",
-    "visitas": 844
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-03",
-    "visitas": 841
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-04",
-    "visitas": 981
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-05",
-    "visitas": 883
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-06",
-    "visitas": 849
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-07",
-    "visitas": 767
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-08",
-    "visitas": 840
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-09",
-    "visitas": 760
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-10",
-    "visitas": 844
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-11",
-    "visitas": 880
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-12",
-    "visitas": 1006
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-13",
-    "visitas": 922
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-14",
-    "visitas": 833
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-15",
-    "visitas": 926
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-16",
-    "visitas": 808
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-17",
-    "visitas": 823
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-18",
-    "visitas": 1138
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-19",
-    "visitas": 1134
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-20",
-    "visitas": 1021
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-21",
-    "visitas": 895
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-22",
-    "visitas": 845
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-23",
-    "visitas": 784
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-24",
-    "visitas": 788
-  },
-  {
-    "artista": "Luis_Fonsi",
-    "fecha": "2019-05-25",
-    "visitas": 977
   }
 ]

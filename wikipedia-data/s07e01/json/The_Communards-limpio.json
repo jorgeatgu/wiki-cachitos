@@ -1,6 +1,116 @@
 [
   {
     "artista": "The_Communards",
+    "fecha": "2019-01-23",
+    "visitas": 48
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-24",
+    "visitas": 54
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-25",
+    "visitas": 62
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-26",
+    "visitas": 62
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-27",
+    "visitas": 55
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-28",
+    "visitas": 43
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-29",
+    "visitas": 46
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-30",
+    "visitas": 46
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-01-31",
+    "visitas": 55
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-01",
+    "visitas": 91
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-02",
+    "visitas": 70
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-03",
+    "visitas": 52
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-04",
+    "visitas": 47
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-05",
+    "visitas": 47
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-06",
+    "visitas": 47
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-07",
+    "visitas": 44
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-08",
+    "visitas": 55
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-09",
+    "visitas": 52
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-10",
+    "visitas": 85
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-11",
+    "visitas": 50
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-12",
+    "visitas": 51
+  },
+  {
+    "artista": "The_Communards",
+    "fecha": "2019-02-13",
+    "visitas": 50
+  },
+  {
+    "artista": "The_Communards",
     "fecha": "2019-02-14",
     "visitas": 60
   },
@@ -348,160 +458,5 @@
     "artista": "The_Communards",
     "fecha": "2019-04-24",
     "visitas": 60
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-04-25",
-    "visitas": 68
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-04-26",
-    "visitas": 76
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-04-27",
-    "visitas": 60
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-04-28",
-    "visitas": 54
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-04-29",
-    "visitas": 34
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-04-30",
-    "visitas": 41
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-01",
-    "visitas": 52
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-02",
-    "visitas": 48
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-03",
-    "visitas": 46
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-04",
-    "visitas": 72
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-05",
-    "visitas": 54
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-06",
-    "visitas": 45
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-07",
-    "visitas": 92
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-08",
-    "visitas": 44
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-09",
-    "visitas": 55
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-10",
-    "visitas": 43
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-11",
-    "visitas": 72
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-12",
-    "visitas": 74
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-13",
-    "visitas": 39
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-14",
-    "visitas": 44
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-15",
-    "visitas": 36
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-16",
-    "visitas": 33
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-17",
-    "visitas": 52
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-18",
-    "visitas": 79
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-19",
-    "visitas": 51
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-20",
-    "visitas": 61
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-21",
-    "visitas": 62
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-22",
-    "visitas": 66
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-23",
-    "visitas": 70
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-24",
-    "visitas": 92
-  },
-  {
-    "artista": "The_Communards",
-    "fecha": "2019-05-25",
-    "visitas": 67
   }
 ]

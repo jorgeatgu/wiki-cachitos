@@ -1,6 +1,116 @@
 [
   {
     "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-23",
+    "visitas": 183
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-24",
+    "visitas": 182
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-25",
+    "visitas": 164
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-26",
+    "visitas": 173
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-27",
+    "visitas": 199
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-28",
+    "visitas": 401
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-29",
+    "visitas": 348
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-30",
+    "visitas": 243
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-01-31",
+    "visitas": 265
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-01",
+    "visitas": 257
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-02",
+    "visitas": 264
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-03",
+    "visitas": 201
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-04",
+    "visitas": 227
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-05",
+    "visitas": 209
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-06",
+    "visitas": 230
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-07",
+    "visitas": 221
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-08",
+    "visitas": 204
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-09",
+    "visitas": 199
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-10",
+    "visitas": 188
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-11",
+    "visitas": 181
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-12",
+    "visitas": 196
+  },
+  {
+    "artista": "Violadores_del_Verso",
+    "fecha": "2019-02-13",
+    "visitas": 216
+  },
+  {
+    "artista": "Violadores_del_Verso",
     "fecha": "2019-02-14",
     "visitas": 189
   },
@@ -348,160 +458,5 @@
     "artista": "Violadores_del_Verso",
     "fecha": "2019-04-24",
     "visitas": 208
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-04-25",
-    "visitas": 194
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-04-26",
-    "visitas": 190
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-04-27",
-    "visitas": 126
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-04-28",
-    "visitas": 126
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-04-29",
-    "visitas": 154
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-04-30",
-    "visitas": 137
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-01",
-    "visitas": 134
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-02",
-    "visitas": 147
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-03",
-    "visitas": 181
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-04",
-    "visitas": 140
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-05",
-    "visitas": 151
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-06",
-    "visitas": 170
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-07",
-    "visitas": 153
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-08",
-    "visitas": 169
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-09",
-    "visitas": 165
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-10",
-    "visitas": 186
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-11",
-    "visitas": 147
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-12",
-    "visitas": 167
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-13",
-    "visitas": 156
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-14",
-    "visitas": 173
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-15",
-    "visitas": 165
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-16",
-    "visitas": 183
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-17",
-    "visitas": 171
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-18",
-    "visitas": 172
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-19",
-    "visitas": 153
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-20",
-    "visitas": 118
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-21",
-    "visitas": 190
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-22",
-    "visitas": 219
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-23",
-    "visitas": 190
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-24",
-    "visitas": 201
-  },
-  {
-    "artista": "Violadores_del_Verso",
-    "fecha": "2019-05-25",
-    "visitas": 146
   }
 ]

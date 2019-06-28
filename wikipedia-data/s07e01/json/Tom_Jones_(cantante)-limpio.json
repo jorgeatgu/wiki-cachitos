@@ -1,6 +1,116 @@
 [
   {
     "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-23",
+    "visitas": 538
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-24",
+    "visitas": 350
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-25",
+    "visitas": 372
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-26",
+    "visitas": 418
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-27",
+    "visitas": 464
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-28",
+    "visitas": 384
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-29",
+    "visitas": 499
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-30",
+    "visitas": 482
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-01-31",
+    "visitas": 293
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-01",
+    "visitas": 360
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-02",
+    "visitas": 438
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-03",
+    "visitas": 407
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-04",
+    "visitas": 332
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-05",
+    "visitas": 619
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-06",
+    "visitas": 653
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-07",
+    "visitas": 320
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-08",
+    "visitas": 401
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-09",
+    "visitas": 500
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-10",
+    "visitas": 494
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-11",
+    "visitas": 384
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-12",
+    "visitas": 381
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
+    "fecha": "2019-02-13",
+    "visitas": 364
+  },
+  {
+    "artista": "Tom_Jones_(cantante)",
     "fecha": "2019-02-14",
     "visitas": 348
   },
@@ -348,160 +458,5 @@
     "artista": "Tom_Jones_(cantante)",
     "fecha": "2019-04-24",
     "visitas": 275
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-04-25",
-    "visitas": 307
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-04-26",
-    "visitas": 372
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-04-27",
-    "visitas": 367
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-04-28",
-    "visitas": 466
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-04-29",
-    "visitas": 304
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-04-30",
-    "visitas": 269
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-01",
-    "visitas": 396
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-02",
-    "visitas": 299
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-03",
-    "visitas": 329
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-04",
-    "visitas": 495
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-05",
-    "visitas": 425
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-06",
-    "visitas": 304
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-07",
-    "visitas": 354
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-08",
-    "visitas": 281
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-09",
-    "visitas": 298
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-10",
-    "visitas": 371
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-11",
-    "visitas": 489
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-12",
-    "visitas": 463
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-13",
-    "visitas": 333
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-14",
-    "visitas": 432
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-15",
-    "visitas": 420
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-16",
-    "visitas": 390
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-17",
-    "visitas": 375
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-18",
-    "visitas": 476
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-19",
-    "visitas": 513
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-20",
-    "visitas": 370
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-21",
-    "visitas": 332
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-22",
-    "visitas": 469
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-23",
-    "visitas": 337
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-24",
-    "visitas": 394
-  },
-  {
-    "artista": "Tom_Jones_(cantante)",
-    "fecha": "2019-05-25",
-    "visitas": 399
   }
 ]

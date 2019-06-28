@@ -7,8 +7,13 @@
 @import '_variables';
 @import '_header';
 @import '_charts';
+@import '_slim-select';
 
 body {
     margin: 0;
     line-height: 1.4;
+}
+
+* {
+    box-sizing: border-box;
 }

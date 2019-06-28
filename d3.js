@@ -4680,7 +4680,6 @@
   }
 
   var locale$1;
-  var timeParse;
   var utcFormat;
   var utcParse;
 
@@ -4698,7 +4697,7 @@
   function defaultLocale$1(definition) {
     locale$1 = formatLocale$1(definition);
     exports.timeFormat = locale$1.format;
-    timeParse = locale$1.parse;
+    exports.timeParse = locale$1.parse;
     utcFormat = locale$1.utcFormat;
     utcParse = locale$1.utcParse;
     return locale$1;

@@ -1,6 +1,116 @@
 [
   {
     "artista": "Estopa_(banda)",
+    "fecha": "2019-01-23",
+    "visitas": 278
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-24",
+    "visitas": 421
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-25",
+    "visitas": 417
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-26",
+    "visitas": 471
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-27",
+    "visitas": 388
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-28",
+    "visitas": 308
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-29",
+    "visitas": 315
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-30",
+    "visitas": 520
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-01-31",
+    "visitas": 549
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-01",
+    "visitas": 513
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-02",
+    "visitas": 482
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-03",
+    "visitas": 511
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-04",
+    "visitas": 340
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-05",
+    "visitas": 373
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-06",
+    "visitas": 337
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-07",
+    "visitas": 367
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-08",
+    "visitas": 371
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-09",
+    "visitas": 393
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-10",
+    "visitas": 383
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-11",
+    "visitas": 326
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-12",
+    "visitas": 329
+  },
+  {
+    "artista": "Estopa_(banda)",
+    "fecha": "2019-02-13",
+    "visitas": 304
+  },
+  {
+    "artista": "Estopa_(banda)",
     "fecha": "2019-02-14",
     "visitas": 304
   },
@@ -348,160 +458,5 @@
     "artista": "Estopa_(banda)",
     "fecha": "2019-04-24",
     "visitas": 266
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-04-25",
-    "visitas": 291
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-04-26",
-    "visitas": 320
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-04-27",
-    "visitas": 312
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-04-28",
-    "visitas": 284
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-04-29",
-    "visitas": 262
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-04-30",
-    "visitas": 298
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-01",
-    "visitas": 302
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-02",
-    "visitas": 254
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-03",
-    "visitas": 350
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-04",
-    "visitas": 320
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-05",
-    "visitas": 422
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-06",
-    "visitas": 290
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-07",
-    "visitas": 268
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-08",
-    "visitas": 298
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-09",
-    "visitas": 284
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-10",
-    "visitas": 296
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-11",
-    "visitas": 331
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-12",
-    "visitas": 364
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-13",
-    "visitas": 304
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-14",
-    "visitas": 379
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-15",
-    "visitas": 381
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-16",
-    "visitas": 402
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-17",
-    "visitas": 467
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-18",
-    "visitas": 395
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-19",
-    "visitas": 384
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-20",
-    "visitas": 323
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-21",
-    "visitas": 287
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-22",
-    "visitas": 303
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-23",
-    "visitas": 321
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-24",
-    "visitas": 360
-  },
-  {
-    "artista": "Estopa_(banda)",
-    "fecha": "2019-05-25",
-    "visitas": 356
   }
 ]

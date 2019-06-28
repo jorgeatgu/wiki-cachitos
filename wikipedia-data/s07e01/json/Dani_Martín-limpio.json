@@ -1,6 +1,116 @@
 [
   {
     "artista": "Dani_Martín",
+    "fecha": "2019-01-23",
+    "visitas": 594
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-24",
+    "visitas": 453
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-25",
+    "visitas": 578
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-26",
+    "visitas": 498
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-27",
+    "visitas": 558
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-28",
+    "visitas": 514
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-29",
+    "visitas": 470
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-30",
+    "visitas": 411
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-01-31",
+    "visitas": 502
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-01",
+    "visitas": 446
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-02",
+    "visitas": 489
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-03",
+    "visitas": 596
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-04",
+    "visitas": 548
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-05",
+    "visitas": 803
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-06",
+    "visitas": 457
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-07",
+    "visitas": 422
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-08",
+    "visitas": 464
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-09",
+    "visitas": 562
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-10",
+    "visitas": 650
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-11",
+    "visitas": 459
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-12",
+    "visitas": 520
+  },
+  {
+    "artista": "Dani_Martín",
+    "fecha": "2019-02-13",
+    "visitas": 489
+  },
+  {
+    "artista": "Dani_Martín",
     "fecha": "2019-02-14",
     "visitas": 457
   },
@@ -348,160 +458,5 @@
     "artista": "Dani_Martín",
     "fecha": "2019-04-24",
     "visitas": 422
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-04-25",
-    "visitas": 737
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-04-26",
-    "visitas": 446
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-04-27",
-    "visitas": 425
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-04-28",
-    "visitas": 369
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-04-29",
-    "visitas": 336
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-04-30",
-    "visitas": 413
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-01",
-    "visitas": 410
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-02",
-    "visitas": 404
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-03",
-    "visitas": 468
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-04",
-    "visitas": 771
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-05",
-    "visitas": 1187
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-06",
-    "visitas": 1144
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-07",
-    "visitas": 675
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-08",
-    "visitas": 760
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-09",
-    "visitas": 676
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-10",
-    "visitas": 687
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-11",
-    "visitas": 737
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-12",
-    "visitas": 762
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-13",
-    "visitas": 558
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-14",
-    "visitas": 514
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-15",
-    "visitas": 572
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-16",
-    "visitas": 506
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-17",
-    "visitas": 518
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-18",
-    "visitas": 538
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-19",
-    "visitas": 559
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-20",
-    "visitas": 500
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-21",
-    "visitas": 457
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-22",
-    "visitas": 434
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-23",
-    "visitas": 446
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-24",
-    "visitas": 465
-  },
-  {
-    "artista": "Dani_Martín",
-    "fecha": "2019-05-25",
-    "visitas": 527
   }
 ]

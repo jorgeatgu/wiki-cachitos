@@ -2,34 +2,30 @@ const line = () => {
     const margin = { top: 24, right: 24, bottom: 24, left: 48 };
     let width = 0;
     let height = 0;
-    const chart = d3.select('.line-lluvia');
+    const chart = d3.select('.line-artist');
     const svg = chart.select('svg');
     const scales = {};
     let dataz;
-    const parseDate = d3.timeFormat('%Y-%m-%d');
-
+    const parseTime = d3.timeParse('%Y-%m-%d');
 
     const setupScales = () => {
-        const countX = d3.scaleTime().domain(d3.extent(dataz, (d) => d.fecha));
+        const countX = d3.scaleTime().domain(d3.extent(dataz, (d) => d.dia));
 
         const countY = d3
             .scaleLinear()
-            .domain([
-                d3.min(dataz, (d) => d.visitas),
-                d3.max(dataz, (d) => d.visitas)
-            ]);
+            .domain([0, d3.max(dataz, (d) => d.visitas * 1.25)]);
 
         scales.count = { x: countX, y: countY };
     };
 
     const setupElements = () => {
-        const g = svg.select('.line-lluvia-container');
+        const g = svg.select('.line-artist-container');
 
         g.append('g').attr('class', 'axis axis-x');
 
         g.append('g').attr('class', 'axis axis-y');
 
-        g.append('g').attr('class', 'line-lluvia-container-dos');
+        g.append('g').attr('class', 'line-artist-container-dos');
     };
 
     const updateScales = (width, height) => {
@@ -40,7 +36,7 @@ const line = () => {
     const drawAxes = (g) => {
         const axisX = d3
             .axisBottom(scales.count.x)
-            .tickFormat(d3.format('d'))
+            .tickFormat(d3.timeFormat('%m-%d'))
             .ticks(13);
 
         g.select('.axis-x')
@@ -67,18 +63,18 @@ const line = () => {
 
         const translate = `translate(${margin.left},${margin.top})`;
 
-        const g = svg.select('.line-lluvia-container');
+        const g = svg.select('.line-artist-container');
 
         g.attr('transform', translate);
 
         const line = d3
             .line()
-            .x((d) => scales.count.x(d.fecha))
+            .x((d) => scales.count.x(d.dia))
             .y((d) => scales.count.y(d.visitas));
 
         updateScales(width, height);
 
-        const container = chart.select('.line-lluvia-container-dos');
+        const container = chart.select('.line-artist-container-dos');
 
         const layer = container.selectAll('.line').data([dataz]);
 
@@ -98,10 +94,63 @@ const line = () => {
         layer.merge(newLayer).attr('d', line);
 
         dots.merge(dotsLayer)
-            .attr('cx', (d) => scales.count.x(d.fecha))
-            .attr('cy', (d) => scales.count.y(d.visitas));
+            .attr('cx', (d) => scales.count.x(d.dia))
+            .attr('cy', (d) => scales.count.y(d.visitas))
+            .attr('r', (d) => {
+                if (d.fecha === "2019-05-14") {
+                    return 5;
+                } else {
+                    return 0;
+                }
+            });
 
         drawAxes(g);
+    };
+
+    function update(mes) {
+        d3.csv(csvFile, (error, data) => {
+            datos = data;
+
+            let valueCity = d3.select('#select-city-artist').property('value');
+
+            datos = datos.filter((d) => String(d.name).match(revalueCity));
+
+            datos.forEach((d) => {
+                d.population = +d.population;
+                d.year = +d.year;
+            });
+        });
+    }
+
+    const menuMes = () => {
+        d3.csv(csvFile, (error, data) => {
+            if (error) {
+                console.log(error);
+            } else {
+                datos = data;
+
+                const nest = d3
+                    .nest()
+                    .key((d) => d.select)
+                    .entries(datos);
+
+                const selectCity = d3.select(`#select-city-${cities}`);
+
+                selectCity
+                    .selectAll('option')
+                    .data(nest)
+                    .enter()
+                    .append('option')
+                    .attr('value', (d) => d.key)
+                    .text((d) => d.key);
+
+                selectCity.on('change', function() {
+                    let mes = d3.select(this).property('value');
+
+                    update(mes);
+                });
+            }
+        });
     };
 
     const resize = () => {
@@ -109,7 +158,7 @@ const line = () => {
     };
 
     const loadData = () => {
-        d3.json('csv/Aitana_(cantante)-limpio.json', (error, data) => {
+        d3.json('csv/test.json', (error, data) => {
             if (error) {
                 console.log(error);
             } else {
@@ -117,7 +166,7 @@ const line = () => {
                 dataz.forEach((d) => {
                     d.nombre = d.artista;
                     d.visitas = +d.visitas;
-                    d.fecha = parseDate(d.fecha);
+                    d.dia = parseTime(d.fecha);
                 });
                 console.log(dataz);
                 setupElements();
@@ -133,3 +182,8 @@ const line = () => {
 };
 
 line();
+
+new SlimSelect({
+    select: '#select-artist',
+    searchPlaceholder: 'Selecciona una artista...'
+});

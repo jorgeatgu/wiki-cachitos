@@ -16,4 +16,4 @@ export { easeLinear } from 'd3-ease';
 
 export { format } from 'd3-format';
 
-export { timeFormat } from 'd3-time-format';
+export { timeFormat, timeParse } from 'd3-time-format';

@@ -1,6 +1,116 @@
 [
   {
     "artista": "Kaoma",
+    "fecha": "2019-01-23",
+    "visitas": 72
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-24",
+    "visitas": 58
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-25",
+    "visitas": 67
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-26",
+    "visitas": 77
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-27",
+    "visitas": 78
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-28",
+    "visitas": 58
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-29",
+    "visitas": 68
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-30",
+    "visitas": 73
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-01-31",
+    "visitas": 54
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-01",
+    "visitas": 66
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-02",
+    "visitas": 78
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-03",
+    "visitas": 86
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-04",
+    "visitas": 69
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-05",
+    "visitas": 89
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-06",
+    "visitas": 62
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-07",
+    "visitas": 85
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-08",
+    "visitas": 65
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-09",
+    "visitas": 90
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-10",
+    "visitas": 116
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-11",
+    "visitas": 89
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-12",
+    "visitas": 91
+  },
+  {
+    "artista": "Kaoma",
+    "fecha": "2019-02-13",
+    "visitas": 91
+  },
+  {
+    "artista": "Kaoma",
     "fecha": "2019-02-14",
     "visitas": 84
   },
@@ -348,160 +458,5 @@
     "artista": "Kaoma",
     "fecha": "2019-04-24",
     "visitas": 58
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-04-25",
-    "visitas": 76
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-04-26",
-    "visitas": 65
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-04-27",
-    "visitas": 59
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-04-28",
-    "visitas": 83
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-04-29",
-    "visitas": 58
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-04-30",
-    "visitas": 70
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-01",
-    "visitas": 66
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-02",
-    "visitas": 50
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-03",
-    "visitas": 67
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-04",
-    "visitas": 75
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-05",
-    "visitas": 61
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-06",
-    "visitas": 60
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-07",
-    "visitas": 48
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-08",
-    "visitas": 37
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-09",
-    "visitas": 54
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-10",
-    "visitas": 24
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-11",
-    "visitas": 70
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-12",
-    "visitas": 70
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-13",
-    "visitas": 70
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-14",
-    "visitas": 43
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-15",
-    "visitas": 54
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-16",
-    "visitas": 70
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-17",
-    "visitas": 77
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-18",
-    "visitas": 65
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-19",
-    "visitas": 80
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-20",
-    "visitas": 54
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-21",
-    "visitas": 51
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-22",
-    "visitas": 53
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-23",
-    "visitas": 63
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-24",
-    "visitas": 50
-  },
-  {
-    "artista": "Kaoma",
-    "fecha": "2019-05-25",
-    "visitas": 36
   }
 ]

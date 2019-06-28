@@ -1,6 +1,116 @@
 [
   {
     "artista": "Julio_Iglesias",
+    "fecha": "2019-01-23",
+    "visitas": 1740
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-24",
+    "visitas": 1675
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-25",
+    "visitas": 1446
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-26",
+    "visitas": 1630
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-27",
+    "visitas": 2324
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-28",
+    "visitas": 3299
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-29",
+    "visitas": 2009
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-30",
+    "visitas": 1404
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-01-31",
+    "visitas": 1477
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-01",
+    "visitas": 1375
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-02",
+    "visitas": 1656
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-03",
+    "visitas": 2303
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-04",
+    "visitas": 1460
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-05",
+    "visitas": 1192
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-06",
+    "visitas": 1143
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-07",
+    "visitas": 1464
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-08",
+    "visitas": 2197
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-09",
+    "visitas": 3039
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-10",
+    "visitas": 5682
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-11",
+    "visitas": 6710
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-12",
+    "visitas": 2390
+  },
+  {
+    "artista": "Julio_Iglesias",
+    "fecha": "2019-02-13",
+    "visitas": 2197
+  },
+  {
+    "artista": "Julio_Iglesias",
     "fecha": "2019-02-14",
     "visitas": 1664
   },
@@ -348,160 +458,5 @@
     "artista": "Julio_Iglesias",
     "fecha": "2019-04-24",
     "visitas": 1162
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-04-25",
-    "visitas": 1339
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-04-26",
-    "visitas": 3262
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-04-27",
-    "visitas": 1704
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-04-28",
-    "visitas": 1493
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-04-29",
-    "visitas": 1144
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-04-30",
-    "visitas": 1646
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-01",
-    "visitas": 3416
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-02",
-    "visitas": 2144
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-03",
-    "visitas": 2367
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-04",
-    "visitas": 3083
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-05",
-    "visitas": 2397
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-06",
-    "visitas": 1549
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-07",
-    "visitas": 2599
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-08",
-    "visitas": 2211
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-09",
-    "visitas": 1636
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-10",
-    "visitas": 1875
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-11",
-    "visitas": 1835
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-12",
-    "visitas": 2294
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-13",
-    "visitas": 1798
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-14",
-    "visitas": 1593
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-15",
-    "visitas": 1418
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-16",
-    "visitas": 1331
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-17",
-    "visitas": 1411
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-18",
-    "visitas": 2607
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-19",
-    "visitas": 3285
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-20",
-    "visitas": 1884
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-21",
-    "visitas": 1909
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-22",
-    "visitas": 2759
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-23",
-    "visitas": 1763
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-24",
-    "visitas": 1720
-  },
-  {
-    "artista": "Julio_Iglesias",
-    "fecha": "2019-05-25",
-    "visitas": 2646
   }
 ]

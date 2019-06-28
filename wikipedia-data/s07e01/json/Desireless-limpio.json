@@ -1,6 +1,116 @@
 [
   {
     "artista": "Desireless",
+    "fecha": "2019-01-23",
+    "visitas": 52
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-24",
+    "visitas": 53
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-25",
+    "visitas": 73
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-26",
+    "visitas": 58
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-27",
+    "visitas": 56
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-28",
+    "visitas": 49
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-29",
+    "visitas": 65
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-30",
+    "visitas": 43
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-01-31",
+    "visitas": 42
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-01",
+    "visitas": 42
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-02",
+    "visitas": 68
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-03",
+    "visitas": 42
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-04",
+    "visitas": 47
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-05",
+    "visitas": 67
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-06",
+    "visitas": 42
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-07",
+    "visitas": 98
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-08",
+    "visitas": 71
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-09",
+    "visitas": 79
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-10",
+    "visitas": 62
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-11",
+    "visitas": 55
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-12",
+    "visitas": 63
+  },
+  {
+    "artista": "Desireless",
+    "fecha": "2019-02-13",
+    "visitas": 51
+  },
+  {
+    "artista": "Desireless",
     "fecha": "2019-02-14",
     "visitas": 50
   },
@@ -348,160 +458,5 @@
     "artista": "Desireless",
     "fecha": "2019-04-24",
     "visitas": 57
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-04-25",
-    "visitas": 37
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-04-26",
-    "visitas": 45
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-04-27",
-    "visitas": 58
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-04-28",
-    "visitas": 66
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-04-29",
-    "visitas": 35
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-04-30",
-    "visitas": 64
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-01",
-    "visitas": 50
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-02",
-    "visitas": 49
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-03",
-    "visitas": 52
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-04",
-    "visitas": 64
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-05",
-    "visitas": 63
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-06",
-    "visitas": 51
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-07",
-    "visitas": 70
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-08",
-    "visitas": 61
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-09",
-    "visitas": 43
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-10",
-    "visitas": 51
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-11",
-    "visitas": 58
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-12",
-    "visitas": 57
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-13",
-    "visitas": 40
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-14",
-    "visitas": 50
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-15",
-    "visitas": 37
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-16",
-    "visitas": 47
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-17",
-    "visitas": 67
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-18",
-    "visitas": 44
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-19",
-    "visitas": 48
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-20",
-    "visitas": 59
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-21",
-    "visitas": 44
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-22",
-    "visitas": 41
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-23",
-    "visitas": 68
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-24",
-    "visitas": 49
-  },
-  {
-    "artista": "Desireless",
-    "fecha": "2019-05-25",
-    "visitas": 48
   }
 ]

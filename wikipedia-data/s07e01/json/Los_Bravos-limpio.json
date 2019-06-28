@@ -1,6 +1,116 @@
 [
   {
     "artista": "Los_Bravos",
+    "fecha": "2019-01-23",
+    "visitas": 93
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-24",
+    "visitas": 68
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-25",
+    "visitas": 92
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-26",
+    "visitas": 67
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-27",
+    "visitas": 76
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-28",
+    "visitas": 102
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-29",
+    "visitas": 77
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-30",
+    "visitas": 54
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-01-31",
+    "visitas": 58
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-01",
+    "visitas": 83
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-02",
+    "visitas": 88
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-03",
+    "visitas": 111
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-04",
+    "visitas": 70
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-05",
+    "visitas": 78
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-06",
+    "visitas": 65
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-07",
+    "visitas": 69
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-08",
+    "visitas": 70
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-09",
+    "visitas": 87
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-10",
+    "visitas": 121
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-11",
+    "visitas": 84
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-12",
+    "visitas": 80
+  },
+  {
+    "artista": "Los_Bravos",
+    "fecha": "2019-02-13",
+    "visitas": 73
+  },
+  {
+    "artista": "Los_Bravos",
     "fecha": "2019-02-14",
     "visitas": 69
   },
@@ -348,160 +458,5 @@
     "artista": "Los_Bravos",
     "fecha": "2019-04-24",
     "visitas": 133
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-04-25",
-    "visitas": 219
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-04-26",
-    "visitas": 141
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-04-27",
-    "visitas": 131
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-04-28",
-    "visitas": 104
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-04-29",
-    "visitas": 98
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-04-30",
-    "visitas": 87
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-01",
-    "visitas": 125
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-02",
-    "visitas": 120
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-03",
-    "visitas": 140
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-04",
-    "visitas": 98
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-05",
-    "visitas": 132
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-06",
-    "visitas": 107
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-07",
-    "visitas": 188
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-08",
-    "visitas": 132
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-09",
-    "visitas": 104
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-10",
-    "visitas": 100
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-11",
-    "visitas": 135
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-12",
-    "visitas": 122
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-13",
-    "visitas": 139
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-14",
-    "visitas": 118
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-15",
-    "visitas": 191
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-16",
-    "visitas": 114
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-17",
-    "visitas": 113
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-18",
-    "visitas": 180
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-19",
-    "visitas": 124
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-20",
-    "visitas": 116
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-21",
-    "visitas": 169
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-22",
-    "visitas": 400
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-23",
-    "visitas": 294
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-24",
-    "visitas": 205
-  },
-  {
-    "artista": "Los_Bravos",
-    "fecha": "2019-05-25",
-    "visitas": 173
   }
 ]

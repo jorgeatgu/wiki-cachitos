@@ -1,6 +1,116 @@
 [
   {
     "artista": "Carlos_Baute",
+    "fecha": "2019-01-23",
+    "visitas": 571
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-24",
+    "visitas": 1716
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-25",
+    "visitas": 3012
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-26",
+    "visitas": 1643
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-27",
+    "visitas": 1502
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-28",
+    "visitas": 1042
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-29",
+    "visitas": 934
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-30",
+    "visitas": 1095
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-01-31",
+    "visitas": 1268
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-01",
+    "visitas": 2762
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-02",
+    "visitas": 3134
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-03",
+    "visitas": 2379
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-04",
+    "visitas": 1564
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-05",
+    "visitas": 1206
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-06",
+    "visitas": 1357
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-07",
+    "visitas": 1056
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-08",
+    "visitas": 4293
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-09",
+    "visitas": 1974
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-10",
+    "visitas": 1157
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-11",
+    "visitas": 2423
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-12",
+    "visitas": 1174
+  },
+  {
+    "artista": "Carlos_Baute",
+    "fecha": "2019-02-13",
+    "visitas": 824
+  },
+  {
+    "artista": "Carlos_Baute",
     "fecha": "2019-02-14",
     "visitas": 1119
   },
@@ -348,160 +458,5 @@
     "artista": "Carlos_Baute",
     "fecha": "2019-04-24",
     "visitas": 313
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-04-25",
-    "visitas": 358
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-04-26",
-    "visitas": 303
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-04-27",
-    "visitas": 478
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-04-28",
-    "visitas": 428
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-04-29",
-    "visitas": 1023
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-04-30",
-    "visitas": 357
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-01",
-    "visitas": 381
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-02",
-    "visitas": 284
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-03",
-    "visitas": 329
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-04",
-    "visitas": 365
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-05",
-    "visitas": 626
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-06",
-    "visitas": 353
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-07",
-    "visitas": 267
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-08",
-    "visitas": 275
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-09",
-    "visitas": 282
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-10",
-    "visitas": 286
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-11",
-    "visitas": 270
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-12",
-    "visitas": 303
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-13",
-    "visitas": 262
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-14",
-    "visitas": 307
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-15",
-    "visitas": 263
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-16",
-    "visitas": 297
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-17",
-    "visitas": 409
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-18",
-    "visitas": 439
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-19",
-    "visitas": 378
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-20",
-    "visitas": 290
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-21",
-    "visitas": 769
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-22",
-    "visitas": 637
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-23",
-    "visitas": 655
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-24",
-    "visitas": 13396
-  },
-  {
-    "artista": "Carlos_Baute",
-    "fecha": "2019-05-25",
-    "visitas": 2051
   }
 ]

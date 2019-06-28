@@ -1,6 +1,116 @@
 [
   {
     "artista": "Chayanne",
+    "fecha": "2019-01-23",
+    "visitas": 1152
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-24",
+    "visitas": 1212
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-25",
+    "visitas": 2120
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-26",
+    "visitas": 1906
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-27",
+    "visitas": 1548
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-28",
+    "visitas": 1084
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-29",
+    "visitas": 962
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-30",
+    "visitas": 997
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-01-31",
+    "visitas": 1067
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-01",
+    "visitas": 1185
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-02",
+    "visitas": 1245
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-03",
+    "visitas": 1467
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-04",
+    "visitas": 23915
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-05",
+    "visitas": 2026
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-06",
+    "visitas": 1158
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-07",
+    "visitas": 1042
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-08",
+    "visitas": 1079
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-09",
+    "visitas": 1218
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-10",
+    "visitas": 1748
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-11",
+    "visitas": 1363
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-12",
+    "visitas": 1135
+  },
+  {
+    "artista": "Chayanne",
+    "fecha": "2019-02-13",
+    "visitas": 1106
+  },
+  {
+    "artista": "Chayanne",
     "fecha": "2019-02-14",
     "visitas": 1189
   },
@@ -348,160 +458,5 @@
     "artista": "Chayanne",
     "fecha": "2019-04-24",
     "visitas": 1138
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-04-25",
-    "visitas": 1159
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-04-26",
-    "visitas": 1216
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-04-27",
-    "visitas": 1259
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-04-28",
-    "visitas": 1392
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-04-29",
-    "visitas": 984
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-04-30",
-    "visitas": 1110
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-01",
-    "visitas": 1291
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-02",
-    "visitas": 1567
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-03",
-    "visitas": 1303
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-04",
-    "visitas": 1431
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-05",
-    "visitas": 1650
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-06",
-    "visitas": 1432
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-07",
-    "visitas": 1139
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-08",
-    "visitas": 1127
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-09",
-    "visitas": 1148
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-10",
-    "visitas": 1433
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-11",
-    "visitas": 1628
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-12",
-    "visitas": 2681
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-13",
-    "visitas": 1508
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-14",
-    "visitas": 1309
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-15",
-    "visitas": 1344
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-16",
-    "visitas": 1489
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-17",
-    "visitas": 1482
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-18",
-    "visitas": 1828
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-19",
-    "visitas": 1883
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-20",
-    "visitas": 1610
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-21",
-    "visitas": 1393
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-22",
-    "visitas": 1456
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-23",
-    "visitas": 1439
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-24",
-    "visitas": 1585
-  },
-  {
-    "artista": "Chayanne",
-    "fecha": "2019-05-25",
-    "visitas": 1758
   }
 ]

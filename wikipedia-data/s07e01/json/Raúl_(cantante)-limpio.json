@@ -1,6 +1,116 @@
 [
   {
     "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-23",
+    "visitas": 56
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-24",
+    "visitas": 94
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-25",
+    "visitas": 59
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-26",
+    "visitas": 81
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-27",
+    "visitas": 74
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-28",
+    "visitas": 50
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-29",
+    "visitas": 56
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-30",
+    "visitas": 75
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-01-31",
+    "visitas": 75
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-01",
+    "visitas": 62
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-02",
+    "visitas": 79
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-03",
+    "visitas": 64
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-04",
+    "visitas": 46
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-05",
+    "visitas": 46
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-06",
+    "visitas": 48
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-07",
+    "visitas": 50
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-08",
+    "visitas": 90
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-09",
+    "visitas": 106
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-10",
+    "visitas": 75
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-11",
+    "visitas": 39
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-12",
+    "visitas": 68
+  },
+  {
+    "artista": "Raúl_(cantante)",
+    "fecha": "2019-02-13",
+    "visitas": 46
+  },
+  {
+    "artista": "Raúl_(cantante)",
     "fecha": "2019-02-14",
     "visitas": 76
   },
@@ -348,160 +458,5 @@
     "artista": "Raúl_(cantante)",
     "fecha": "2019-04-24",
     "visitas": 68
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-04-25",
-    "visitas": 63
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-04-26",
-    "visitas": 72
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-04-27",
-    "visitas": 68
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-04-28",
-    "visitas": 56
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-04-29",
-    "visitas": 48
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-04-30",
-    "visitas": 61
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-01",
-    "visitas": 59
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-02",
-    "visitas": 48
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-03",
-    "visitas": 48
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-04",
-    "visitas": 81
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-05",
-    "visitas": 76
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-06",
-    "visitas": 39
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-07",
-    "visitas": 47
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-08",
-    "visitas": 65
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-09",
-    "visitas": 88
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-10",
-    "visitas": 68
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-11",
-    "visitas": 80
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-12",
-    "visitas": 124
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-13",
-    "visitas": 62
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-14",
-    "visitas": 289
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-15",
-    "visitas": 86
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-16",
-    "visitas": 218
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-17",
-    "visitas": 78
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-18",
-    "visitas": 488
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-19",
-    "visitas": 696
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-20",
-    "visitas": 72
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-21",
-    "visitas": 47
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-22",
-    "visitas": 73
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-23",
-    "visitas": 76
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-24",
-    "visitas": 69
-  },
-  {
-    "artista": "Raúl_(cantante)",
-    "fecha": "2019-05-25",
-    "visitas": 238
   }
 ]

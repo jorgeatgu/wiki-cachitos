@@ -1,6 +1,116 @@
 [
   {
     "artista": "Whigfield",
+    "fecha": "2019-01-23",
+    "visitas": 37
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-24",
+    "visitas": 28
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-25",
+    "visitas": 45
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-26",
+    "visitas": 48
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-27",
+    "visitas": 60
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-28",
+    "visitas": 543
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-29",
+    "visitas": 118
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-30",
+    "visitas": 632
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-01-31",
+    "visitas": 67
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-01",
+    "visitas": 53
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-02",
+    "visitas": 84
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-03",
+    "visitas": 57
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-04",
+    "visitas": 41
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-05",
+    "visitas": 54
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-06",
+    "visitas": 45
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-07",
+    "visitas": 50
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-08",
+    "visitas": 37
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-09",
+    "visitas": 64
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-10",
+    "visitas": 61
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-11",
+    "visitas": 42
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-12",
+    "visitas": 34
+  },
+  {
+    "artista": "Whigfield",
+    "fecha": "2019-02-13",
+    "visitas": 32
+  },
+  {
+    "artista": "Whigfield",
     "fecha": "2019-02-14",
     "visitas": 51
   },
@@ -348,160 +458,5 @@
     "artista": "Whigfield",
     "fecha": "2019-04-24",
     "visitas": 46
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-04-25",
-    "visitas": 26
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-04-26",
-    "visitas": 40
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-04-27",
-    "visitas": 40
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-04-28",
-    "visitas": 23
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-04-29",
-    "visitas": 19
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-04-30",
-    "visitas": 28
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-01",
-    "visitas": 31
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-02",
-    "visitas": 34
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-03",
-    "visitas": 41
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-04",
-    "visitas": 34
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-05",
-    "visitas": 55
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-06",
-    "visitas": 36
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-07",
-    "visitas": 29
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-08",
-    "visitas": 28
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-09",
-    "visitas": 60
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-10",
-    "visitas": 49
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-11",
-    "visitas": 37
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-12",
-    "visitas": 39
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-13",
-    "visitas": 33
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-14",
-    "visitas": 42
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-15",
-    "visitas": 43
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-16",
-    "visitas": 28
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-17",
-    "visitas": 47
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-18",
-    "visitas": 36
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-19",
-    "visitas": 33
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-20",
-    "visitas": 37
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-21",
-    "visitas": 33
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-22",
-    "visitas": 35
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-23",
-    "visitas": 28
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-24",
-    "visitas": 41
-  },
-  {
-    "artista": "Whigfield",
-    "fecha": "2019-05-25",
-    "visitas": 49
   }
 ]

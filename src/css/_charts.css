@@ -1,6 +1,7 @@
 .chart-separator {
     width: 100%;
     padding: 2rem 0;
+    background-color: var(--bg);
 }
 
 .chart-text-container {
@@ -32,10 +33,19 @@
     }
     .line {
         fill: none;
-        stroke: var(--black);
+        stroke: var(--element-chart);
         stroke-width: 3px;
     }
-    .circles {
-        r: 3;
+    .axis-y {
+        line {
+            stroke-dasharray: 3px;
+            stroke: #2d1175;
+        }
+    }
+    .axis {
+        .domain {
+            stroke: none;
+        }
     }
 }
+

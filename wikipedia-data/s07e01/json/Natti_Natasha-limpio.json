@@ -1,6 +1,116 @@
 [
   {
     "artista": "Natti_Natasha",
+    "fecha": "2019-01-23",
+    "visitas": 1864
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-24",
+    "visitas": 1848
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-25",
+    "visitas": 1900
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-26",
+    "visitas": 2019
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-27",
+    "visitas": 2034
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-28",
+    "visitas": 1654
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-29",
+    "visitas": 1700
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-30",
+    "visitas": 1639
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-01-31",
+    "visitas": 1640
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-01",
+    "visitas": 1615
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-02",
+    "visitas": 1973
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-03",
+    "visitas": 2211
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-04",
+    "visitas": 2012
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-05",
+    "visitas": 1733
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-06",
+    "visitas": 1611
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-07",
+    "visitas": 1542
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-08",
+    "visitas": 1585
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-09",
+    "visitas": 1839
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-10",
+    "visitas": 1957
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-11",
+    "visitas": 2389
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-12",
+    "visitas": 2782
+  },
+  {
+    "artista": "Natti_Natasha",
+    "fecha": "2019-02-13",
+    "visitas": 2490
+  },
+  {
+    "artista": "Natti_Natasha",
     "fecha": "2019-02-14",
     "visitas": 2355
   },
@@ -348,160 +458,5 @@
     "artista": "Natti_Natasha",
     "fecha": "2019-04-24",
     "visitas": 1563
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-04-25",
-    "visitas": 1819
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-04-26",
-    "visitas": 2464
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-04-27",
-    "visitas": 2248
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-04-28",
-    "visitas": 2535
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-04-29",
-    "visitas": 2083
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-04-30",
-    "visitas": 2033
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-01",
-    "visitas": 2115
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-02",
-    "visitas": 1941
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-03",
-    "visitas": 1781
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-04",
-    "visitas": 2057
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-05",
-    "visitas": 2370
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-06",
-    "visitas": 2091
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-07",
-    "visitas": 1899
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-08",
-    "visitas": 1849
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-09",
-    "visitas": 2493
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-10",
-    "visitas": 1913
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-11",
-    "visitas": 1907
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-12",
-    "visitas": 1967
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-13",
-    "visitas": 1628
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-14",
-    "visitas": 1624
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-15",
-    "visitas": 1869
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-16",
-    "visitas": 2392
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-17",
-    "visitas": 2432
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-18",
-    "visitas": 2710
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-19",
-    "visitas": 2834
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-20",
-    "visitas": 2343
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-21",
-    "visitas": 2027
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-22",
-    "visitas": 1763
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-23",
-    "visitas": 1924
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-24",
-    "visitas": 1749
-  },
-  {
-    "artista": "Natti_Natasha",
-    "fecha": "2019-05-25",
-    "visitas": 1841
   }
 ]

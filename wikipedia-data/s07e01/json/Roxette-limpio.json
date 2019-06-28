@@ -1,6 +1,116 @@
 [
   {
     "artista": "Roxette",
+    "fecha": "2019-01-23",
+    "visitas": 301
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-24",
+    "visitas": 334
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-25",
+    "visitas": 345
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-26",
+    "visitas": 347
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-27",
+    "visitas": 396
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-28",
+    "visitas": 327
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-29",
+    "visitas": 331
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-30",
+    "visitas": 342
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-01-31",
+    "visitas": 360
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-01",
+    "visitas": 306
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-02",
+    "visitas": 349
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-03",
+    "visitas": 354
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-04",
+    "visitas": 311
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-05",
+    "visitas": 317
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-06",
+    "visitas": 417
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-07",
+    "visitas": 298
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-08",
+    "visitas": 356
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-09",
+    "visitas": 344
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-10",
+    "visitas": 357
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-11",
+    "visitas": 315
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-12",
+    "visitas": 329
+  },
+  {
+    "artista": "Roxette",
+    "fecha": "2019-02-13",
+    "visitas": 285
+  },
+  {
+    "artista": "Roxette",
     "fecha": "2019-02-14",
     "visitas": 381
   },
@@ -347,161 +457,6 @@
   {
     "artista": "Roxette",
     "fecha": "2019-04-24",
-    "visitas": 356
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-04-25",
-    "visitas": 316
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-04-26",
-    "visitas": 373
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-04-27",
-    "visitas": 550
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-04-28",
-    "visitas": 957
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-04-29",
-    "visitas": 315
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-04-30",
-    "visitas": 398
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-01",
-    "visitas": 420
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-02",
-    "visitas": 339
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-03",
-    "visitas": 349
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-04",
-    "visitas": 472
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-05",
-    "visitas": 503
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-06",
-    "visitas": 374
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-07",
-    "visitas": 315
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-08",
-    "visitas": 355
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-09",
-    "visitas": 297
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-10",
-    "visitas": 399
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-11",
-    "visitas": 385
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-12",
-    "visitas": 391
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-13",
-    "visitas": 283
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-14",
-    "visitas": 284
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-15",
-    "visitas": 266
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-16",
-    "visitas": 301
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-17",
-    "visitas": 334
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-18",
-    "visitas": 364
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-19",
-    "visitas": 426
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-20",
-    "visitas": 320
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-21",
-    "visitas": 286
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-22",
-    "visitas": 278
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-23",
-    "visitas": 293
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-24",
-    "visitas": 295
-  },
-  {
-    "artista": "Roxette",
-    "fecha": "2019-05-25",
     "visitas": 356
   }
 ]

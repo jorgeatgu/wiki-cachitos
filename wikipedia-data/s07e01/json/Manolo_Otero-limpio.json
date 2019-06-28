@@ -1,6 +1,116 @@
 [
   {
     "artista": "Manolo_Otero",
+    "fecha": "2019-01-23",
+    "visitas": 103
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-24",
+    "visitas": 92
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-25",
+    "visitas": 107
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-26",
+    "visitas": 116
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-27",
+    "visitas": 140
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-28",
+    "visitas": 130
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-29",
+    "visitas": 111
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-30",
+    "visitas": 85
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-01-31",
+    "visitas": 111
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-01",
+    "visitas": 92
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-02",
+    "visitas": 121
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-03",
+    "visitas": 139
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-04",
+    "visitas": 98
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-05",
+    "visitas": 120
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-06",
+    "visitas": 97
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-07",
+    "visitas": 113
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-08",
+    "visitas": 240
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-09",
+    "visitas": 134
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-10",
+    "visitas": 134
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-11",
+    "visitas": 106
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-12",
+    "visitas": 93
+  },
+  {
+    "artista": "Manolo_Otero",
+    "fecha": "2019-02-13",
+    "visitas": 107
+  },
+  {
+    "artista": "Manolo_Otero",
     "fecha": "2019-02-14",
     "visitas": 115
   },
@@ -348,160 +458,5 @@
     "artista": "Manolo_Otero",
     "fecha": "2019-04-24",
     "visitas": 111
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-04-25",
-    "visitas": 133
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-04-26",
-    "visitas": 87
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-04-27",
-    "visitas": 135
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-04-28",
-    "visitas": 139
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-04-29",
-    "visitas": 66
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-04-30",
-    "visitas": 86
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-01",
-    "visitas": 118
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-02",
-    "visitas": 137
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-03",
-    "visitas": 209
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-04",
-    "visitas": 136
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-05",
-    "visitas": 191
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-06",
-    "visitas": 115
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-07",
-    "visitas": 114
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-08",
-    "visitas": 105
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-09",
-    "visitas": 76
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-10",
-    "visitas": 104
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-11",
-    "visitas": 102
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-12",
-    "visitas": 130
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-13",
-    "visitas": 114
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-14",
-    "visitas": 116
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-15",
-    "visitas": 135
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-16",
-    "visitas": 148
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-17",
-    "visitas": 124
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-18",
-    "visitas": 134
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-19",
-    "visitas": 145
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-20",
-    "visitas": 92
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-21",
-    "visitas": 118
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-22",
-    "visitas": 85
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-23",
-    "visitas": 96
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-24",
-    "visitas": 162
-  },
-  {
-    "artista": "Manolo_Otero",
-    "fecha": "2019-05-25",
-    "visitas": 98
   }
 ]

@@ -1,6 +1,86 @@
 [
   {
     "artista": "Ricardo_Cocciante",
+    "fecha": "2019-01-23",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-01-24",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-01-26",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-01-27",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-01-29",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-01-30",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-01-31",
+    "visitas": 0
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-01",
+    "visitas": 2
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-03",
+    "visitas": 0
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-06",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-07",
+    "visitas": 1
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-08",
+    "visitas": 0
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-10",
+    "visitas": 19
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-11",
+    "visitas": 2
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-12",
+    "visitas": 5
+  },
+  {
+    "artista": "Ricardo_Cocciante",
+    "fecha": "2019-02-13",
+    "visitas": 2
+  },
+  {
+    "artista": "Ricardo_Cocciante",
     "fecha": "2019-02-15",
     "visitas": 1
   },
@@ -303,120 +383,5 @@
     "artista": "Ricardo_Cocciante",
     "fecha": "2019-04-24",
     "visitas": 0
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-04-25",
-    "visitas": 2
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-04-26",
-    "visitas": 0
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-04-27",
-    "visitas": 2
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-04-28",
-    "visitas": 3
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-04-29",
-    "visitas": 1
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-04-30",
-    "visitas": 0
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-01",
-    "visitas": 2
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-02",
-    "visitas": 0
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-03",
-    "visitas": 0
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-04",
-    "visitas": 0
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-05",
-    "visitas": 1
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-08",
-    "visitas": 2
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-10",
-    "visitas": 2
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-11",
-    "visitas": 3
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-12",
-    "visitas": 1
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-13",
-    "visitas": 3
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-15",
-    "visitas": 1
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-16",
-    "visitas": 2
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-17",
-    "visitas": 1
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-19",
-    "visitas": 1
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-20",
-    "visitas": 1
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-23",
-    "visitas": 0
-  },
-  {
-    "artista": "Ricardo_Cocciante",
-    "fecha": "2019-05-25",
-    "visitas": 1
   }
 ]

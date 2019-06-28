@@ -1,6 +1,116 @@
 [
   {
     "artista": "Culture_Club",
+    "fecha": "2019-01-23",
+    "visitas": 163
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-24",
+    "visitas": 161
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-25",
+    "visitas": 193
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-26",
+    "visitas": 197
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-27",
+    "visitas": 233
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-28",
+    "visitas": 194
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-29",
+    "visitas": 195
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-30",
+    "visitas": 282
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-01-31",
+    "visitas": 370
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-01",
+    "visitas": 260
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-02",
+    "visitas": 261
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-03",
+    "visitas": 242
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-04",
+    "visitas": 168
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-05",
+    "visitas": 201
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-06",
+    "visitas": 238
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-07",
+    "visitas": 162
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-08",
+    "visitas": 200
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-09",
+    "visitas": 161
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-10",
+    "visitas": 204
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-11",
+    "visitas": 212
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-12",
+    "visitas": 209
+  },
+  {
+    "artista": "Culture_Club",
+    "fecha": "2019-02-13",
+    "visitas": 171
+  },
+  {
+    "artista": "Culture_Club",
     "fecha": "2019-02-14",
     "visitas": 153
   },
@@ -348,160 +458,5 @@
     "artista": "Culture_Club",
     "fecha": "2019-04-24",
     "visitas": 138
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-04-25",
-    "visitas": 158
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-04-26",
-    "visitas": 157
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-04-27",
-    "visitas": 215
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-04-28",
-    "visitas": 199
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-04-29",
-    "visitas": 146
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-04-30",
-    "visitas": 169
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-01",
-    "visitas": 178
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-02",
-    "visitas": 149
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-03",
-    "visitas": 181
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-04",
-    "visitas": 175
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-05",
-    "visitas": 203
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-06",
-    "visitas": 172
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-07",
-    "visitas": 138
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-08",
-    "visitas": 142
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-09",
-    "visitas": 170
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-10",
-    "visitas": 175
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-11",
-    "visitas": 164
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-12",
-    "visitas": 251
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-13",
-    "visitas": 167
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-14",
-    "visitas": 157
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-15",
-    "visitas": 139
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-16",
-    "visitas": 196
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-17",
-    "visitas": 118
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-18",
-    "visitas": 176
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-19",
-    "visitas": 189
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-20",
-    "visitas": 149
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-21",
-    "visitas": 143
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-22",
-    "visitas": 125
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-23",
-    "visitas": 151
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-24",
-    "visitas": 150
-  },
-  {
-    "artista": "Culture_Club",
-    "fecha": "2019-05-25",
-    "visitas": 169
   }
 ]

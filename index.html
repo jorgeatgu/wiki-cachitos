@@ -13,30 +13,32 @@
 
 <body>
     <header class="header">
-        <div class="header-section pink">
-            <img class="header-image" src="http://i67.tinypic.com/140kw9c.jpg">
-        </div>
-        <div class="header-text">
-            <h1 class="header-title">El efecto Cachitos</h1>
-            <p class="header-paragraph">Al igual que mucha gente, en casa cuando vemos Cachitos de Hierro Cromo vamos buscamos los diferentes grupos que van saliendo en el programa, casi siempre acabamos en la gran Wikipedia(<span class="through">bailad</span> <a href="https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=ES&uselang=es&utm_medium=donatewiki_page&utm_source=Ways_to_Give&utm_campaign=donate_now_btn">donad malditos</a>).</p>
-            <p class="header-paragraph">Así que inspirandome en "Life After Death on Wikipedia" de Pudding, he consultando las visitas que reciben las páginas de los grupos que salen en cada programa de la séptima temporada y las he comparado con el resto de días. Y si, existe el <span class="header-title">efecto Cachitos</span> en la Wikipedia.</p>
-        </div>
+            <img class="header-image" src="img/portada-tres.jpg">
     </header>
+    <div class="header-text">
+        <h1 class="header-title">El efecto Cachitos</h1>
+        <p class="header-paragraph">Al igual que mucha gente, en casa cuando vemos Cachitos de Hierro Cromo vamos buscamos los diferentes grupos que van saliendo en el programa, casi siempre acabamos en la gran Wikipedia(<span class="through">bailad</span> <a href="https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=ES&uselang=es&utm_medium=donatewiki_page&utm_source=Ways_to_Give&utm_campaign=donate_now_btn">donad malditos</a>).</p>
+        <p class="header-paragraph">Así que inspirandome en "Life After Death on Wikipedia" de Pudding, he consultando las visitas que reciben las páginas de los grupos que salen en cada programa de la séptima temporada y las he comparado con el resto de días. Y si, existe el <span class="header-title">efecto Cachitos</span> en la Wikipedia.</p>
+    </div>
+
     <section class="chart-separator">
         <section class="chart-text-container">
             <h3 class="chart-text-title">Números uno - s07e01</h3>
             <p class="chart-text">Primer episodio de la séptima temporada.</p>
         </section>
+
         <section class="temperature-container-full">
-            <article class="line-lluvia">
+            <select id="select-artist"></select>
+            <article class="line-artist">
                 <svg class="chart">
-                    <g class="line-lluvia-container"></g>
+                    <g class="line-artist-container"></g>
                 </svg>
             </article>
         </section>
     </section>
 
     <script src="js/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slim-select/1.18.7/slimselect.min.js"></script>
     <script type="module" src="js/index.js"></script>
 </body>
 

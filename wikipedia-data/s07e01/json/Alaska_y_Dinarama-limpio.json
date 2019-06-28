@@ -1,6 +1,116 @@
 [
   {
     "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-23",
+    "visitas": 201
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-24",
+    "visitas": 179
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-25",
+    "visitas": 213
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-26",
+    "visitas": 251
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-27",
+    "visitas": 236
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-28",
+    "visitas": 206
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-29",
+    "visitas": 195
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-30",
+    "visitas": 175
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-01-31",
+    "visitas": 155
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-01",
+    "visitas": 156
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-02",
+    "visitas": 270
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-03",
+    "visitas": 226
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-04",
+    "visitas": 178
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-05",
+    "visitas": 228
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-06",
+    "visitas": 172
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-07",
+    "visitas": 213
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-08",
+    "visitas": 208
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-09",
+    "visitas": 193
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-10",
+    "visitas": 276
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-11",
+    "visitas": 179
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-12",
+    "visitas": 201
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
+    "fecha": "2019-02-13",
+    "visitas": 346
+  },
+  {
+    "artista": "Alaska_y_Dinarama",
     "fecha": "2019-02-14",
     "visitas": 277
   },
@@ -348,160 +458,5 @@
     "artista": "Alaska_y_Dinarama",
     "fecha": "2019-04-24",
     "visitas": 150
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-04-25",
-    "visitas": 169
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-04-26",
-    "visitas": 156
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-04-27",
-    "visitas": 248
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-04-28",
-    "visitas": 203
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-04-29",
-    "visitas": 160
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-04-30",
-    "visitas": 130
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-01",
-    "visitas": 170
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-02",
-    "visitas": 165
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-03",
-    "visitas": 164
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-04",
-    "visitas": 278
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-05",
-    "visitas": 298
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-06",
-    "visitas": 229
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-07",
-    "visitas": 220
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-08",
-    "visitas": 226
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-09",
-    "visitas": 197
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-10",
-    "visitas": 194
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-11",
-    "visitas": 217
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-12",
-    "visitas": 220
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-13",
-    "visitas": 182
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-14",
-    "visitas": 178
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-15",
-    "visitas": 168
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-16",
-    "visitas": 170
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-17",
-    "visitas": 198
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-18",
-    "visitas": 179
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-19",
-    "visitas": 201
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-20",
-    "visitas": 148
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-21",
-    "visitas": 150
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-22",
-    "visitas": 166
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-23",
-    "visitas": 195
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-24",
-    "visitas": 234
-  },
-  {
-    "artista": "Alaska_y_Dinarama",
-    "fecha": "2019-05-25",
-    "visitas": 222
   }
 ]

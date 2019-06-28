@@ -1,6 +1,116 @@
 [
   {
     "artista": "Mike_Oldfield",
+    "fecha": "2019-01-23",
+    "visitas": 211
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-24",
+    "visitas": 210
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-25",
+    "visitas": 184
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-26",
+    "visitas": 158
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-27",
+    "visitas": 219
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-28",
+    "visitas": 225
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-29",
+    "visitas": 224
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-30",
+    "visitas": 218
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-01-31",
+    "visitas": 262
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-01",
+    "visitas": 278
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-02",
+    "visitas": 241
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-03",
+    "visitas": 240
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-04",
+    "visitas": 205
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-05",
+    "visitas": 227
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-06",
+    "visitas": 195
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-07",
+    "visitas": 186
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-08",
+    "visitas": 213
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-09",
+    "visitas": 225
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-10",
+    "visitas": 203
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-11",
+    "visitas": 201
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-12",
+    "visitas": 190
+  },
+  {
+    "artista": "Mike_Oldfield",
+    "fecha": "2019-02-13",
+    "visitas": 181
+  },
+  {
+    "artista": "Mike_Oldfield",
     "fecha": "2019-02-14",
     "visitas": 149
   },
@@ -348,160 +458,5 @@
     "artista": "Mike_Oldfield",
     "fecha": "2019-04-24",
     "visitas": 238
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-04-25",
-    "visitas": 190
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-04-26",
-    "visitas": 219
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-04-27",
-    "visitas": 218
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-04-28",
-    "visitas": 178
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-04-29",
-    "visitas": 154
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-04-30",
-    "visitas": 189
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-01",
-    "visitas": 211
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-02",
-    "visitas": 240
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-03",
-    "visitas": 213
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-04",
-    "visitas": 205
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-05",
-    "visitas": 218
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-06",
-    "visitas": 210
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-07",
-    "visitas": 199
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-08",
-    "visitas": 175
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-09",
-    "visitas": 224
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-10",
-    "visitas": 218
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-11",
-    "visitas": 250
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-12",
-    "visitas": 238
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-13",
-    "visitas": 221
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-14",
-    "visitas": 326
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-15",
-    "visitas": 864
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-16",
-    "visitas": 344
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-17",
-    "visitas": 245
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-18",
-    "visitas": 293
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-19",
-    "visitas": 291
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-20",
-    "visitas": 213
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-21",
-    "visitas": 232
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-22",
-    "visitas": 220
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-23",
-    "visitas": 212
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-24",
-    "visitas": 177
-  },
-  {
-    "artista": "Mike_Oldfield",
-    "fecha": "2019-05-25",
-    "visitas": 264
   }
 ]
