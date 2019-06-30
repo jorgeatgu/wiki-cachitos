@@ -6,5 +6,5 @@ nombres=('Roberto Carlos' 'Camilo Sesto' 'Glenn Medeiros' 'Richard Anthony' 'Gil
 
 
 for (( i=0; i<${#names[@]}; ++i )); do
-    sed -i "s/${names[$i]}/${nombres[$i]}/g" json/"${names[$i]}"-limpio.json > json/"${nombres[$i]}".json
+    sed -i "s/${names[$i]}/${nombres[$i]}/g" csv/"${nombres[$i]}".csv
 done

@@ -371,47 +371,77 @@
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019052700",
+    "fecha": "2019-05-27",
     "visitas": 4
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019052800",
+    "fecha": "2019-05-28",
     "visitas": 1
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019052900",
+    "fecha": "2019-05-29",
     "visitas": 0
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019053000",
+    "fecha": "2019-05-30",
     "visitas": 1
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019060100",
+    "fecha": "2019-06-01",
     "visitas": 5
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019060200",
+    "fecha": "2019-06-02",
     "visitas": 3
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019060300",
+    "fecha": "2019-06-03",
     "visitas": 1
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019060400",
+    "fecha": "2019-06-04",
     "visitas": 3
   },
   {
     "artista": "Orquesta_de_Córdoba",
-    "fecha": "2019060500",
+    "fecha": "2019-06-05",
     "visitas": 2
+  },
+  {
+    "artista": "Orquesta_de_Córdoba",
+    "fecha": "2019-06-06",
+    "visitas": 4
+  },
+  {
+    "artista": "Orquesta_de_Córdoba",
+    "fecha": "2019-06-07",
+    "visitas": 4
+  },
+  {
+    "artista": "Orquesta_de_Córdoba",
+    "fecha": "2019-06-08",
+    "visitas": 3
+  },
+  {
+    "artista": "Orquesta_de_Córdoba",
+    "fecha": "2019-06-09",
+    "visitas": 6
+  },
+  {
+    "artista": "Orquesta_de_Córdoba",
+    "fecha": "2019-06-10",
+    "visitas": 1
+  },
+  {
+    "artista": "Orquesta_de_Córdoba",
+    "fecha": "2019-06-11",
+    "visitas": 3
   }
 ]

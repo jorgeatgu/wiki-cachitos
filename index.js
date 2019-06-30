@@ -2,7 +2,7 @@ import 'd3-transition';
 
 export { select, selectAll } from 'd3-selection';
 
-export { min, max, range, extent } from 'd3-array';
+export { min, max, range, extent, group } from 'd3-array';
 
 export { line } from 'd3-shape';
 
@@ -10,7 +10,7 @@ export { scaleTime, scaleLinear } from 'd3-scale';
 
 export { axisBottom, axisLeft } from 'd3-axis';
 
-export { csv, json } from 'd3-request';
+export { csv } from 'd3-request';
 
 export { easeLinear } from 'd3-ease';
 

@@ -1,32 +1,37 @@
 [
   {
     "artista": "Raoul_Vazquez",
-    "fecha": "2019-06-2100",
+    "fecha": "2019-06-21",
     "visitas": 117
   },
   {
     "artista": "Raoul_Vazquez",
-    "fecha": "2019-06-2200",
+    "fecha": "2019-06-22",
     "visitas": 73
   },
   {
     "artista": "Raoul_Vazquez",
-    "fecha": "2019-06-2300",
+    "fecha": "2019-06-23",
     "visitas": 57
   },
   {
     "artista": "Raoul_Vazquez",
-    "fecha": "2019-06-2400",
+    "fecha": "2019-06-24",
     "visitas": 780
   },
   {
     "artista": "Raoul_Vazquez",
-    "fecha": "2019-06-2500",
+    "fecha": "2019-06-25",
     "visitas": 181
   },
   {
     "artista": "Raoul_Vazquez",
-    "fecha": "2019-06-2600",
+    "fecha": "2019-06-26",
     "visitas": 331
+  },
+  {
+    "artista": "Raoul_Vazquez",
+    "fecha": "2019-06-27",
+    "visitas": 144
   }
 ]

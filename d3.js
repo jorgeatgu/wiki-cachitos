@@ -2791,6 +2791,33 @@
     return [min, max];
   }
 
+  function identity$1(x) {
+    return x;
+  }
+
+  function group(values, ...keys) {
+    return nest(values, identity$1, identity$1, keys);
+  }
+
+  function nest(values, map, reduce, keys) {
+    return (function regroup(values, i) {
+      if (i >= keys.length) return reduce(values);
+      const groups = new Map();
+      const keyof = keys[i++];
+      let index = -1;
+      for (const value of values) {
+        const key = keyof(value, ++index, values);
+        const group = groups.get(key);
+        if (group) group.push(value);
+        else groups.set(key, [value]);
+      }
+      for (const [key, values] of groups) {
+        groups.set(key, regroup(values, i));
+      }
+      return map(groups);
+    })(values, 0);
+  }
+
   function sequence(start, stop, step) {
     start = +start, stop = +stop, step = (n = arguments.length) < 2 ? (stop = start, start = 0, 1) : n < 3 ? 1 : +step;
 
@@ -3245,7 +3272,7 @@
 
   var unit = [0, 1];
 
-  function identity$1(x) {
+  function identity$2(x) {
     return x;
   }
 
@@ -3309,7 +3336,7 @@
         transform,
         untransform,
         unknown,
-        clamp = identity$1,
+        clamp = identity$2,
         piecewise,
         output,
         input;
@@ -3329,7 +3356,7 @@
     };
 
     scale.domain = function(_) {
-      return arguments.length ? (domain = Array.from(_, number), clamp === identity$1 || (clamp = clamper(domain)), rescale()) : domain.slice();
+      return arguments.length ? (domain = Array.from(_, number), clamp === identity$2 || (clamp = clamper(domain)), rescale()) : domain.slice();
     };
 
     scale.range = function(_) {
@@ -3341,7 +3368,7 @@
     };
 
     scale.clamp = function(_) {
-      return arguments.length ? (clamp = _ ? clamper(domain) : identity$1, scale) : clamp !== identity$1;
+      return arguments.length ? (clamp = _ ? clamper(domain) : identity$2, scale) : clamp !== identity$2;
     };
 
     scale.interpolate = function(_) {
@@ -3498,17 +3525,17 @@
     "x": function(x) { return Math.round(x).toString(16); }
   };
 
-  function identity$2(x) {
+  function identity$3(x) {
     return x;
   }
 
   var prefixes = ["y","z","a","f","p","n","µ","m","","k","M","G","T","P","E","Z","Y"];
 
   function formatLocale(locale) {
-    var group = locale.grouping && locale.thousands ? formatGroup(locale.grouping, locale.thousands) : identity$2,
+    var group = locale.grouping && locale.thousands ? formatGroup(locale.grouping, locale.thousands) : identity$3,
         currency = locale.currency,
         decimal = locale.decimal,
-        numerals = locale.numerals ? formatNumerals(locale.numerals) : identity$2,
+        numerals = locale.numerals ? formatNumerals(locale.numerals) : identity$3,
         percent = locale.percent || "%";
 
     function newFormat(specifier) {
@@ -3750,7 +3777,7 @@
   }
 
   function linear$2() {
-    var scale = continuous(identity$1, identity$1);
+    var scale = continuous(identity$2, identity$2);
 
     scale.copy = function() {
       return copy(scale, linear$2());
@@ -4739,7 +4766,7 @@
   }
 
   function calendar(year, month, week, day, hour, minute, second, millisecond, format) {
-    var scale = continuous(identity$1, identity$1),
+    var scale = continuous(identity$2, identity$2),
         invert = scale.invert,
         domain = scale.domain;
 
@@ -4852,7 +4879,7 @@
 
   var slice = Array.prototype.slice;
 
-  function identity$3(x) {
+  function identity$4(x) {
     return x;
   }
 
@@ -4901,7 +4928,7 @@
 
     function axis(context) {
       var values = tickValues == null ? (scale.ticks ? scale.ticks.apply(scale, tickArguments) : scale.domain()) : tickValues,
-          format = tickFormat == null ? (scale.tickFormat ? scale.tickFormat.apply(scale, tickArguments) : identity$3) : tickFormat,
+          format = tickFormat == null ? (scale.tickFormat ? scale.tickFormat.apply(scale, tickArguments) : identity$4) : tickFormat,
           spacing = Math.max(tickSizeInner, 0) + tickPadding,
           range = scale.range(),
           range0 = +range[0] + 0.5,
@@ -5022,10 +5049,10 @@
 
   var prefix = "$";
 
-  function Map() {}
+  function Map$1() {}
 
-  Map.prototype = map.prototype = {
-    constructor: Map,
+  Map$1.prototype = map.prototype = {
+    constructor: Map$1,
     has: function(key) {
       return (prefix + key) in this;
     },
@@ -5073,10 +5100,10 @@
   };
 
   function map(object, f) {
-    var map = new Map;
+    var map = new Map$1;
 
     // Copy constructor.
-    if (object instanceof Map) object.each(function(value, key) { map.set(key, value); });
+    if (object instanceof Map$1) object.each(function(value, key) { map.set(key, value); });
 
     // Index array by numeric index or specified key function.
     else if (Array.isArray(object)) {
@@ -5279,21 +5306,6 @@
         : xhr.responseText; // "" on error
   }
 
-  function type(defaultMimeType, response) {
-    return function(url, callback) {
-      var r = request(url).mimeType(defaultMimeType).response(response);
-      if (callback != null) {
-        if (typeof callback !== "function") throw new Error("invalid callback: " + callback);
-        return r.get(callback);
-      }
-      return r;
-    };
-  }
-
-  var json = type("application/json", function(xhr) {
-    return JSON.parse(xhr.responseText);
-  });
-
   var EOL = {},
       EOF = {},
       QUOTE = 34,
@@ -5486,7 +5498,7 @@
   exports.csv = csv$1;
   exports.easeLinear = linear$1;
   exports.extent = extent;
-  exports.json = json;
+  exports.group = group;
   exports.line = line;
   exports.max = max;
   exports.min = min;

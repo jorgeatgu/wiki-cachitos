@@ -453,5 +453,35 @@
     "artista": "OBK",
     "fecha": "2019-05-22",
     "visitas": 76
+  },
+  {
+    "artista": "OBK",
+    "fecha": "2019-05-23",
+    "visitas": 92
+  },
+  {
+    "artista": "OBK",
+    "fecha": "2019-05-24",
+    "visitas": 287
+  },
+  {
+    "artista": "OBK",
+    "fecha": "2019-05-25",
+    "visitas": 199
+  },
+  {
+    "artista": "OBK",
+    "fecha": "2019-05-26",
+    "visitas": 95
+  },
+  {
+    "artista": "OBK",
+    "fecha": "2019-05-27",
+    "visitas": 56
+  },
+  {
+    "artista": "OBK",
+    "fecha": "2019-05-28",
+    "visitas": 64
   }
 ]

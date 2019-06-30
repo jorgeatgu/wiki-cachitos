@@ -416,57 +416,87 @@
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019052600",
+    "fecha": "2019-05-26",
     "visitas": 98
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019052700",
+    "fecha": "2019-05-27",
     "visitas": 85
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019052800",
+    "fecha": "2019-05-28",
     "visitas": 79
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019052900",
+    "fecha": "2019-05-29",
     "visitas": 144
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019053000",
+    "fecha": "2019-05-30",
     "visitas": 131
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019053100",
+    "fecha": "2019-05-31",
     "visitas": 134
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019060100",
+    "fecha": "2019-06-01",
     "visitas": 97
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019060200",
+    "fecha": "2019-06-02",
     "visitas": 200
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019060300",
+    "fecha": "2019-06-03",
     "visitas": 79
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019060400",
+    "fecha": "2019-06-04",
     "visitas": 179
   },
   {
     "artista": "Pedro_Guerra",
-    "fecha": "2019060500",
+    "fecha": "2019-06-05",
     "visitas": 74
+  },
+  {
+    "artista": "Pedro_Guerra",
+    "fecha": "2019-06-06",
+    "visitas": 90
+  },
+  {
+    "artista": "Pedro_Guerra",
+    "fecha": "2019-06-07",
+    "visitas": 90
+  },
+  {
+    "artista": "Pedro_Guerra",
+    "fecha": "2019-06-08",
+    "visitas": 98
+  },
+  {
+    "artista": "Pedro_Guerra",
+    "fecha": "2019-06-09",
+    "visitas": 96
+  },
+  {
+    "artista": "Pedro_Guerra",
+    "fecha": "2019-06-10",
+    "visitas": 68
+  },
+  {
+    "artista": "Pedro_Guerra",
+    "fecha": "2019-06-11",
+    "visitas": 71
   }
 ]

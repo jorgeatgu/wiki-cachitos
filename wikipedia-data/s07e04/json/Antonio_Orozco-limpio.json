@@ -416,57 +416,87 @@
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019052600",
+    "fecha": "2019-05-26",
     "visitas": 448
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019052700",
+    "fecha": "2019-05-27",
     "visitas": 495
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019052800",
+    "fecha": "2019-05-28",
     "visitas": 391
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019052900",
+    "fecha": "2019-05-29",
     "visitas": 1670
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019053000",
+    "fecha": "2019-05-30",
     "visitas": 621
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019053100",
+    "fecha": "2019-05-31",
     "visitas": 401
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019060100",
+    "fecha": "2019-06-01",
     "visitas": 427
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019060200",
+    "fecha": "2019-06-02",
     "visitas": 556
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019060300",
+    "fecha": "2019-06-03",
     "visitas": 409
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019060400",
+    "fecha": "2019-06-04",
     "visitas": 529
   },
   {
     "artista": "Antonio_Orozco",
-    "fecha": "2019060500",
+    "fecha": "2019-06-05",
     "visitas": 561
+  },
+  {
+    "artista": "Antonio_Orozco",
+    "fecha": "2019-06-06",
+    "visitas": 483
+  },
+  {
+    "artista": "Antonio_Orozco",
+    "fecha": "2019-06-07",
+    "visitas": 388
+  },
+  {
+    "artista": "Antonio_Orozco",
+    "fecha": "2019-06-08",
+    "visitas": 409
+  },
+  {
+    "artista": "Antonio_Orozco",
+    "fecha": "2019-06-09",
+    "visitas": 506
+  },
+  {
+    "artista": "Antonio_Orozco",
+    "fecha": "2019-06-10",
+    "visitas": 374
+  },
+  {
+    "artista": "Antonio_Orozco",
+    "fecha": "2019-06-11",
+    "visitas": 377
   }
 ]

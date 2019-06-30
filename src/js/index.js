@@ -91,13 +91,20 @@ const line = () => {
             .append('circle')
             .attr('class', 'circles');
 
-        layer.merge(newLayer).attr('d', line);
+        layer.merge(newLayer)
+            .transition()
+            .duration(600)
+            .ease(d3.easeLinear)
+            .attr('d', line);
 
         dots.merge(dotsLayer)
+            .transition()
+            .duration(600)
+            .ease(d3.easeLinear)
             .attr('cx', (d) => scales.count.x(d.dia))
             .attr('cy', (d) => scales.count.y(d.visitas))
             .attr('r', (d) => {
-                if (d.fecha === "2019-05-14") {
+                if (d.fecha === '2019-05-21') {
                     return 5;
                 } else {
                     return 0;
@@ -107,34 +114,43 @@ const line = () => {
         drawAxes(g);
     };
 
-    function update(mes) {
-        d3.csv(csvFile, (error, data) => {
-            datos = data;
+    function update(artist) {
+        d3.csv('csv/episodio-dos.csv', (error, data) => {
+            dataz = data;
 
-            let valueCity = d3.select('#select-city-artist').property('value');
+            console.log('funcion update')
 
-            datos = datos.filter((d) => String(d.name).match(revalueCity));
+            let artist = d3.select('#select-artist').property('value');
 
-            datos.forEach((d) => {
-                d.population = +d.population;
-                d.year = +d.year;
+            dataz = dataz.filter((d) => String(d.artista).match(artist));
+
+            dataz.forEach((d) => {
+                d.nombre = d.artista;
+                d.visitas = +d.visitas;
+                d.dia = parseTime(d.fecha);
+
+                setupScales();
             });
+
+            updateChart(dataz);
         });
     }
 
-    const menuMes = () => {
-        d3.csv(csvFile, (error, data) => {
+    const menuArtist = () => {
+        d3.csv('csv/episodio-dos.csv', (error, data) => {
             if (error) {
                 console.log(error);
             } else {
-                datos = data;
 
-                const nest = d3
-                    .nest()
-                    .key((d) => d.select)
-                    .entries(datos);
+                const nest = Array.from(
+                    d3.group(data, (d) => d.artista),
+                    ([key, value]) => ({
+                        key,
+                        value
+                    })
+                );
 
-                const selectCity = d3.select(`#select-city-${cities}`);
+                const selectCity = d3.select('#select-artist');
 
                 selectCity
                     .selectAll('option')
@@ -145,9 +161,9 @@ const line = () => {
                     .text((d) => d.key);
 
                 selectCity.on('change', function() {
-                    let mes = d3.select(this).property('value');
-
-                    update(mes);
+                    let artist = d3.select(this).property('value');
+                    console.log('select cambiando')
+                    update(artist);
                 });
             }
         });
@@ -158,17 +174,19 @@ const line = () => {
     };
 
     const loadData = () => {
-        d3.json('csv/test.json', (error, data) => {
+        d3.csv('csv/episodio-dos.csv', (error, data) => {
             if (error) {
                 console.log(error);
             } else {
-                dataz = data;
+                const artista = 'Amaral';
+                dataz = data.filter((d) => String(d.artista).match(artista));
                 dataz.forEach((d) => {
                     d.nombre = d.artista;
                     d.visitas = +d.visitas;
                     d.dia = parseTime(d.fecha);
                 });
-                console.log(dataz);
+
+                menuArtist();
                 setupElements();
                 setupScales();
                 updateChart(dataz);

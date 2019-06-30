@@ -416,57 +416,87 @@
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019052600",
+    "fecha": "2019-05-26",
     "visitas": 1581
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019052700",
+    "fecha": "2019-05-27",
     "visitas": 1342
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019052800",
+    "fecha": "2019-05-28",
     "visitas": 1188
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019052900",
+    "fecha": "2019-05-29",
     "visitas": 1087
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019053000",
+    "fecha": "2019-05-30",
     "visitas": 1152
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019053100",
+    "fecha": "2019-05-31",
     "visitas": 1022
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019060100",
+    "fecha": "2019-06-01",
     "visitas": 926
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019060200",
+    "fecha": "2019-06-02",
     "visitas": 1104
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019060300",
+    "fecha": "2019-06-03",
     "visitas": 1101
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019060400",
+    "fecha": "2019-06-04",
     "visitas": 1344
   },
   {
     "artista": "Bob_Dylan",
-    "fecha": "2019060500",
+    "fecha": "2019-06-05",
     "visitas": 1196
+  },
+  {
+    "artista": "Bob_Dylan",
+    "fecha": "2019-06-06",
+    "visitas": 1075
+  },
+  {
+    "artista": "Bob_Dylan",
+    "fecha": "2019-06-07",
+    "visitas": 1078
+  },
+  {
+    "artista": "Bob_Dylan",
+    "fecha": "2019-06-08",
+    "visitas": 1030
+  },
+  {
+    "artista": "Bob_Dylan",
+    "fecha": "2019-06-09",
+    "visitas": 1185
+  },
+  {
+    "artista": "Bob_Dylan",
+    "fecha": "2019-06-10",
+    "visitas": 1057
+  },
+  {
+    "artista": "Bob_Dylan",
+    "fecha": "2019-06-11",
+    "visitas": 1189
   }
 ]

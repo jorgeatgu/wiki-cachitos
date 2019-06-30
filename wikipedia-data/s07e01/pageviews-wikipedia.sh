@@ -19,7 +19,7 @@ for (( i=0; i<${#artist[@]}; ++i )); do
     # Obtenemos de la API las visitas por artistas
     # Nos quedamos solamente con el nombre del artista, las visitas y la fecha
     # Concatenamos las visitas de todos los dispositivos
-    curl -s "GET" "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/"${type[$j]}"/user/"${artist[$i]}"/daily/20190123/20190424" | jq '.items[] | {"artista": .article, "fecha": .timestamp, "visitas": .views}' >> json/"${artist[$i]}".json
+    curl -s "GET" "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/es.wikipedia/"${type[$j]}"/user/"${artist[$i]}"/daily/20190123/20190521" | jq '.items[] | {"artista": .article, "fecha": .timestamp, "visitas": .views}' >> json/"${artist[$i]}".json
 
     done
 
