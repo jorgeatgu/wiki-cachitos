@@ -115,7 +115,7 @@ const line = () => {
     };
 
     function update(artist) {
-        d3.csv('csv/episodio-dos.csv', (error, data) => {
+        d3.csv('csv/episodio-tres.csv', (error, data) => {
             dataz = data;
 
             console.log('funcion update')
@@ -137,7 +137,7 @@ const line = () => {
     }
 
     const menuArtist = () => {
-        d3.csv('csv/episodio-dos.csv', (error, data) => {
+        d3.csv('csv/episodio-tres.csv', (error, data) => {
             if (error) {
                 console.log(error);
             } else {
@@ -174,11 +174,11 @@ const line = () => {
     };
 
     const loadData = () => {
-        d3.csv('csv/episodio-dos.csv', (error, data) => {
+        d3.csv('csv/episodio-tres.csv', (error, data) => {
             if (error) {
                 console.log(error);
             } else {
-                const artista = 'Amaral';
+                const artista = 'Alaska y los Pegamoides';
                 dataz = data.filter((d) => String(d.artista).match(artista));
                 dataz.forEach((d) => {
                     d.nombre = d.artista;
