@@ -406,6 +406,7 @@ template {
     --bg: #EBD1CB;
     --element-chart: #9D2C5D;
     --shadow: 0 2px 4px 0 rgba(0, 0, 0, .31), 0 2px 4px 0 rgba(50, 50, 58, .2);
+
 }
 
 .header {
@@ -1035,6 +1036,32 @@ template {
     color: green;
 }
 
+:root {
+    --fondoproyectos: #0c1e44;
+    --project1bg: #FEE1C2;
+    --project1txt: #952747;
+    --project2bg: #354A57;
+    --project2txt: #a5cf80;
+    --project3bg: #EABAAB;
+    --project3txt: #36152f;
+    --project4bg: #798780;
+    --project4txt: #1a182a;
+    --project5bg: #995243;
+    --project5txt: #e5f9fb;
+    --project6bg: #A37E49;
+    --project6txt: #05183f;
+    --project7bg: #AAD7C7;
+    --project7txt: #145669;
+    --project8bg: #EABFB1;
+    --project8txt: #670509;
+    --project9bg: #fff6cb;
+    --project9txt: #0e2153;
+    --project11bg: #DF9245;
+    --project11txt: #231736;
+    --project12bg: #F4E467;
+    --project12txt: #111;
+}
+
 .proyectos {
     padding: 2rem 0;
     padding-top: 0;
@@ -1103,74 +1130,92 @@ template {
 }
 
 .proyecto-1 {
+    background-color: #FEE1C2;
     background-color: var(--project1bg);
 }
 
 .proyecto-1-text {
+    color: #952747;
     color: var(--project1txt);
 }
 
 .proyecto-2 {
+    background-color: #354A57;
     background-color: var(--project2bg);
 }
 
 .proyecto-2-text {
+    color: #a5cf80;
     color: var(--project2txt);
 }
 
 .proyecto-3 {
+    background-color: #EABAAB;
     background-color: var(--project3bg);
 }
 
 .proyecto-3-text {
+    color: #36152f;
     color: var(--project3txt);
 }
 
 .proyecto-4 {
+    background-color: #798780;
     background-color: var(--project4bg);
 }
 
 .proyecto-4-text {
+    color: #1a182a;
     color: var(--project4txt);
 }
 
 .proyecto-5 {
+    background-color: #995243;
     background-color: var(--project5bg);
 }
 
 .proyecto-5-text {
+    color: #e5f9fb;
     color: var(--project5txt);
 }
 
 .proyecto-6 {
+    background-color: #A37E49;
     background-color: var(--project6bg);
 }
 
 .proyecto-6-text {
+    color: #05183f;
     color: var(--project6txt);
 }
 
 .proyecto-7 {
+    background-color: #AAD7C7;
     background-color: var(--project7bg);
 }
 
 .proyecto-7-text {
+    color: #145669;
     color: var(--project7txt);
 }
 
 .proyecto-8 {
+    background-color: #EABFB1;
     background-color: var(--project8bg);
 }
 
 .proyecto-8-text {
+    color: #670509;
     color: var(--project8txt);
 }
 
 .proyecto-9 {
+    background-color: #fff6cb;
     background-color: var(--project9bg);
 }
 
 .proyecto-9-text {
+    color: #0e2153;
     color: var(--project9txt);
 }
 
@@ -1185,18 +1230,22 @@ template {
 }
 
 .proyecto-11 {
+    background-color: #DF9245;
     background-color: var(--project11bg);
 }
 
 .proyecto-11-text {
+    color: #231736;
     color: var(--project11txt);
 }
 
 .proyecto-12 {
+    background-color: #F4E467;
     background-color: var(--project12bg);
 }
 
 .proyecto-12-text {
+    color: #111;
     color: var(--project12txt);
 }
 
