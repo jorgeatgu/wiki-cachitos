@@ -9,6 +9,8 @@
 @import '_charts';
 @import '_slim-select';
 @import '_tooltip';
+@import '_proyectos';
+@import '_footer';
 
 body {
     margin: 0;
