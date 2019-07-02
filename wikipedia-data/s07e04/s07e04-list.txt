@@ -1,9 +1,9 @@
 7 Notas 7 Colores
 Alejandro Sanz
 Amparanoia
-Andrés Calamaro
-Andrés Suárez
 Andrés do Barro
+Andrés Suárez
+Ángel Stanich
 Antonio Orozco
 Bebe
 Bob Dylan
@@ -11,31 +11,23 @@ C. Tangana
 Camilo Sesto
 Carlos Cano
 Carmen Boza
-Chicho Sánchez Ferlosio
-Christina Rosenvinge
+Chenta Tsai
 Dani Martín
-El Niño de Elche
 Emilio José
 Enrique Bunbury
-Fernando Alfaro
 Francisco Nixon
 Frank T
 Ismael Serrano
 Iván Ferreiro
 Javier Krahe
 Javier Ruibal
-Javier Álvarez
-Joan Manuel Serrat
 Joaquín Sabina
 Josele Santiago
-José Luis Perales
-José Manuel Soto
 Kiko Veneno
-LP
 La Bien Querida
 La Excepción
 Lichis
-Luis Eduardo Aute
+LP
 Luis Ramiro
 Mala Rodríguez
 Mari Trini
@@ -63,6 +55,15 @@ Sr. Chinarro
 Tonino Carotone
 Tontxu
 ToteKing
-Violadores del Verso
+Andrés Calamaro
+Chicho Sánchez Ferlosio
+Christina Rosenvinge
+El Niño de Elche
+Fernando Alfaro
+Javier Álvarez
+Joan Manuel Serrat
+José Luis Perales
+José Manuel Soto
+Luis Eduardo Aute
 Víctor Manuel
-Ángel Stanich
+Violadores del Verso
