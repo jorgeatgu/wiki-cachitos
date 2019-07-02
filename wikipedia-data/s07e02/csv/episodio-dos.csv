@@ -1,5 +1,5 @@
-artista,fecha,visitas,promedio
-21 Japonesas,2019-02-21,14,8
+artista,fecha,visitas,diferencia
+21 Japonesas,2019-02-21,14,1887
 21 Japonesas,2019-02-22,5,
 21 Japonesas,2019-02-23,10,
 21 Japonesas,2019-02-24,4,
@@ -96,7 +96,7 @@ artista,fecha,visitas,promedio
 21 Japonesas,2019-05-26,13,
 21 Japonesas,2019-05-27,9,
 21 Japonesas,2019-05-28,4,
-Alejandro Sanz,2019-02-21,1700,2365
+Alejandro Sanz,2019-02-21,1700,-22
 Alejandro Sanz,2019-02-22,7886,
 Alejandro Sanz,2019-02-23,5383,
 Alejandro Sanz,2019-02-24,2831,
@@ -193,7 +193,7 @@ Alejandro Sanz,2019-05-25,1308,
 Alejandro Sanz,2019-05-26,1555,
 Alejandro Sanz,2019-05-27,1152,
 Alejandro Sanz,2019-05-28,1289,
-Amaral,2019-02-21,257,289
+Amaral,2019-02-21,257,30
 Amaral,2019-02-22,245,
 Amaral,2019-02-23,220,
 Amaral,2019-02-24,193,
@@ -290,7 +290,7 @@ Amaral,2019-05-25,258,
 Amaral,2019-05-26,238,
 Amaral,2019-05-27,219,
 Amaral,2019-05-28,207,
-Amistades Peligrosas,2019-02-21,207,222
+Amistades Peligrosas,2019-02-21,207,56
 Amistades Peligrosas,2019-02-22,180,
 Amistades Peligrosas,2019-02-23,186,
 Amistades Peligrosas,2019-02-24,224,
@@ -387,7 +387,7 @@ Amistades Peligrosas,2019-05-25,225,
 Amistades Peligrosas,2019-05-26,222,
 Amistades Peligrosas,2019-05-27,206,
 Amistades Peligrosas,2019-05-28,227,
-Ana Torroja,2019-02-21,786,1071
+Ana Torroja,2019-02-21,786,-44
 Ana Torroja,2019-02-22,1086,
 Ana Torroja,2019-02-23,642,
 Ana Torroja,2019-02-24,1977,
@@ -484,7 +484,7 @@ Ana Torroja,2019-05-25,608,
 Ana Torroja,2019-05-26,550,
 Ana Torroja,2019-05-27,506,
 Ana Torroja,2019-05-28,515,
-Celtas Cortos,2019-02-21,116,159
+Celtas Cortos,2019-02-21,116,54
 Celtas Cortos,2019-02-22,122,
 Celtas Cortos,2019-02-23,110,
 Celtas Cortos,2019-02-24,103,
@@ -581,7 +581,7 @@ Celtas Cortos,2019-05-25,168,
 Celtas Cortos,2019-05-26,71,
 Celtas Cortos,2019-05-27,94,
 Celtas Cortos,2019-05-28,92,
-Christina y Los Subterráneos,2019-02-21,50,68
+Christina y Los Subterráneos,2019-02-21,50,208
 Christina y Los Subterráneos,2019-02-22,70,
 Christina y Los Subterráneos,2019-02-23,55,
 Christina y Los Subterráneos,2019-02-24,74,
@@ -678,7 +678,7 @@ Christina y Los Subterráneos,2019-05-25,58,
 Christina y Los Subterráneos,2019-05-26,49,
 Christina y Los Subterráneos,2019-05-27,44,
 Christina y Los Subterráneos,2019-05-28,72,
-Ciudad Jardín,2019-02-21,11,7
+Ciudad Jardín,2019-02-21,11,828
 Ciudad Jardín,2019-02-22,2,
 Ciudad Jardín,2019-02-23,9,
 Ciudad Jardín,2019-02-24,5,
@@ -775,7 +775,7 @@ Ciudad Jardín,2019-05-25,10,
 Ciudad Jardín,2019-05-26,11,
 Ciudad Jardín,2019-05-27,13,
 Ciudad Jardín,2019-05-28,3,
-Cómplices,2019-02-21,87,81
+Cómplices,2019-02-21,87,97
 Cómplices,2019-02-22,70,
 Cómplices,2019-02-23,86,
 Cómplices,2019-02-24,79,
@@ -872,7 +872,7 @@ Cómplices,2019-05-25,83,
 Cómplices,2019-05-26,85,
 Cómplices,2019-05-27,51,
 Cómplices,2019-05-28,52,
-David Santisteban,2019-02-21,9,13
+David Santisteban,2019-02-21,9,1500
 David Santisteban,2019-02-22,17,
 David Santisteban,2019-02-23,18,
 David Santisteban,2019-02-24,13,
@@ -969,7 +969,7 @@ David Santisteban,2019-05-25,18,
 David Santisteban,2019-05-26,25,
 David Santisteban,2019-05-27,12,
 David Santisteban,2019-05-28,27,
-David Summers,2019-02-21,328,327
+David Summers,2019-02-21,328,-36
 David Summers,2019-02-22,282,
 David Summers,2019-02-23,309,
 David Summers,2019-02-24,307,
@@ -1066,7 +1066,7 @@ David Summers,2019-05-25,410,
 David Summers,2019-05-26,321,
 David Summers,2019-05-27,298,
 David Summers,2019-05-28,173,
-Diego Vasallo,2019-02-21,27,41
+Diego Vasallo,2019-02-21,27,256
 Diego Vasallo,2019-02-22,35,
 Diego Vasallo,2019-02-23,32,
 Diego Vasallo,2019-02-24,39,
@@ -1163,7 +1163,7 @@ Diego Vasallo,2019-05-25,46,
 Diego Vasallo,2019-05-26,40,
 Diego Vasallo,2019-05-27,40,
 Diego Vasallo,2019-05-28,52,
-Ella Baila Sola,2019-02-21,133,139
+Ella Baila Sola,2019-02-21,133,64
 Ella Baila Sola,2019-02-22,112,
 Ella Baila Sola,2019-02-23,112,
 Ella Baila Sola,2019-02-24,113,
@@ -1260,7 +1260,7 @@ Ella Baila Sola,2019-05-25,121,
 Ella Baila Sola,2019-05-26,122,
 Ella Baila Sola,2019-05-27,72,
 Ella Baila Sola,2019-05-28,474,
-Emilio Aragón,2019-02-21,1780,429
+Emilio Aragón,2019-02-21,1780,93
 Emilio Aragón,2019-02-22,486,
 Emilio Aragón,2019-02-23,246,
 Emilio Aragón,2019-02-24,295,
@@ -1357,7 +1357,7 @@ Emilio Aragón,2019-05-25,478,
 Emilio Aragón,2019-05-26,327,
 Emilio Aragón,2019-05-27,289,
 Emilio Aragón,2019-05-28,258,
-Enrique Iglesias,2019-02-21,1544,1375
+Enrique Iglesias,2019-02-21,1544,-14
 Enrique Iglesias,2019-02-22,3837,
 Enrique Iglesias,2019-02-23,1624,
 Enrique Iglesias,2019-02-24,1534,
@@ -1454,7 +1454,7 @@ Enrique Iglesias,2019-05-25,1142,
 Enrique Iglesias,2019-05-26,2292,
 Enrique Iglesias,2019-05-27,1367,
 Enrique Iglesias,2019-05-28,1434,
-Esclarecidos,2019-02-21,17,13
+Esclarecidos,2019-02-21,17,569
 Esclarecidos,2019-02-22,17,
 Esclarecidos,2019-02-23,8,
 Esclarecidos,2019-02-24,17,
@@ -1551,7 +1551,7 @@ Esclarecidos,2019-05-25,18,
 Esclarecidos,2019-05-26,11,
 Esclarecidos,2019-05-27,12,
 Esclarecidos,2019-05-28,12,
-Gabinete Caligari,2019-02-21,99,88
+Gabinete Caligari,2019-02-21,99,92
 Gabinete Caligari,2019-02-22,107,
 Gabinete Caligari,2019-02-23,142,
 Gabinete Caligari,2019-02-24,110,
@@ -1648,7 +1648,7 @@ Gabinete Caligari,2019-05-25,94,
 Gabinete Caligari,2019-05-26,95,
 Gabinete Caligari,2019-05-27,59,
 Gabinete Caligari,2019-05-28,111,
-Greta y los Garbo,2019-02-21,34,21
+Greta y los Garbo,2019-02-21,34,1500
 Greta y los Garbo,2019-02-22,25,
 Greta y los Garbo,2019-02-23,17,
 Greta y los Garbo,2019-02-24,34,
@@ -1745,7 +1745,7 @@ Greta y los Garbo,2019-05-25,25,
 Greta y los Garbo,2019-05-26,35,
 Greta y los Garbo,2019-05-27,21,
 Greta y los Garbo,2019-05-28,25,
-Jarabedepalo,2019-02-21,308,263
+Jarabedepalo,2019-02-21,308,9
 Jarabedepalo,2019-02-22,267,
 Jarabedepalo,2019-02-23,255,
 Jarabedepalo,2019-02-24,278,
@@ -1842,7 +1842,7 @@ Jarabedepalo,2019-05-25,257,
 Jarabedepalo,2019-05-26,231,
 Jarabedepalo,2019-05-27,226,
 Jarabedepalo,2019-05-28,208,
-Jesús Vázquez,2019-02-21,501,500
+Jesús Vázquez,2019-02-21,501,10
 Jesús Vázquez,2019-02-22,410,
 Jesús Vázquez,2019-02-23,294,
 Jesús Vázquez,2019-02-24,2385,
@@ -1939,7 +1939,7 @@ Jesús Vázquez,2019-05-25,298,
 Jesús Vázquez,2019-05-26,282,
 Jesús Vázquez,2019-05-27,270,
 Jesús Vázquez,2019-05-28,316,
-José Ángel Hevia,2019-02-21,155,52
+José Ángel Hevia,2019-02-21,155,400
 José Ángel Hevia,2019-02-22,82,
 José Ángel Hevia,2019-02-23,32,
 José Ángel Hevia,2019-02-24,36,
@@ -2036,7 +2036,7 @@ José Ángel Hevia,2019-05-25,34,
 José Ángel Hevia,2019-05-26,94,
 José Ángel Hevia,2019-05-27,34,
 José Ángel Hevia,2019-05-28,34,
-Ketama,2019-02-21,1466,125
+Ketama,2019-02-21,1466,-4
 Ketama,2019-02-22,574,
 Ketama,2019-02-23,258,
 Ketama,2019-02-24,179,
@@ -2133,7 +2133,7 @@ Ketama,2019-05-25,92,
 Ketama,2019-05-26,60,
 Ketama,2019-05-27,67,
 Ketama,2019-05-28,84,
-Kiko Veneno,2019-02-21,71,186
+Kiko Veneno,2019-02-21,71,109
 Kiko Veneno,2019-02-22,121,
 Kiko Veneno,2019-02-23,119,
 Kiko Veneno,2019-02-24,124,
@@ -2230,7 +2230,7 @@ Kiko Veneno,2019-05-25,148,
 Kiko Veneno,2019-05-26,102,
 Kiko Veneno,2019-05-27,87,
 Kiko Veneno,2019-05-28,371,
-La Guardia,2019-02-21,50,59
+La Guardia,2019-02-21,50,440
 La Guardia,2019-02-22,57,
 La Guardia,2019-02-23,42,
 La Guardia,2019-02-24,67,
@@ -2327,7 +2327,7 @@ La Guardia,2019-05-25,84,
 La Guardia,2019-05-26,60,
 La Guardia,2019-05-27,40,
 La Guardia,2019-05-28,38,
-La Oreja de Van Gogh,2019-02-21,713,746
+La Oreja de Van Gogh,2019-02-21,713,23
 La Oreja de Van Gogh,2019-02-22,733,
 La Oreja de Van Gogh,2019-02-23,723,
 La Oreja de Van Gogh,2019-02-24,832,
@@ -2424,7 +2424,7 @@ La Oreja de Van Gogh,2019-05-25,765,
 La Oreja de Van Gogh,2019-05-26,845,
 La Oreja de Van Gogh,2019-05-27,712,
 La Oreja de Van Gogh,2019-05-28,716,
-La trampa,2019-02-21,3,2
+La trampa,2019-02-21,3,0
 La trampa,2019-02-22,6,
 La trampa,2019-02-23,0,
 La trampa,2019-02-24,2,
@@ -2516,7 +2516,7 @@ La trampa,2019-05-25,1,
 La trampa,2019-05-26,3,
 La trampa,2019-05-27,3,
 La trampa,2019-05-28,4,
-Loquillo,2019-02-21,182,290
+Loquillo,2019-02-21,182,12
 Loquillo,2019-02-22,209,
 Loquillo,2019-02-23,217,
 Loquillo,2019-02-24,195,
@@ -2613,7 +2613,7 @@ Loquillo,2019-05-25,316,
 Loquillo,2019-05-26,249,
 Loquillo,2019-05-27,244,
 Loquillo,2019-05-28,412,
-Los Flechazos,2019-02-21,15,17
+Los Flechazos,2019-02-21,15,1000
 Los Flechazos,2019-02-22,15,
 Los Flechazos,2019-02-23,10,
 Los Flechazos,2019-02-24,17,
@@ -2710,7 +2710,7 @@ Los Flechazos,2019-05-25,29,
 Los Flechazos,2019-05-26,18,
 Los Flechazos,2019-05-27,18,
 Los Flechazos,2019-05-28,46,
-Los Inhumanos,2019-02-21,83,76
+Los Inhumanos,2019-02-21,83,198
 Los Inhumanos,2019-02-22,72,
 Los Inhumanos,2019-02-23,197,
 Los Inhumanos,2019-02-24,151,
@@ -2807,7 +2807,7 @@ Los Inhumanos,2019-05-25,93,
 Los Inhumanos,2019-05-26,82,
 Los Inhumanos,2019-05-27,50,
 Los Inhumanos,2019-05-28,60,
-Los Limones,2019-02-21,6,17
+Los Limones,2019-02-21,6,670
 Los Limones,2019-02-22,18,
 Los Limones,2019-02-23,9,
 Los Limones,2019-02-24,10,
@@ -2904,7 +2904,7 @@ Los Limones,2019-05-25,25,
 Los Limones,2019-05-26,12,
 Los Limones,2019-05-27,17,
 Los Limones,2019-05-28,17,
-Los Piratas,2019-02-21,69,94
+Los Piratas,2019-02-21,69,214
 Los Piratas,2019-02-22,74,
 Los Piratas,2019-02-23,63,
 Los Piratas,2019-02-24,69,
@@ -3001,7 +3001,7 @@ Los Piratas,2019-05-25,159,
 Los Piratas,2019-05-26,123,
 Los Piratas,2019-05-27,138,
 Los Piratas,2019-05-28,123,
-Los Romeos,2019-02-21,7,11
+Los Romeos,2019-02-21,7,1927
 Los Romeos,2019-02-22,10,
 Los Romeos,2019-02-23,12,
 Los Romeos,2019-02-24,12,
@@ -3098,7 +3098,7 @@ Los Romeos,2019-05-25,13,
 Los Romeos,2019-05-26,15,
 Los Romeos,2019-05-27,6,
 Los Romeos,2019-05-28,140,
-Los Ronaldos,2019-02-21,61,85
+Los Ronaldos,2019-02-21,61,28
 Los Ronaldos,2019-02-22,69,
 Los Ronaldos,2019-02-23,72,
 Los Ronaldos,2019-02-24,50,
@@ -3195,7 +3195,7 @@ Los Ronaldos,2019-05-25,90,
 Los Ronaldos,2019-05-26,57,
 Los Ronaldos,2019-05-27,52,
 Los Ronaldos,2019-05-28,78,
-Los Sencillos,2019-02-21,18,41
+Los Sencillos,2019-02-21,18,482
 Los Sencillos,2019-02-22,63,
 Los Sencillos,2019-02-23,22,
 Los Sencillos,2019-02-24,21,
@@ -3292,7 +3292,7 @@ Los Sencillos,2019-05-25,12,
 Los Sencillos,2019-05-26,11,
 Los Sencillos,2019-05-27,9,
 Los Sencillos,2019-05-28,4,
-Los Toreros Muertos,2019-02-21,123,138
+Los Toreros Muertos,2019-02-21,123,10
 Los Toreros Muertos,2019-02-22,98,
 Los Toreros Muertos,2019-02-23,132,
 Los Toreros Muertos,2019-02-24,120,
@@ -3389,7 +3389,7 @@ Los Toreros Muertos,2019-05-25,125,
 Los Toreros Muertos,2019-05-26,164,
 Los Toreros Muertos,2019-05-27,104,
 Los Toreros Muertos,2019-05-28,113,
-Los lunes que quedan,2019-02-21,23,18
+Los lunes que quedan,2019-02-21,23,533
 Los lunes que quedan,2019-02-22,28,
 Los lunes que quedan,2019-02-23,22,
 Los lunes que quedan,2019-02-24,21,
@@ -3486,7 +3486,7 @@ Los lunes que quedan,2019-05-25,15,
 Los lunes que quedan,2019-05-26,27,
 Los lunes que quedan,2019-05-27,14,
 Los lunes que quedan,2019-05-28,16,
-Mercedes Ferrer,2019-02-21,16,19
+Mercedes Ferrer,2019-02-21,16,1263
 Mercedes Ferrer,2019-02-22,47,
 Mercedes Ferrer,2019-02-23,19,
 Mercedes Ferrer,2019-02-24,19,
@@ -3583,7 +3583,7 @@ Mercedes Ferrer,2019-05-25,13,
 Mercedes Ferrer,2019-05-26,17,
 Mercedes Ferrer,2019-05-27,14,
 Mercedes Ferrer,2019-05-28,25,
-Mikel Erentxun,2019-02-21,113,189
+Mikel Erentxun,2019-02-21,113,66
 Mikel Erentxun,2019-02-22,160,
 Mikel Erentxun,2019-02-23,254,
 Mikel Erentxun,2019-02-24,173,
@@ -3680,7 +3680,7 @@ Mikel Erentxun,2019-05-25,370,
 Mikel Erentxun,2019-05-26,227,
 Mikel Erentxun,2019-05-27,171,
 Mikel Erentxun,2019-05-28,196,
-Modestia Aparte,2019-02-21,22,28
+Modestia Aparte,2019-02-21,22,253
 Modestia Aparte,2019-02-22,34,
 Modestia Aparte,2019-02-23,16,
 Modestia Aparte,2019-02-24,46,
@@ -3777,7 +3777,7 @@ Modestia Aparte,2019-05-25,41,
 Modestia Aparte,2019-05-26,19,
 Modestia Aparte,2019-05-27,30,
 Modestia Aparte,2019-05-28,31,
-Mónica Naranjo,2019-02-21,407,1758
+Mónica Naranjo,2019-02-21,407,-54
 Mónica Naranjo,2019-02-22,524,
 Mónica Naranjo,2019-02-23,6040,
 Mónica Naranjo,2019-02-24,14113,
@@ -3874,7 +3874,7 @@ Mónica Naranjo,2019-05-25,470,
 Mónica Naranjo,2019-05-26,436,
 Mónica Naranjo,2019-05-27,325,
 Mónica Naranjo,2019-05-28,409,
-Nacho Cano,2019-02-21,311,316
+Nacho Cano,2019-02-21,311,-10
 Nacho Cano,2019-02-22,261,
 Nacho Cano,2019-02-23,240,
 Nacho Cano,2019-02-24,352,
@@ -3971,7 +3971,7 @@ Nacho Cano,2019-05-25,200,
 Nacho Cano,2019-05-26,178,
 Nacho Cano,2019-05-27,178,
 Nacho Cano,2019-05-28,247,
-No me pises que llevo chanclas,2019-02-21,39,54
+No me pises que llevo chanclas,2019-02-21,39,255
 No me pises que llevo chanclas,2019-02-22,95,
 No me pises que llevo chanclas,2019-02-23,61,
 No me pises que llevo chanclas,2019-02-24,55,
@@ -4068,7 +4068,7 @@ No me pises que llevo chanclas,2019-05-25,50,
 No me pises que llevo chanclas,2019-05-26,51,
 No me pises que llevo chanclas,2019-05-27,37,
 No me pises que llevo chanclas,2019-05-28,32,
-OBK,2019-02-21,101,106
+OBK,2019-02-21,101,-2
 OBK,2019-02-22,141,
 OBK,2019-02-23,172,
 OBK,2019-02-24,156,
@@ -4165,7 +4165,7 @@ OBK,2019-05-25,199,
 OBK,2019-05-26,95,
 OBK,2019-05-27,56,
 OBK,2019-05-28,64,
-Objetivo Birmania,2019-02-21,86,128
+Objetivo Birmania,2019-02-21,86,682
 Objetivo Birmania,2019-02-22,79,
 Objetivo Birmania,2019-02-23,72,
 Objetivo Birmania,2019-02-24,135,
@@ -4262,7 +4262,7 @@ Objetivo Birmania,2019-05-25,103,
 Objetivo Birmania,2019-05-26,91,
 Objetivo Birmania,2019-05-27,73,
 Objetivo Birmania,2019-05-28,85,
-Olé Olé,2019-02-21,102,146
+Olé Olé,2019-02-21,102,13
 Olé Olé,2019-02-22,123,
 Olé Olé,2019-02-23,107,
 Olé Olé,2019-02-24,86,
@@ -4359,7 +4359,7 @@ Olé Olé,2019-05-25,288,
 Olé Olé,2019-05-26,269,
 Olé Olé,2019-05-27,125,
 Olé Olé,2019-05-28,137,
-Presuntos Implicados,2019-02-21,74,102
+Presuntos Implicados,2019-02-21,74,48
 Presuntos Implicados,2019-02-22,64,
 Presuntos Implicados,2019-02-23,48,
 Presuntos Implicados,2019-02-24,97,
@@ -4456,7 +4456,7 @@ Presuntos Implicados,2019-05-25,65,
 Presuntos Implicados,2019-05-26,64,
 Presuntos Implicados,2019-05-27,77,
 Presuntos Implicados,2019-05-28,103,
-Revólver,2019-02-21,35,62
+Revólver,2019-02-21,35,56
 Revólver,2019-02-22,46,
 Revólver,2019-02-23,66,
 Revólver,2019-02-24,51,
@@ -4553,7 +4553,7 @@ Revólver,2019-05-25,150,
 Revólver,2019-05-26,88,
 Revólver,2019-05-27,61,
 Revólver,2019-05-28,52,
-Rosana,2019-02-21,164,268
+Rosana,2019-02-21,164,8
 Rosana,2019-02-22,214,
 Rosana,2019-02-23,193,
 Rosana,2019-02-24,209,
@@ -4650,7 +4650,7 @@ Rosana,2019-05-25,271,
 Rosana,2019-05-26,212,
 Rosana,2019-05-27,945,
 Rosana,2019-05-28,1113,
-Rosario Flores,2019-02-21,491,456
+Rosario Flores,2019-02-21,491,19
 Rosario Flores,2019-02-22,342,
 Rosario Flores,2019-02-23,294,
 Rosario Flores,2019-02-24,311,
@@ -4747,7 +4747,7 @@ Rosario Flores,2019-05-25,451,
 Rosario Flores,2019-05-26,293,
 Rosario Flores,2019-05-27,495,
 Rosario Flores,2019-05-28,324,
-Santiago Auserón,2019-02-21,76,134
+Santiago Auserón,2019-02-21,76,133
 Santiago Auserón,2019-02-22,108,
 Santiago Auserón,2019-02-23,100,
 Santiago Auserón,2019-02-24,88,
@@ -4844,7 +4844,7 @@ Santiago Auserón,2019-05-25,189,
 Santiago Auserón,2019-05-26,139,
 Santiago Auserón,2019-05-27,94,
 Santiago Auserón,2019-05-28,596,
-Seguridad Social,2019-02-21,74,88
+Seguridad Social,2019-02-21,74,148
 Seguridad Social,2019-02-22,86,
 Seguridad Social,2019-02-23,100,
 Seguridad Social,2019-02-24,114,
@@ -4941,7 +4941,7 @@ Seguridad Social,2019-05-25,93,
 Seguridad Social,2019-05-26,84,
 Seguridad Social,2019-05-27,67,
 Seguridad Social,2019-05-28,56,
-Tahúres Zurdos,2019-02-21,21,22
+Tahúres Zurdos,2019-02-21,21,1381
 Tahúres Zurdos,2019-02-22,20,
 Tahúres Zurdos,2019-02-23,31,
 Tahúres Zurdos,2019-02-24,35,
@@ -5038,7 +5038,7 @@ Tahúres Zurdos,2019-05-25,24,
 Tahúres Zurdos,2019-05-26,25,
 Tahúres Zurdos,2019-05-27,16,
 Tahúres Zurdos,2019-05-28,146,
-Tam Tam Go!,2019-02-21,50,52
+Tam Tam Go!,2019-02-21,50,128
 Tam Tam Go!,2019-02-22,47,
 Tam Tam Go!,2019-02-23,44,
 Tam Tam Go!,2019-02-24,49,
@@ -5135,7 +5135,7 @@ Tam Tam Go!,2019-05-25,68,
 Tam Tam Go!,2019-05-26,52,
 Tam Tam Go!,2019-05-27,55,
 Tam Tam Go!,2019-05-28,60,
-Un Pingüino en mi Ascensor,2019-02-21,20,24
+Un Pingüino en mi Ascensor,2019-02-21,20,275
 Un Pingüino en mi Ascensor,2019-02-22,30,
 Un Pingüino en mi Ascensor,2019-02-23,19,
 Un Pingüino en mi Ascensor,2019-02-24,24,
@@ -5232,7 +5232,7 @@ Un Pingüino en mi Ascensor,2019-05-25,22,
 Un Pingüino en mi Ascensor,2019-05-26,19,
 Un Pingüino en mi Ascensor,2019-05-27,25,
 Un Pingüino en mi Ascensor,2019-05-28,27,
-Viceversa,2019-02-21,17,14
+Viceversa,2019-02-21,17,128
 Viceversa,2019-02-22,35,
 Viceversa,2019-02-23,33,
 Viceversa,2019-02-24,20,
@@ -5329,7 +5329,7 @@ Viceversa,2019-05-25,12,
 Viceversa,2019-05-26,8,
 Viceversa,2019-05-27,13,
 Viceversa,2019-05-28,18,
-Álex de la Nuez,2019-02-21,30,61
+Álex de la Nuez,2019-02-21,30,332
 Álex de la Nuez,2019-02-22,34,
 Álex de la Nuez,2019-02-23,35,
 Álex de la Nuez,2019-02-24,36,

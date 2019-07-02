@@ -1,5 +1,5 @@
-artista,fecha,visitas,promedio
-Bom Bom Chip,2019-03-11,18,47
+artista,fecha,visitas,diferencia
+Bom Bom Chip,2019-03-11,18,123
 Bom Bom Chip,2019-03-12,11,
 Bom Bom Chip,2019-03-13,25,
 Bom Bom Chip,2019-03-14,30,
@@ -99,7 +99,7 @@ Bom Bom Chip,2019-06-15,21,
 Bom Bom Chip,2019-06-16,23,
 Bom Bom Chip,2019-06-17,24,
 Bom Bom Chip,2019-06-18,47,
-Chantal Goya,2019-03-11,4,5
+Chantal Goya,2019-03-11,4,1400
 Chantal Goya,2019-03-12,1,
 Chantal Goya,2019-03-13,1,
 Chantal Goya,2019-03-14,5,
@@ -198,7 +198,7 @@ Chantal Goya,2019-06-15,4,
 Chantal Goya,2019-06-16,7,
 Chantal Goya,2019-06-17,4,
 Chantal Goya,2019-06-18,4,
-Enrique y Ana,2019-03-11,129,159
+Enrique y Ana,2019-03-11,129,489
 Enrique y Ana,2019-03-12,139,
 Enrique y Ana,2019-03-13,164,
 Enrique y Ana,2019-03-14,247,
@@ -298,7 +298,7 @@ Enrique y Ana,2019-06-15,132,
 Enrique y Ana,2019-06-16,155,
 Enrique y Ana,2019-06-17,133,
 Enrique y Ana,2019-06-18,234,
-Guido y Maurizio De Angelis,2019-03-11,2,7
+Guido y Maurizio De Angelis,2019-03-11,2,271
 Guido y Maurizio De Angelis,2019-03-12,5,
 Guido y Maurizio De Angelis,2019-03-13,6,
 Guido y Maurizio De Angelis,2019-03-14,10,
@@ -398,7 +398,7 @@ Guido y Maurizio De Angelis,2019-06-15,7,
 Guido y Maurizio De Angelis,2019-06-16,9,
 Guido y Maurizio De Angelis,2019-06-17,5,
 Guido y Maurizio De Angelis,2019-06-18,99,
-Joaquín Díaz González,2019-03-11,27,30
+Joaquín Díaz González,2019-03-11,27,36
 Joaquín Díaz González,2019-03-12,31,
 Joaquín Díaz González,2019-03-13,33,
 Joaquín Díaz González,2019-03-14,23,
@@ -498,7 +498,7 @@ Joaquín Díaz González,2019-06-15,38,
 Joaquín Díaz González,2019-06-16,44,
 Joaquín Díaz González,2019-06-17,30,
 Joaquín Díaz González,2019-06-18,37,
-José Luis Perales,2019-03-11,455,522
+José Luis Perales,2019-03-11,455,112
 José Luis Perales,2019-03-12,425,
 José Luis Perales,2019-03-13,484,
 José Luis Perales,2019-03-14,486,
@@ -598,7 +598,7 @@ José Luis Perales,2019-06-15,444,
 José Luis Perales,2019-06-16,537,
 José Luis Perales,2019-06-17,411,
 José Luis Perales,2019-06-18,455,
-La Pandilla,2019-03-11,26,34
+La Pandilla,2019-03-11,26,258
 La Pandilla,2019-03-12,36,
 La Pandilla,2019-03-13,30,
 La Pandilla,2019-03-14,27,
@@ -698,7 +698,7 @@ La Pandilla,2019-06-15,50,
 La Pandilla,2019-06-16,28,
 La Pandilla,2019-06-17,33,
 La Pandilla,2019-06-18,48,
-Los Lunnis,2019-03-11,53,75
+Los Lunnis,2019-03-11,53,56
 Los Lunnis,2019-03-12,57,
 Los Lunnis,2019-03-13,67,
 Los Lunnis,2019-03-14,86,
@@ -798,7 +798,7 @@ Los Lunnis,2019-06-15,66,
 Los Lunnis,2019-06-16,93,
 Los Lunnis,2019-06-17,82,
 Los Lunnis,2019-06-18,75,
-Los Payasos de la Tele,2019-03-11,655,244
+Los Payasos de la Tele,2019-03-11,655,101
 Los Payasos de la Tele,2019-03-12,641,
 Los Payasos de la Tele,2019-03-13,425,
 Los Payasos de la Tele,2019-03-14,338,
@@ -898,7 +898,7 @@ Los Payasos de la Tele,2019-06-15,264,
 Los Payasos de la Tele,2019-06-16,191,
 Los Payasos de la Tele,2019-06-17,205,
 Los Payasos de la Tele,2019-06-18,241,
-Luis Miguel,2019-03-11,8410,4.354
+Luis Miguel,2019-03-11,8410,83432
 Luis Miguel,2019-03-12,6353,
 Luis Miguel,2019-03-13,6436,
 Luis Miguel,2019-03-14,7886,
@@ -998,7 +998,7 @@ Luis Miguel,2019-06-15,2900,
 Luis Miguel,2019-06-16,3345,
 Luis Miguel,2019-06-17,3051,
 Luis Miguel,2019-06-18,2718,
-Marisol,2019-03-11,298,471
+Marisol,2019-03-11,298,-23
 Marisol,2019-03-12,378,
 Marisol,2019-03-13,640,
 Marisol,2019-03-14,423,
@@ -1098,7 +1098,7 @@ Marisol,2019-06-15,296,
 Marisol,2019-06-16,390,
 Marisol,2019-06-17,286,
 Marisol,2019-06-18,306,
-María Isabel López,2019-03-11,97,294
+María Isabel López,2019-03-11,97,4
 María Isabel López,2019-03-12,80,
 María Isabel López,2019-03-13,76,
 María Isabel López,2019-03-14,104,
@@ -1198,7 +1198,7 @@ María Isabel López,2019-06-15,443,
 María Isabel López,2019-06-16,429,
 María Isabel López,2019-06-17,351,
 María Isabel López,2019-06-18,421,
-María Jesús Grados Ventura,2019-03-11,21,180
+María Jesús Grados Ventura,2019-03-11,21,-34
 María Jesús Grados Ventura,2019-03-12,80,
 María Jesús Grados Ventura,2019-03-13,35,
 María Jesús Grados Ventura,2019-03-14,12985,
@@ -1298,7 +1298,7 @@ María Jesús Grados Ventura,2019-06-15,31,
 María Jesús Grados Ventura,2019-06-16,34,
 María Jesús Grados Ventura,2019-06-17,25,
 María Jesús Grados Ventura,2019-06-18,41,
-Mecano,2019-03-11,505,607
+Mecano,2019-03-11,505,-13
 Mecano,2019-03-12,451,
 Mecano,2019-03-13,491,
 Mecano,2019-03-14,522,
@@ -1398,7 +1398,7 @@ Mecano,2019-06-15,421,
 Mecano,2019-06-16,484,
 Mecano,2019-06-17,461,
 Mecano,2019-06-18,453,
-Melody,2019-03-11,623,525
+Melody,2019-03-11,623,86
 Melody,2019-03-12,466,
 Melody,2019-03-13,467,
 Melody,2019-03-14,526,
@@ -1498,7 +1498,7 @@ Melody,2019-06-15,433,
 Melody,2019-06-16,368,
 Melody,2019-06-17,373,
 Melody,2019-06-18,367,
-Menudo,2019-03-11,363,495
+Menudo,2019-03-11,363,-2
 Menudo,2019-03-12,420,
 Menudo,2019-03-13,482,
 Menudo,2019-03-14,548,
@@ -1598,7 +1598,7 @@ Menudo,2019-06-15,545,
 Menudo,2019-06-16,728,
 Menudo,2019-06-17,638,
 Menudo,2019-06-18,525,
-Palito Ortega,2019-03-11,416,797
+Palito Ortega,2019-03-11,416,47
 Palito Ortega,2019-03-12,634,
 Palito Ortega,2019-03-13,621,
 Palito Ortega,2019-03-14,529,
@@ -1698,7 +1698,7 @@ Palito Ortega,2019-06-15,496,
 Palito Ortega,2019-06-16,502,
 Palito Ortega,2019-06-17,482,
 Palito Ortega,2019-06-18,517,
-Parchís,2019-03-11,1428,442
+Parchís,2019-03-11,1428,136
 Parchís,2019-03-12,2494,
 Parchís,2019-03-13,2458,
 Parchís,2019-03-14,1726,
@@ -1798,7 +1798,7 @@ Parchís,2019-06-15,347,
 Parchís,2019-06-16,315,
 Parchís,2019-06-17,869,
 Parchís,2019-06-18,3906,
-Pedro Fernández,2019-03-11,553,630
+Pedro Fernández,2019-03-11,553,-32
 Pedro Fernández,2019-03-12,492,
 Pedro Fernández,2019-03-13,568,
 Pedro Fernández,2019-03-14,595,
@@ -1898,7 +1898,7 @@ Pedro Fernández,2019-06-15,540,
 Pedro Fernández,2019-06-16,759,
 Pedro Fernández,2019-06-17,649,
 Pedro Fernández,2019-06-18,514,
-Regaliz,2019-03-11,19,28
+Regaliz,2019-03-11,19,275
 Regaliz,2019-03-12,26,
 Regaliz,2019-03-13,27,
 Regaliz,2019-03-14,21,
@@ -1998,7 +1998,7 @@ Regaliz,2019-06-15,19,
 Regaliz,2019-06-16,18,
 Regaliz,2019-06-17,14,
 Regaliz,2019-06-18,85,
-Teresa Rabal,2019-03-11,282,208
+Teresa Rabal,2019-03-11,282,729
 Teresa Rabal,2019-03-12,207,
 Teresa Rabal,2019-03-13,211,
 Teresa Rabal,2019-03-14,172,
@@ -2098,7 +2098,7 @@ Teresa Rabal,2019-06-15,254,
 Teresa Rabal,2019-06-16,177,
 Teresa Rabal,2019-06-17,133,
 Teresa Rabal,2019-06-18,131,
-The Jackson 5,2019-03-11,515,337
+The Jackson 5,2019-03-11,515,-21
 The Jackson 5,2019-03-12,519,
 The Jackson 5,2019-03-13,500,
 The Jackson 5,2019-03-14,537,
@@ -2198,7 +2198,7 @@ The Jackson 5,2019-06-15,211,
 The Jackson 5,2019-06-16,268,
 The Jackson 5,2019-06-17,268,
 The Jackson 5,2019-06-18,250,
-Topo Gigio,2019-03-11,390,323
+Topo Gigio,2019-03-11,390,-4
 Topo Gigio,2019-03-12,373,
 Topo Gigio,2019-03-13,339,
 Topo Gigio,2019-03-14,334,
@@ -2298,7 +2298,7 @@ Topo Gigio,2019-06-15,303,
 Topo Gigio,2019-06-16,525,
 Topo Gigio,2019-06-17,387,
 Topo Gigio,2019-06-18,261,
-Torrebruno,2019-03-11,42,72
+Torrebruno,2019-03-11,42,793
 Torrebruno,2019-03-12,57,
 Torrebruno,2019-03-13,37,
 Torrebruno,2019-03-14,78,

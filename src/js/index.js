@@ -1,12 +1,13 @@
-const line = () => {
+const line = (csvFile, chapter, day) => {
     const margin = { top: 24, right: 24, bottom: 24, left: 48 };
     let width = 0;
     let height = 0;
-    const chart = d3.select('.line-artist');
+    const chart = d3.select(`.line-${chapter}`);
     const svg = chart.select('svg');
     const scales = {};
     let dataz;
     const parseTime = d3.timeParse('%Y-%m-%d');
+    let tooltipOver;
 
     const setupScales = () => {
         const countX = d3.scaleTime().domain(d3.extent(dataz, (d) => d.dia));
@@ -19,13 +20,13 @@ const line = () => {
     };
 
     const setupElements = () => {
-        const g = svg.select('.line-artist-container');
+        const g = svg.select(`.line-${chapter}-container`);
 
         g.append('g').attr('class', 'axis axis-x');
 
         g.append('g').attr('class', 'axis axis-y');
 
-        g.append('g').attr('class', 'line-artist-container-dos');
+        g.append('g').attr('class', `line-${chapter}-container-dos`);
     };
 
     const updateScales = (width, height) => {
@@ -52,6 +53,49 @@ const line = () => {
         g.select('.axis-y').call(axisY);
     };
 
+    const tooltips = (data) => {
+
+        chart.select('.tooltip').remove();
+
+        tooltipOver = chart
+            .append('div')
+            .attr('class', 'tooltip tooltip-cachitos');
+
+
+        const buildTooltip = (d) => {
+            if (dataz[0].diferencia > 0) {
+                tooltipOver
+                    .data(dataz)
+                    .html(
+                        (d) =>
+                            `
+                        <p class="tooltip-text">Las visitas aumentaron en un: <span class="tooltip-number">${d.diferencia}%</span></p>
+
+                        `
+                    )
+                    .transition()
+                    .duration(300);
+
+            } else {
+                tooltipOver
+                    .attr('class', 'tooltip tooltip-negative')
+                    .data(dataz)
+                    .html(
+                        (d) =>
+                            `
+                        <p class="tooltip-text">Las visitas descendieron en un: <span class="tooltip-number">${d.diferencia}%</span></p>
+
+                        `
+                    )
+                    .transition()
+                    .duration(300);
+            }
+        }
+
+        buildTooltip();
+
+            };
+
     const updateChart = (dataz) => {
         const w = chart.node().offsetWidth;
         const h = 600;
@@ -63,7 +107,7 @@ const line = () => {
 
         const translate = `translate(${margin.left},${margin.top})`;
 
-        const g = svg.select('.line-artist-container');
+        const g = svg.select(`.line-${chapter}-container`);
 
         g.attr('transform', translate);
 
@@ -74,7 +118,7 @@ const line = () => {
 
         updateScales(width, height);
 
-        const container = chart.select('.line-artist-container-dos');
+        const container = chart.select(`.line-${chapter}-container-dos`);
 
         const layer = container.selectAll('.line').data([dataz]);
 
@@ -91,7 +135,8 @@ const line = () => {
             .append('circle')
             .attr('class', 'circles');
 
-        layer.merge(newLayer)
+        layer
+            .merge(newLayer)
             .transition()
             .duration(600)
             .ease(d3.easeLinear)
@@ -104,7 +149,7 @@ const line = () => {
             .attr('cx', (d) => scales.count.x(d.dia))
             .attr('cy', (d) => scales.count.y(d.visitas))
             .attr('r', (d) => {
-                if (d.fecha === '2019-05-21') {
+                if (d.fecha === day) {
                     return 5;
                 } else {
                     return 0;
@@ -115,12 +160,10 @@ const line = () => {
     };
 
     function update(artist) {
-        d3.csv('csv/episodio-tres.csv', (error, data) => {
+        d3.csv(csvFile, (data) => {
             dataz = data;
 
-            console.log('funcion update')
-
-            let artist = d3.select('#select-artist').property('value');
+            let artist = d3.select(`#select-${chapter}`).property('value');
 
             dataz = dataz.filter((d) => String(d.artista).match(artist));
 
@@ -132,40 +175,36 @@ const line = () => {
                 setupScales();
             });
 
+            tooltips(dataz);
+
             updateChart(dataz);
         });
     }
 
     const menuArtist = () => {
-        d3.csv('csv/episodio-tres.csv', (error, data) => {
-            if (error) {
-                console.log(error);
-            } else {
+        d3.csv(csvFile, (data) => {
+            const nest = Array.from(
+                d3.group(data, (d) => d.artista),
+                ([key, value]) => ({
+                    key,
+                    value
+                })
+            );
 
-                const nest = Array.from(
-                    d3.group(data, (d) => d.artista),
-                    ([key, value]) => ({
-                        key,
-                        value
-                    })
-                );
+            const selectCity = d3.select(`#select-${chapter}`);
 
-                const selectCity = d3.select('#select-artist');
+            selectCity
+                .selectAll('option')
+                .data(nest)
+                .enter()
+                .append('option')
+                .attr('value', (d) => d.key)
+                .text((d) => d.key);
 
-                selectCity
-                    .selectAll('option')
-                    .data(nest)
-                    .enter()
-                    .append('option')
-                    .attr('value', (d) => d.key)
-                    .text((d) => d.key);
-
-                selectCity.on('change', function() {
-                    let artist = d3.select(this).property('value');
-                    console.log('select cambiando')
-                    update(artist);
-                });
-            }
+            selectCity.on('change', function() {
+                let artist = d3.select(this).property('value');
+                update(artist);
+            });
         });
     };
 
@@ -174,23 +213,22 @@ const line = () => {
     };
 
     const loadData = () => {
-        d3.csv('csv/episodio-tres.csv', (error, data) => {
-            if (error) {
-                console.log(error);
-            } else {
-                const artista = 'Alaska y los Pegamoides';
-                dataz = data.filter((d) => String(d.artista).match(artista));
-                dataz.forEach((d) => {
-                    d.nombre = d.artista;
-                    d.visitas = +d.visitas;
-                    d.dia = parseTime(d.fecha);
-                });
+        d3.csv(csvFile, (data) => {
+            const artista = data[0].artista;
+            dataz = data.filter((d) => String(d.artista).match(artista));
+            dataz.forEach((d) => {
+                d.nombre = d.artista;
+                d.visitas = +d.visitas;
+                d.dia = parseTime(d.fecha);
+            });
 
-                menuArtist();
-                setupElements();
-                setupScales();
-                updateChart(dataz);
-            }
+            console.log(dataz)
+
+            menuArtist();
+            setupElements();
+            setupScales();
+            tooltips(dataz);
+            updateChart(dataz);
         });
     };
 
@@ -199,9 +237,53 @@ const line = () => {
     loadData();
 };
 
-line();
+let prueba = ['csv/episodio-uno.csv', 'chapter-one', '2019-05-28'];
+
+line(prueba[0], prueba[1], prueba[2]);
+
+const cachitos = [
+    ['csv/episodio-uno.csv', 'chapter-one', '2019-04-23'],
+    ['csv/episodio-dos.csv', 'chapter-two', '2019-05-21'],
+    ['csv/episodio-tres.csv', 'chapter-three', '2019-05-28'],
+    ['csv/episodio-cuatro.csv', 'chapter-four', '2019-06-04'],
+    ['csv/episodio-cinco.csv', 'chapter-five', '2019-06-11'],
+    ['csv/episodio-seis.csv', 'chapter-six', '2019-06-18'],
+    ['csv/episodio-siete.csv', 'chapter-seven', '2019-06-25']
+];
+
+for (const args of cachitos) line(...args);
 
 new SlimSelect({
-    select: '#select-artist',
+    select: '#select-chapter-one',
+    searchPlaceholder: 'Selecciona una artista...'
+});
+
+new SlimSelect({
+    select: '#select-chapter-two',
+    searchPlaceholder: 'Selecciona una artista...'
+});
+
+new SlimSelect({
+    select: '#select-chapter-three',
+    searchPlaceholder: 'Selecciona una artista...'
+});
+
+new SlimSelect({
+    select: '#select-chapter-four',
+    searchPlaceholder: 'Selecciona una artista...'
+});
+
+new SlimSelect({
+    select: '#select-chapter-five',
+    searchPlaceholder: 'Selecciona una artista...'
+});
+
+new SlimSelect({
+    select: '#select-chapter-six',
+    searchPlaceholder: 'Selecciona una artista...'
+});
+
+new SlimSelect({
+    select: '#select-chapter-seven',
     searchPlaceholder: 'Selecciona una artista...'
 });

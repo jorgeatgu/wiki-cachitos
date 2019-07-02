@@ -1,5 +1,5 @@
-artista,fecha,visitas,promedio
-Aitana,2019-01-23,1292,1360
+artista,fecha,visitas,diferencia
+Aitana,2019-01-23,1292,23
 Aitana,2019-01-24,1796,
 Aitana,2019-01-25,1555,
 Aitana,2019-01-26,1436,
@@ -118,7 +118,7 @@ Aitana,2019-05-18,2231,
 Aitana,2019-05-19,2316,
 Aitana,2019-05-20,1548,
 Aitana,2019-05-21,1464,
-Alaska y Dinarama,2019-01-23,201,203
+Alaska y Dinarama,2019-01-23,201,0
 Alaska y Dinarama,2019-01-24,179,
 Alaska y Dinarama,2019-01-25,213,
 Alaska y Dinarama,2019-01-26,251,
@@ -237,7 +237,7 @@ Alaska y Dinarama,2019-05-18,179,
 Alaska y Dinarama,2019-05-19,201,
 Alaska y Dinarama,2019-05-20,148,
 Alaska y Dinarama,2019-05-21,150,
-Ana Belén,2019-01-23,278,461
+Ana Belén,2019-01-23,278,-22
 Ana Belén,2019-01-24,431,
 Ana Belén,2019-01-25,263,
 Ana Belén,2019-01-26,259,
@@ -356,7 +356,7 @@ Ana Belén,2019-05-18,363,
 Ana Belén,2019-05-19,393,
 Ana Belén,2019-05-20,286,
 Ana Belén,2019-05-21,371,
-Anita Ward,2019-01-23,4,11
+Anita Ward,2019-01-23,4,436
 Anita Ward,2019-01-24,8,
 Anita Ward,2019-01-25,19,
 Anita Ward,2019-01-26,15,
@@ -475,7 +475,7 @@ Anita Ward,2019-05-18,5,
 Anita Ward,2019-05-19,11,
 Anita Ward,2019-05-20,10,
 Anita Ward,2019-05-21,13,
-Astrud,2019-01-23,13,17
+Astrud,2019-01-23,13,635
 Astrud,2019-01-24,16,
 Astrud,2019-01-25,19,
 Astrud,2019-01-26,13,
@@ -594,7 +594,7 @@ Astrud,2019-05-18,10,
 Astrud,2019-05-19,17,
 Astrud,2019-05-20,14,
 Astrud,2019-05-21,44,
-Barry Ryan,2019-01-23,11,10
+Barry Ryan,2019-01-23,11,210
 Barry Ryan,2019-01-24,19,
 Barry Ryan,2019-01-25,9,
 Barry Ryan,2019-01-26,10,
@@ -713,7 +713,7 @@ Barry Ryan,2019-05-18,10,
 Barry Ryan,2019-05-19,12,
 Barry Ryan,2019-05-20,11,
 Barry Ryan,2019-05-21,6,
-Becky G,2019-01-23,5051,5290
+Becky G,2019-01-23,5051,-16
 Becky G,2019-01-24,4840,
 Becky G,2019-01-25,4466,
 Becky G,2019-01-26,4410,
@@ -832,7 +832,7 @@ Becky G,2019-05-18,3424,
 Becky G,2019-05-19,3594,
 Becky G,2019-05-20,3375,
 Becky G,2019-05-21,2898,
-Boney M.,2019-01-23,541,662
+Boney M.,2019-01-23,541,-9
 Boney M.,2019-01-24,505,
 Boney M.,2019-01-25,597,
 Boney M.,2019-01-26,698,
@@ -951,7 +951,7 @@ Boney M.,2019-05-18,1021,
 Boney M.,2019-05-19,1071,
 Boney M.,2019-05-20,661,
 Boney M.,2019-05-21,645,
-Buraka Som Sistema,2019-01-23,4,9
+Buraka Som Sistema,2019-01-23,4,222
 Buraka Som Sistema,2019-01-24,4,
 Buraka Som Sistema,2019-01-25,7,
 Buraka Som Sistema,2019-01-26,0,
@@ -1070,7 +1070,7 @@ Buraka Som Sistema,2019-05-18,7,
 Buraka Som Sistema,2019-05-19,11,
 Buraka Som Sistema,2019-05-20,8,
 Buraka Som Sistema,2019-05-21,7,
-Camilo Sesto,2019-01-23,1052,1536
+Camilo Sesto,2019-01-23,1052,-43
 Camilo Sesto,2019-01-24,872,
 Camilo Sesto,2019-01-25,947,
 Camilo Sesto,2019-01-26,1105,
@@ -1189,7 +1189,7 @@ Camilo Sesto,2019-05-18,1665,
 Camilo Sesto,2019-05-19,1356,
 Camilo Sesto,2019-05-20,818,
 Camilo Sesto,2019-05-21,870,
-Carlos Baute,2019-01-23,571,989
+Carlos Baute,2019-01-23,571,-70
 Carlos Baute,2019-01-24,1716,
 Carlos Baute,2019-01-25,3012,
 Carlos Baute,2019-01-26,1643,
@@ -1308,7 +1308,7 @@ Carlos Baute,2019-05-18,439,
 Carlos Baute,2019-05-19,378,
 Carlos Baute,2019-05-20,290,
 Carlos Baute,2019-05-21,769,
-Chayanne,2019-01-23,1152,1712
+Chayanne,2019-01-23,1152,-29
 Chayanne,2019-01-24,1212,
 Chayanne,2019-01-25,2120,
 Chayanne,2019-01-26,1906,
@@ -1427,7 +1427,7 @@ Chayanne,2019-05-18,1828,
 Chayanne,2019-05-19,1883,
 Chayanne,2019-05-20,1610,
 Chayanne,2019-05-21,1393,
-Cher,2019-01-23,1015,1835
+Cher,2019-01-23,1015,5
 Cher,2019-01-24,1055,
 Cher,2019-01-25,961,
 Cher,2019-01-26,1271,
@@ -1546,7 +1546,7 @@ Cher,2019-05-18,3515,
 Cher,2019-05-19,2799,
 Cher,2019-05-20,5054,
 Cher,2019-05-21,4120,
-Culture Club,2019-01-23,163,178
+Culture Club,2019-01-23,163,30
 Culture Club,2019-01-24,161,
 Culture Club,2019-01-25,193,
 Culture Club,2019-01-26,197,
@@ -1665,7 +1665,7 @@ Culture Club,2019-05-18,176,
 Culture Club,2019-05-19,189,
 Culture Club,2019-05-20,149,
 Culture Club,2019-05-21,143,
-Dani Martín,2019-01-23,594,526
+Dani Martín,2019-01-23,594,-15
 Dani Martín,2019-01-24,453,
 Dani Martín,2019-01-25,578,
 Dani Martín,2019-01-26,498,
@@ -1784,7 +1784,7 @@ Dani Martín,2019-05-18,538,
 Dani Martín,2019-05-19,559,
 Dani Martín,2019-05-20,500,
 Dani Martín,2019-05-21,457,
-Depeche Mode,2019-01-23,589,661
+Depeche Mode,2019-01-23,589,2
 Depeche Mode,2019-01-24,594,
 Depeche Mode,2019-01-25,623,
 Depeche Mode,2019-01-26,734,
@@ -1903,7 +1903,7 @@ Depeche Mode,2019-05-18,865,
 Depeche Mode,2019-05-19,881,
 Depeche Mode,2019-05-20,739,
 Depeche Mode,2019-05-21,701,
-Desireless,2019-01-23,52,53
+Desireless,2019-01-23,52,100
 Desireless,2019-01-24,53,
 Desireless,2019-01-25,73,
 Desireless,2019-01-26,58,
@@ -2022,7 +2022,7 @@ Desireless,2019-05-18,44,
 Desireless,2019-05-19,48,
 Desireless,2019-05-20,59,
 Desireless,2019-05-21,44,
-Double You,2019-01-23,17,17
+Double You,2019-01-23,17,-17
 Double You,2019-01-24,20,
 Double You,2019-01-25,13,
 Double You,2019-01-26,15,
@@ -2141,7 +2141,7 @@ Double You,2019-05-18,15,
 Double You,2019-05-19,14,
 Double You,2019-05-20,8,
 Double You,2019-05-21,8,
-Dúo Dinámico,2019-01-23,117,209
+Dúo Dinámico,2019-01-23,117,-8
 Dúo Dinámico,2019-01-24,100,
 Dúo Dinámico,2019-01-25,132,
 Dúo Dinámico,2019-01-26,109,
@@ -2260,7 +2260,7 @@ Dúo Dinámico,2019-05-18,169,
 Dúo Dinámico,2019-05-19,167,
 Dúo Dinámico,2019-05-20,162,
 Dúo Dinámico,2019-05-21,180,
-Eddy Grant,2019-01-23,14,33
+Eddy Grant,2019-01-23,14,300
 Eddy Grant,2019-01-24,24,
 Eddy Grant,2019-01-25,42,
 Eddy Grant,2019-01-26,37,
@@ -2379,7 +2379,7 @@ Eddy Grant,2019-05-18,30,
 Eddy Grant,2019-05-19,29,
 Eddy Grant,2019-05-20,40,
 Eddy Grant,2019-05-21,58,
-Elton John,2019-01-23,991,1464
+Elton John,2019-01-23,991,-37
 Elton John,2019-01-24,1160,
 Elton John,2019-01-25,949,
 Elton John,2019-01-26,1169,
@@ -2498,7 +2498,7 @@ Elton John,2019-05-18,3616,
 Elton John,2019-05-19,2955,
 Elton John,2019-05-20,2753,
 Elton John,2019-05-21,2569,
-Enigma!,2019-01-23,9,7
+Enigma!,2019-01-23,9,28
 Enigma!,2019-01-24,11,
 Enigma!,2019-01-25,5,
 Enigma!,2019-01-26,5,
@@ -2617,7 +2617,7 @@ Enigma!,2019-05-18,8,
 Enigma!,2019-05-19,12,
 Enigma!,2019-05-20,5,
 Enigma!,2019-05-21,9,
-Enrique Guzmán ,2019-01-23,3054,3303
+Enrique Guzmán ,2019-01-23,3054,-16
 Enrique Guzmán ,2019-01-24,3616,
 Enrique Guzmán ,2019-01-25,2962,
 Enrique Guzmán ,2019-01-26,2401,
@@ -2736,7 +2736,7 @@ Enrique Guzmán ,2019-05-18,1342,
 Enrique Guzmán ,2019-05-19,965,
 Enrique Guzmán ,2019-05-20,1434,
 Enrique Guzmán ,2019-05-21,1372,
-Estopa,2019-01-23,278,356
+Estopa,2019-01-23,278,-24
 Estopa,2019-01-24,421,
 Estopa,2019-01-25,417,
 Estopa,2019-01-26,471,
@@ -2855,7 +2855,7 @@ Estopa,2019-05-18,395,
 Estopa,2019-05-19,384,
 Estopa,2019-05-20,323,
 Estopa,2019-05-21,287,
-Europe,2019-01-23,282,321
+Europe,2019-01-23,282,64
 Europe,2019-01-24,272,
 Europe,2019-01-25,247,
 Europe,2019-01-26,320,
@@ -2974,7 +2974,7 @@ Europe,2019-05-18,379,
 Europe,2019-05-19,300,
 Europe,2019-05-20,257,
 Europe,2019-05-21,247,
-F. R. David,2019-01-23,52,47
+F. R. David,2019-01-23,52,157
 F. R. David,2019-01-24,39,
 F. R. David,2019-01-25,47,
 F. R. David,2019-01-26,43,
@@ -3093,7 +3093,7 @@ F. R. David,2019-05-18,44,
 F. R. David,2019-05-19,50,
 F. R. David,2019-05-20,43,
 F. R. David,2019-05-21,58,
-Gilbert Bécaud,2019-01-23,14,34
+Gilbert Bécaud,2019-01-23,14,82
 Gilbert Bécaud,2019-01-24,37,
 Gilbert Bécaud,2019-01-25,26,
 Gilbert Bécaud,2019-01-26,22,
@@ -3212,7 +3212,7 @@ Gilbert Bécaud,2019-05-18,41,
 Gilbert Bécaud,2019-05-19,26,
 Gilbert Bécaud,2019-05-20,36,
 Gilbert Bécaud,2019-05-21,25,
-Glenn Medeiros,2019-01-23,25,41
+Glenn Medeiros,2019-01-23,25,329
 Glenn Medeiros,2019-01-24,40,
 Glenn Medeiros,2019-01-25,42,
 Glenn Medeiros,2019-01-26,42,
@@ -3331,7 +3331,7 @@ Glenn Medeiros,2019-05-18,41,
 Glenn Medeiros,2019-05-19,27,
 Glenn Medeiros,2019-05-20,29,
 Glenn Medeiros,2019-05-21,25,
-Guru Josh,2019-01-23,26,37
+Guru Josh,2019-01-23,26,129
 Guru Josh,2019-01-24,34,
 Guru Josh,2019-01-25,41,
 Guru Josh,2019-01-26,45,
@@ -3450,7 +3450,7 @@ Guru Josh,2019-05-18,38,
 Guru Josh,2019-05-19,28,
 Guru Josh,2019-05-20,27,
 Guru Josh,2019-05-21,27,
-Imagination,2019-01-23,10,13
+Imagination,2019-01-23,10,100
 Imagination,2019-01-24,10,
 Imagination,2019-01-25,7,
 Imagination,2019-01-26,8,
@@ -3569,7 +3569,7 @@ Imagination,2019-05-18,16,
 Imagination,2019-05-19,12,
 Imagination,2019-05-20,12,
 Imagination,2019-05-21,15,
-Innocence,2019-01-23,34,38
+Innocence,2019-01-23,34,284
 Innocence,2019-01-24,67,
 Innocence,2019-01-25,31,
 Innocence,2019-01-26,29,
@@ -3688,7 +3688,7 @@ Innocence,2019-05-18,38,
 Innocence,2019-05-19,58,
 Innocence,2019-05-20,41,
 Innocence,2019-05-21,34,
-Julio Iglesias,2019-01-23,1740,2241
+Julio Iglesias,2019-01-23,1740,-30
 Julio Iglesias,2019-01-24,1675,
 Julio Iglesias,2019-01-25,1446,
 Julio Iglesias,2019-01-26,1630,
@@ -3807,7 +3807,7 @@ Julio Iglesias,2019-05-18,2607,
 Julio Iglesias,2019-05-19,3285,
 Julio Iglesias,2019-05-20,1884,
 Julio Iglesias,2019-05-21,1909,
-Kaoma,2019-01-23,72,72
+Kaoma,2019-01-23,72,47
 Kaoma,2019-01-24,58,
 Kaoma,2019-01-25,67,
 Kaoma,2019-01-26,77,
@@ -3926,7 +3926,7 @@ Kaoma,2019-05-18,65,
 Kaoma,2019-05-19,80,
 Kaoma,2019-05-20,54,
 Kaoma,2019-05-21,51,
-Karina,2019-01-23,261,564
+Karina,2019-01-23,261,-34
 Karina,2019-01-24,254,
 Karina,2019-01-25,209,
 Karina,2019-01-26,161,
@@ -4045,7 +4045,7 @@ Karina,2019-05-18,746,
 Karina,2019-05-19,483,
 Karina,2019-05-20,198,
 Karina,2019-05-21,146,
-La Oreja de Van Gogh,2019-01-23,863,742
+La Oreja de Van Gogh,2019-01-23,863,1
 La Oreja de Van Gogh,2019-01-24,899,
 La Oreja de Van Gogh,2019-01-25,822,
 La Oreja de Van Gogh,2019-01-26,789,
@@ -4164,7 +4164,7 @@ La Oreja de Van Gogh,2019-05-18,842,
 La Oreja de Van Gogh,2019-05-19,904,
 La Oreja de Van Gogh,2019-05-20,736,
 La Oreja de Van Gogh,2019-05-21,921,
-Les Surfs,2019-01-23,26,19
+Les Surfs,2019-01-23,26,436
 Les Surfs,2019-01-24,18,
 Les Surfs,2019-01-25,11,
 Les Surfs,2019-01-26,14,
@@ -4283,7 +4283,7 @@ Les Surfs,2019-05-18,25,
 Les Surfs,2019-05-19,20,
 Les Surfs,2019-05-20,21,
 Les Surfs,2019-05-21,22,
-Lionel Richie,2019-01-23,267,356
+Lionel Richie,2019-01-23,267,-4
 Lionel Richie,2019-01-24,267,
 Lionel Richie,2019-01-25,1312,
 Lionel Richie,2019-01-26,571,
@@ -4402,7 +4402,7 @@ Lionel Richie,2019-05-18,296,
 Lionel Richie,2019-05-19,345,
 Lionel Richie,2019-05-20,396,
 Lionel Richie,2019-05-21,216,
-Lolita,2019-01-23,354,495
+Lolita,2019-01-23,354,-47
 Lolita,2019-01-24,345,
 Lolita,2019-01-25,1684,
 Lolita,2019-01-26,542,
@@ -4521,7 +4521,7 @@ Lolita,2019-05-18,1940,
 Lolita,2019-05-19,674,
 Lolita,2019-05-20,535,
 Lolita,2019-05-21,562,
-Londonbeat,2019-01-23,23,23
+Londonbeat,2019-01-23,23,69
 Londonbeat,2019-01-24,17,
 Londonbeat,2019-01-25,31,
 Londonbeat,2019-01-26,18,
@@ -4640,7 +4640,7 @@ Londonbeat,2019-05-18,29,
 Londonbeat,2019-05-19,25,
 Londonbeat,2019-05-20,25,
 Londonbeat,2019-05-21,20,
-Los Bravos,2019-01-23,93,253
+Los Bravos,2019-01-23,93,-9
 Los Bravos,2019-01-24,68,
 Los Bravos,2019-01-25,92,
 Los Bravos,2019-01-26,67,
@@ -4759,7 +4759,7 @@ Los Bravos,2019-05-18,180,
 Los Bravos,2019-05-19,124,
 Los Bravos,2019-05-20,116,
 Los Bravos,2019-05-21,169,
-Los Diablos,2019-01-23,27,76
+Los Diablos,2019-01-23,27,44
 Los Diablos,2019-01-24,18,
 Los Diablos,2019-01-25,37,
 Los Diablos,2019-01-26,32,
@@ -4878,7 +4878,7 @@ Los Diablos,2019-05-18,99,
 Los Diablos,2019-05-19,128,
 Los Diablos,2019-05-20,33,
 Los Diablos,2019-05-21,43,
-Los Payos,2019-01-23,17,26
+Los Payos,2019-01-23,17,580
 Los Payos,2019-01-24,16,
 Los Payos,2019-01-25,26,
 Los Payos,2019-01-26,20,
@@ -4997,7 +4997,7 @@ Los Payos,2019-05-18,141,
 Los Payos,2019-05-19,22,
 Los Payos,2019-05-20,28,
 Los Payos,2019-05-21,28,
-Los Planetas,2019-01-23,99,124
+Los Planetas,2019-01-23,99,36
 Los Planetas,2019-01-24,102,
 Los Planetas,2019-01-25,94,
 Los Planetas,2019-01-26,77,
@@ -5116,7 +5116,7 @@ Los Planetas,2019-05-18,133,
 Los Planetas,2019-05-19,105,
 Los Planetas,2019-05-20,120,
 Los Planetas,2019-05-21,139,
-Lou Bega,2019-01-23,48,77
+Lou Bega,2019-01-23,48,38
 Lou Bega,2019-01-24,68,
 Lou Bega,2019-01-25,103,
 Lou Bega,2019-01-26,84,
@@ -5235,7 +5235,7 @@ Lou Bega,2019-05-18,116,
 Lou Bega,2019-05-19,69,
 Lou Bega,2019-05-20,69,
 Lou Bega,2019-05-21,73,
-Luis Aguilé,2019-01-23,97,124
+Luis Aguilé,2019-01-23,97,107
 Luis Aguilé,2019-01-24,107,
 Luis Aguilé,2019-01-25,87,
 Luis Aguilé,2019-01-26,133,
@@ -5354,7 +5354,7 @@ Luis Aguilé,2019-05-18,130,
 Luis Aguilé,2019-05-19,163,
 Luis Aguilé,2019-05-20,154,
 Luis Aguilé,2019-05-21,321,
-Luis Fonsi,2019-01-23,6022,2251
+Luis Fonsi,2019-01-23,6022,-53
 Luis Fonsi,2019-01-24,2789,
 Luis Fonsi,2019-01-25,2468,
 Luis Fonsi,2019-01-26,2250,
@@ -5473,7 +5473,7 @@ Luis Fonsi,2019-05-18,1138,
 Luis Fonsi,2019-05-19,1134,
 Luis Fonsi,2019-05-20,1021,
 Luis Fonsi,2019-05-21,895,
-Manolo Otero,2019-01-23,103,145
+Manolo Otero,2019-01-23,103,227
 Manolo Otero,2019-01-24,92,
 Manolo Otero,2019-01-25,107,
 Manolo Otero,2019-01-26,116,
@@ -5592,7 +5592,7 @@ Manolo Otero,2019-05-18,134,
 Manolo Otero,2019-05-19,145,
 Manolo Otero,2019-05-20,92,
 Manolo Otero,2019-05-21,118,
-Mecano,2019-01-23,579,618
+Mecano,2019-01-23,579,-22
 Mecano,2019-01-24,455,
 Mecano,2019-01-25,711,
 Mecano,2019-01-26,595,
@@ -5711,7 +5711,7 @@ Mecano,2019-05-18,536,
 Mecano,2019-05-19,585,
 Mecano,2019-05-20,510,
 Mecano,2019-05-21,528,
-Miguel Ángel Muñoz,2019-01-23,402,589
+Miguel Ángel Muñoz,2019-01-23,402,-22
 Miguel Ángel Muñoz,2019-01-24,3400,
 Miguel Ángel Muñoz,2019-01-25,1672,
 Miguel Ángel Muñoz,2019-01-26,1091,
@@ -5830,7 +5830,7 @@ Miguel Ángel Muñoz,2019-05-18,326,
 Miguel Ángel Muñoz,2019-05-19,362,
 Miguel Ángel Muñoz,2019-05-20,264,
 Miguel Ángel Muñoz,2019-05-21,264,
-Mike Oldfield,2019-01-23,211,210
+Mike Oldfield,2019-01-23,211,72
 Mike Oldfield,2019-01-24,210,
 Mike Oldfield,2019-01-25,184,
 Mike Oldfield,2019-01-26,158,
@@ -5949,7 +5949,7 @@ Mike Oldfield,2019-05-18,293,
 Mike Oldfield,2019-05-19,291,
 Mike Oldfield,2019-05-20,213,
 Mike Oldfield,2019-05-21,232,
-Natti Natasha,2019-01-23,1864,2131
+Natti Natasha,2019-01-23,1864,-28
 Natti Natasha,2019-01-24,1848,
 Natti Natasha,2019-01-25,1900,
 Natti Natasha,2019-01-26,2019,
@@ -6068,7 +6068,7 @@ Natti Natasha,2019-05-18,2710,
 Natti Natasha,2019-05-19,2834,
 Natti Natasha,2019-05-20,2343,
 Natti Natasha,2019-05-21,2027,
-Nino Bravo,2019-01-23,652,1037
+Nino Bravo,2019-01-23,652,91
 Nino Bravo,2019-01-24,588,
 Nino Bravo,2019-01-25,683,
 Nino Bravo,2019-01-26,873,
@@ -6187,7 +6187,7 @@ Nino Bravo,2019-05-18,1110,
 Nino Bravo,2019-05-19,1090,
 Nino Bravo,2019-05-20,773,
 Nino Bravo,2019-05-21,1321,
-Pablo Abraira,2019-01-23,64,107
+Pablo Abraira,2019-01-23,64,325
 Pablo Abraira,2019-01-24,62,
 Pablo Abraira,2019-01-25,54,
 Pablo Abraira,2019-01-26,47,
@@ -6306,7 +6306,7 @@ Pablo Abraira,2019-05-18,94,
 Pablo Abraira,2019-05-19,105,
 Pablo Abraira,2019-05-20,53,
 Pablo Abraira,2019-05-21,69,
-Patrick Hernández,2019-01-23,45,51
+Patrick Hernández,2019-01-23,45,241
 Patrick Hernández,2019-01-24,53,
 Patrick Hernández,2019-01-25,65,
 Patrick Hernández,2019-01-26,45,
@@ -6425,7 +6425,7 @@ Patrick Hernández,2019-05-18,66,
 Patrick Hernández,2019-05-19,54,
 Patrick Hernández,2019-05-20,31,
 Patrick Hernández,2019-05-21,41,
-Pic-nic,2019-01-23,11,16
+Pic-nic,2019-01-23,11,131
 Pic-nic,2019-01-24,17,
 Pic-nic,2019-01-25,28,
 Pic-nic,2019-01-26,10,
@@ -6544,7 +6544,7 @@ Pic-nic,2019-05-18,16,
 Pic-nic,2019-05-19,13,
 Pic-nic,2019-05-20,9,
 Pic-nic,2019-05-21,12,
-Pop-Tops,2019-01-23,34,23
+Pop-Tops,2019-01-23,34,152
 Pop-Tops,2019-01-24,23,
 Pop-Tops,2019-01-25,18,
 Pop-Tops,2019-01-26,27,
@@ -6663,7 +6663,7 @@ Pop-Tops,2019-05-18,14,
 Pop-Tops,2019-05-19,18,
 Pop-Tops,2019-05-20,12,
 Pop-Tops,2019-05-21,28,
-Raphael,2019-01-23,607,2357
+Raphael,2019-01-23,607,-68
 Raphael,2019-01-24,592,
 Raphael,2019-01-25,718,
 Raphael,2019-01-26,882,
@@ -6782,7 +6782,7 @@ Raphael,2019-05-18,2066,
 Raphael,2019-05-19,4918,
 Raphael,2019-05-20,1162,
 Raphael,2019-05-21,986,
-Raúl,2019-01-23,56,129
+Raúl,2019-01-23,56,96
 Raúl,2019-01-24,94,
 Raúl,2019-01-25,59,
 Raúl,2019-01-26,81,
@@ -6901,7 +6901,7 @@ Raúl,2019-05-18,488,
 Raúl,2019-05-19,696,
 Raúl,2019-05-20,72,
 Raúl,2019-05-21,47,
-Ricardo Cocciante,2019-01-23,1,1
+Ricardo Cocciante,2019-01-23,1,100
 Ricardo Cocciante,2019-01-24,1,
 Ricardo Cocciante,2019-01-26,1,
 Ricardo Cocciante,2019-01-27,1,
@@ -6999,7 +6999,7 @@ Ricardo Cocciante,2019-05-16,2,
 Ricardo Cocciante,2019-05-17,1,
 Ricardo Cocciante,2019-05-19,1,
 Ricardo Cocciante,2019-05-20,1,
-Richard Anthony,2019-01-23,7,11
+Richard Anthony,2019-01-23,7,181
 Richard Anthony,2019-01-24,9,
 Richard Anthony,2019-01-25,5,
 Richard Anthony,2019-01-26,14,
@@ -7118,7 +7118,7 @@ Richard Anthony,2019-05-18,10,
 Richard Anthony,2019-05-19,14,
 Richard Anthony,2019-05-20,4,
 Richard Anthony,2019-05-21,14,
-Roberto Carlos,2019-01-23,608,983
+Roberto Carlos,2019-01-23,608,-26
 Roberto Carlos,2019-01-24,598,
 Roberto Carlos,2019-01-25,668,
 Roberto Carlos,2019-01-26,827,
@@ -7237,7 +7237,7 @@ Roberto Carlos,2019-05-18,980,
 Roberto Carlos,2019-05-19,1176,
 Roberto Carlos,2019-05-20,893,
 Roberto Carlos,2019-05-21,2874,
-Roxette,2019-01-23,301,355
+Roxette,2019-01-23,301,74
 Roxette,2019-01-24,334,
 Roxette,2019-01-25,345,
 Roxette,2019-01-26,347,
@@ -7356,7 +7356,7 @@ Roxette,2019-05-18,364,
 Roxette,2019-05-19,426,
 Roxette,2019-05-20,320,
 Roxette,2019-05-21,286,
-Sandie Shaw,2019-01-23,16,19
+Sandie Shaw,2019-01-23,16,415
 Sandie Shaw,2019-01-24,11,
 Sandie Shaw,2019-01-25,15,
 Sandie Shaw,2019-01-26,12,
@@ -7475,7 +7475,7 @@ Sandie Shaw,2019-05-18,102,
 Sandie Shaw,2019-05-19,62,
 Sandie Shaw,2019-05-20,31,
 Sandie Shaw,2019-05-21,19,
-Sandro Giacobbe,2019-01-23,19,18
+Sandro Giacobbe,2019-01-23,19,661
 Sandro Giacobbe,2019-01-24,23,
 Sandro Giacobbe,2019-01-25,19,
 Sandro Giacobbe,2019-01-26,12,
@@ -7594,7 +7594,7 @@ Sandro Giacobbe,2019-05-18,32,
 Sandro Giacobbe,2019-05-19,31,
 Sandro Giacobbe,2019-05-20,17,
 Sandro Giacobbe,2019-05-21,11,
-Silver Convention,2019-01-23,32,19
+Silver Convention,2019-01-23,32,31
 Silver Convention,2019-01-24,17,
 Silver Convention,2019-01-25,20,
 Silver Convention,2019-01-26,19,
@@ -7713,7 +7713,7 @@ Silver Convention,2019-05-18,25,
 Silver Convention,2019-05-19,23,
 Silver Convention,2019-05-20,29,
 Silver Convention,2019-05-21,25,
-The Communards,2019-01-23,48,54
+The Communards,2019-01-23,48,129
 The Communards,2019-01-24,54,
 The Communards,2019-01-25,62,
 The Communards,2019-01-26,62,
@@ -7832,7 +7832,7 @@ The Communards,2019-05-18,79,
 The Communards,2019-05-19,51,
 The Communards,2019-05-20,61,
 The Communards,2019-05-21,62,
-Tom Jones,2019-01-23,538,393
+Tom Jones,2019-01-23,538,2
 Tom Jones,2019-01-24,350,
 Tom Jones,2019-01-25,372,
 Tom Jones,2019-01-26,418,
@@ -7951,7 +7951,7 @@ Tom Jones,2019-05-18,476,
 Tom Jones,2019-05-19,513,
 Tom Jones,2019-05-20,370,
 Tom Jones,2019-05-21,332,
-Umberto Tozzi,2019-01-23,49,74
+Umberto Tozzi,2019-01-23,49,121
 Umberto Tozzi,2019-01-24,64,
 Umberto Tozzi,2019-01-25,66,
 Umberto Tozzi,2019-01-26,62,
@@ -8070,7 +8070,7 @@ Umberto Tozzi,2019-05-18,111,
 Umberto Tozzi,2019-05-19,116,
 Umberto Tozzi,2019-05-20,80,
 Umberto Tozzi,2019-05-21,79,
-Violadores del Verso,2019-01-23,183,192
+Violadores del Verso,2019-01-23,183,28
 Violadores del Verso,2019-01-24,182,
 Violadores del Verso,2019-01-25,164,
 Violadores del Verso,2019-01-26,173,
@@ -8189,7 +8189,7 @@ Violadores del Verso,2019-05-18,172,
 Violadores del Verso,2019-05-19,153,
 Violadores del Verso,2019-05-20,118,
 Violadores del Verso,2019-05-21,190,
-Víctor Manuel,2019-01-23,186,294
+Víctor Manuel,2019-01-23,186,-9
 Víctor Manuel,2019-01-24,217,
 Víctor Manuel,2019-01-25,247,
 Víctor Manuel,2019-01-26,254,
@@ -8308,7 +8308,7 @@ Víctor Manuel,2019-05-18,281,
 Víctor Manuel,2019-05-19,263,
 Víctor Manuel,2019-05-20,195,
 Víctor Manuel,2019-05-21,205,
-Whigfield,2019-01-23,37,48
+Whigfield,2019-01-23,37,25
 Whigfield,2019-01-24,28,
 Whigfield,2019-01-25,45,
 Whigfield,2019-01-26,48,

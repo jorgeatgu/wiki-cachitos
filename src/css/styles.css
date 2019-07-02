@@ -8,6 +8,7 @@
 @import '_header';
 @import '_charts';
 @import '_slim-select';
+@import '_tooltip';
 
 body {
     margin: 0;

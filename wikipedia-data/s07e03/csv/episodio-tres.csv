@@ -1,5 +1,5 @@
-artista,fecha,visitas,promedio
-Alaska y los Pegamoides,2019-02-28,75,76
+artista,fecha,visitas,diferencia
+Alaska y los Pegamoides,2019-02-28,75,194
 Alaska y los Pegamoides,2019-03-01,82,
 Alaska y los Pegamoides,2019-03-02,64,
 Alaska y los Pegamoides,2019-03-03,94,
@@ -96,7 +96,7 @@ Alaska y los Pegamoides,2019-06-01,85,
 Alaska y los Pegamoides,2019-06-02,96,
 Alaska y los Pegamoides,2019-06-03,147,
 Alaska y los Pegamoides,2019-06-04,79,
-All Saints,2019-02-28,19,29
+All Saints,2019-02-28,19,451
 All Saints,2019-03-01,20,
 All Saints,2019-03-02,16,
 All Saints,2019-03-03,35,
@@ -193,7 +193,7 @@ All Saints,2019-06-01,37,
 All Saints,2019-06-02,29,
 All Saints,2019-06-03,29,
 All Saints,2019-06-04,22,
-Aretha Franklin,2019-02-28,422,487
+Aretha Franklin,2019-02-28,422,25
 Aretha Franklin,2019-03-01,397,
 Aretha Franklin,2019-03-02,371,
 Aretha Franklin,2019-03-03,452,
@@ -290,7 +290,7 @@ Aretha Franklin,2019-06-01,336,
 Aretha Franklin,2019-06-02,452,
 Aretha Franklin,2019-06-03,463,
 Aretha Franklin,2019-06-04,369,
-Bananarama,2019-02-28,50,72
+Bananarama,2019-02-28,50,108
 Bananarama,2019-03-01,77,
 Bananarama,2019-03-02,48,
 Bananarama,2019-03-03,44,
@@ -387,7 +387,7 @@ Bananarama,2019-06-01,69,
 Bananarama,2019-06-02,73,
 Bananarama,2019-06-03,63,
 Bananarama,2019-06-04,56,
-Barbara,2019-02-28,38,34
+Barbara,2019-02-28,38,32
 Barbara,2019-03-01,18,
 Barbara,2019-03-02,31,
 Barbara,2019-03-03,41,
@@ -484,7 +484,7 @@ Barbara,2019-06-01,24,
 Barbara,2019-06-02,32,
 Barbara,2019-06-03,30,
 Barbara,2019-06-04,25,
-Bebe,2019-02-28,226,269
+Bebe,2019-02-28,226,24
 Bebe,2019-03-01,246,
 Bebe,2019-03-02,238,
 Bebe,2019-03-03,246,
@@ -581,7 +581,7 @@ Bebe,2019-06-01,170,
 Bebe,2019-06-02,211,
 Bebe,2019-06-03,213,
 Bebe,2019-06-04,402,
-Beyoncé,2019-02-28,1379,1857
+Beyoncé,2019-02-28,1379,-34
 Beyoncé,2019-03-01,1424,
 Beyoncé,2019-03-02,1329,
 Beyoncé,2019-03-03,1892,
@@ -678,7 +678,7 @@ Beyoncé,2019-06-01,1397,
 Beyoncé,2019-06-02,1439,
 Beyoncé,2019-06-03,1443,
 Beyoncé,2019-06-04,1451,
-Björk,2019-02-28,423,643
+Björk,2019-02-28,423,138
 Björk,2019-03-01,422,
 Björk,2019-03-02,501,
 Björk,2019-03-03,488,
@@ -775,7 +775,7 @@ Björk,2019-06-01,917,
 Björk,2019-06-02,1064,
 Björk,2019-06-03,1212,
 Björk,2019-06-04,859,
-Blondie,2019-02-28,316,304
+Blondie,2019-02-28,316,23
 Blondie,2019-03-01,327,
 Blondie,2019-03-02,298,
 Blondie,2019-03-03,340,
@@ -872,7 +872,7 @@ Blondie,2019-06-01,248,
 Blondie,2019-06-02,472,
 Blondie,2019-06-03,281,
 Blondie,2019-06-04,277,
-Bonnie Raitt,2019-02-28,33,22
+Bonnie Raitt,2019-02-28,33,145
 Bonnie Raitt,2019-03-01,18,
 Bonnie Raitt,2019-03-02,16,
 Bonnie Raitt,2019-03-03,30,
@@ -969,7 +969,7 @@ Bonnie Raitt,2019-06-01,29,
 Bonnie Raitt,2019-06-02,27,
 Bonnie Raitt,2019-06-03,23,
 Bonnie Raitt,2019-06-04,16,
-Cecilia,2019-02-28,105,218
+Cecilia,2019-02-28,105,199
 Cecilia,2019-03-01,169,
 Cecilia,2019-03-02,141,
 Cecilia,2019-03-03,230,
@@ -1066,7 +1066,7 @@ Cecilia,2019-06-01,193,
 Cecilia,2019-06-02,218,
 Cecilia,2019-06-03,198,
 Cecilia,2019-06-04,1032,
-Celia Cruz,2019-02-28,939,810
+Celia Cruz,2019-02-28,939,-3
 Celia Cruz,2019-03-01,1249,
 Celia Cruz,2019-03-02,960,
 Celia Cruz,2019-03-03,1020,
@@ -1163,7 +1163,7 @@ Celia Cruz,2019-06-01,632,
 Celia Cruz,2019-06-02,797,
 Celia Cruz,2019-06-03,697,
 Celia Cruz,2019-06-04,595,
-Cyndi Lauper,2019-02-28,487,442
+Cyndi Lauper,2019-02-28,487,51
 Cyndi Lauper,2019-03-01,440,
 Cyndi Lauper,2019-03-02,448,
 Cyndi Lauper,2019-03-03,453,
@@ -1260,7 +1260,7 @@ Cyndi Lauper,2019-06-01,429,
 Cyndi Lauper,2019-06-02,422,
 Cyndi Lauper,2019-06-03,409,
 Cyndi Lauper,2019-06-04,332,
-Ella Baila Sola,2019-02-28,107,137
+Ella Baila Sola,2019-02-28,107,245
 Ella Baila Sola,2019-03-01,144,
 Ella Baila Sola,2019-03-02,180,
 Ella Baila Sola,2019-03-03,191,
@@ -1357,7 +1357,7 @@ Ella Baila Sola,2019-06-01,116,
 Ella Baila Sola,2019-06-02,111,
 Ella Baila Sola,2019-06-03,101,
 Ella Baila Sola,2019-06-04,76,
-Garbage,2019-02-28,74,129
+Garbage,2019-02-28,74,30
 Garbage,2019-03-01,112,
 Garbage,2019-03-02,110,
 Garbage,2019-03-03,100,
@@ -1454,7 +1454,7 @@ Garbage,2019-06-01,132,
 Garbage,2019-06-02,122,
 Garbage,2019-06-03,116,
 Garbage,2019-06-04,109,
-Grace Jones,2019-02-28,260,320
+Grace Jones,2019-02-28,260,192
 Grace Jones,2019-03-01,205,
 Grace Jones,2019-03-02,299,
 Grace Jones,2019-03-03,820,
@@ -1551,7 +1551,7 @@ Grace Jones,2019-06-01,283,
 Grace Jones,2019-06-02,471,
 Grace Jones,2019-06-03,318,
 Grace Jones,2019-06-04,230,
-Hinds,2019-02-28,55,55
+Hinds,2019-02-28,55,250
 Hinds,2019-03-01,43,
 Hinds,2019-03-02,46,
 Hinds,2019-03-03,40,
@@ -1648,7 +1648,7 @@ Hinds,2019-06-01,50,
 Hinds,2019-06-02,50,
 Hinds,2019-06-03,55,
 Hinds,2019-06-04,62,
-Joan Báez,2019-02-28,157,212
+Joan Báez,2019-02-28,157,280
 Joan Báez,2019-03-01,201,
 Joan Báez,2019-03-02,172,
 Joan Báez,2019-03-03,190,
@@ -1745,7 +1745,7 @@ Joan Báez,2019-06-01,201,
 Joan Báez,2019-06-02,226,
 Joan Báez,2019-06-03,229,
 Joan Báez,2019-06-04,214,
-Joan_Jett_&_the_Blackhearts,2019-02-28,9,22
+Joan_Jett_&_the_Blackhearts,2019-02-28,9,-50
 Joan_Jett_&_the_Blackhearts,2019-03-01,12,
 Joan_Jett_&_the_Blackhearts,2019-03-02,8,
 Joan_Jett_&_the_Blackhearts,2019-03-03,11,
@@ -1842,7 +1842,7 @@ Joan_Jett_&_the_Blackhearts,2019-06-01,13,
 Joan_Jett_&_the_Blackhearts,2019-06-02,13,
 Joan_Jett_&_the_Blackhearts,2019-06-03,8,
 Joan_Jett_&_the_Blackhearts,2019-06-04,16,
-Kate Bush,2019-02-28,72,78
+Kate Bush,2019-02-28,72,20
 Kate Bush,2019-03-01,91,
 Kate Bush,2019-03-02,77,
 Kate Bush,2019-03-03,78,
@@ -1939,7 +1939,7 @@ Kate Bush,2019-06-01,70,
 Kate Bush,2019-06-02,75,
 Kate Bush,2019-06-03,58,
 Kate Bush,2019-06-04,73,
-La Paquera de Jerez,2019-02-28,37,34
+La Paquera de Jerez,2019-02-28,37,255
 La Paquera de Jerez,2019-03-01,30,
 La Paquera de Jerez,2019-03-02,32,
 La Paquera de Jerez,2019-03-03,58,
@@ -2036,7 +2036,7 @@ La Paquera de Jerez,2019-06-01,32,
 La Paquera de Jerez,2019-06-02,21,
 La Paquera de Jerez,2019-06-03,24,
 La Paquera de Jerez,2019-06-04,26,
-Las Grecas,2019-02-28,80,187
+Las Grecas,2019-02-28,80,121
 Las Grecas,2019-03-01,72,
 Las Grecas,2019-03-02,68,
 Las Grecas,2019-03-03,67,
@@ -2133,7 +2133,7 @@ Las Grecas,2019-06-01,125,
 Las Grecas,2019-06-02,101,
 Las Grecas,2019-06-03,91,
 Las Grecas,2019-06-04,109,
-Las Migas,2019-02-28,23,50
+Las Migas,2019-02-28,23,802
 Las Migas,2019-03-01,15,
 Las Migas,2019-03-02,120,
 Las Migas,2019-03-03,60,
@@ -2230,7 +2230,7 @@ Las Migas,2019-06-01,33,
 Las Migas,2019-06-02,40,
 Las Migas,2019-06-03,36,
 Las Migas,2019-06-04,42,
-Los Romeos,2019-02-28,6,15
+Los Romeos,2019-02-28,6,833
 Los Romeos,2019-03-01,7,
 Los Romeos,2019-03-02,9,
 Los Romeos,2019-03-03,12,
@@ -2327,7 +2327,7 @@ Los Romeos,2019-06-01,13,
 Los Romeos,2019-06-02,15,
 Los Romeos,2019-06-03,8,
 Los Romeos,2019-06-04,241,
-Mari Trini,2019-02-28,191,273
+Mari Trini,2019-02-28,191,442
 Mari Trini,2019-03-01,189,
 Mari Trini,2019-03-02,204,
 Mari Trini,2019-03-03,216,
@@ -2424,7 +2424,7 @@ Mari Trini,2019-06-01,319,
 Mari Trini,2019-06-02,350,
 Mari Trini,2019-06-03,223,
 Mari Trini,2019-06-04,771,
-María Jiménez,2019-02-28,122,1923
+María Jiménez,2019-02-28,122,-69
 María Jiménez,2019-03-01,72,
 María Jiménez,2019-03-02,117,
 María Jiménez,2019-03-03,101,
@@ -2521,7 +2521,7 @@ María Jiménez,2019-06-01,608,
 María Jiménez,2019-06-02,494,
 María Jiménez,2019-06-03,305,
 María Jiménez,2019-06-04,368,
-Massiel,2019-02-28,143,363
+Massiel,2019-02-28,143,-20
 Massiel,2019-03-01,183,
 Massiel,2019-03-02,158,
 Massiel,2019-03-03,151,
@@ -2618,7 +2618,7 @@ Massiel,2019-06-01,113,
 Massiel,2019-06-02,137,
 Massiel,2019-06-03,124,
 Massiel,2019-06-04,124,
-Mónica Naranjo,2019-02-28,49052,1512
+Mónica Naranjo,2019-02-28,49052,-72
 Mónica Naranjo,2019-03-01,9442,
 Mónica Naranjo,2019-03-02,4041,
 Mónica Naranjo,2019-03-03,2463,
@@ -2715,7 +2715,7 @@ Mónica Naranjo,2019-06-01,395,
 Mónica Naranjo,2019-06-02,393,
 Mónica Naranjo,2019-06-03,397,
 Mónica Naranjo,2019-06-04,455,
-Nina Simone,2019-02-28,370,403
+Nina Simone,2019-02-28,370,-7
 Nina Simone,2019-03-01,409,
 Nina Simone,2019-03-02,369,
 Nina Simone,2019-03-03,427,
@@ -2812,7 +2812,7 @@ Nina Simone,2019-06-01,334,
 Nina Simone,2019-06-02,343,
 Nina Simone,2019-06-03,335,
 Nina Simone,2019-06-04,272,
-Nosoträsh,2019-02-28,8,10
+Nosoträsh,2019-02-28,8,360
 Nosoträsh,2019-03-01,9,
 Nosoträsh,2019-03-02,6,
 Nosoträsh,2019-03-03,8,
@@ -2909,7 +2909,7 @@ Nosoträsh,2019-06-01,6,
 Nosoträsh,2019-06-02,8,
 Nosoträsh,2019-06-03,13,
 Nosoträsh,2019-06-04,12,
-Olga Guillot,2019-02-28,60,44
+Olga Guillot,2019-02-28,60,100
 Olga Guillot,2019-03-01,61,
 Olga Guillot,2019-03-02,48,
 Olga Guillot,2019-03-03,63,
@@ -3006,7 +3006,7 @@ Olga Guillot,2019-06-01,38,
 Olga Guillot,2019-06-02,62,
 Olga Guillot,2019-06-03,41,
 Olga Guillot,2019-06-04,55,
-Olé Olé,2019-02-28,98,145
+Olé Olé,2019-02-28,98,-5
 Olé Olé,2019-03-01,596,
 Olé Olé,2019-03-02,139,
 Olé Olé,2019-03-03,99,
@@ -3103,7 +3103,7 @@ Olé Olé,2019-06-01,81,
 Olé Olé,2019-06-02,76,
 Olé Olé,2019-06-03,81,
 Olé Olé,2019-06-04,83,
-PJ Harvey,2019-02-28,87,96
+PJ Harvey,2019-02-28,87,171
 PJ Harvey,2019-03-01,93,
 PJ Harvey,2019-03-02,71,
 PJ Harvey,2019-03-03,87,
@@ -3200,7 +3200,7 @@ PJ Harvey,2019-06-01,100,
 PJ Harvey,2019-06-02,88,
 PJ Harvey,2019-06-03,98,
 PJ Harvey,2019-06-04,92,
-Papá Levante,2019-02-28,24,27
+Papá Levante,2019-02-28,24,588
 Papá Levante,2019-03-01,29,
 Papá Levante,2019-03-02,32,
 Papá Levante,2019-03-03,30,
@@ -3297,7 +3297,7 @@ Papá Levante,2019-06-01,18,
 Papá Levante,2019-06-02,32,
 Papá Levante,2019-06-03,21,
 Papá Levante,2019-06-04,32,
-Paquita la del Barrio,2019-02-28,307,429
+Paquita la del Barrio,2019-02-28,307,1
 Paquita la del Barrio,2019-03-01,441,
 Paquita la del Barrio,2019-03-02,346,
 Paquita la del Barrio,2019-03-03,2111,
@@ -3394,7 +3394,7 @@ Paquita la del Barrio,2019-06-01,415,
 Paquita la del Barrio,2019-06-02,444,
 Paquita la del Barrio,2019-06-03,430,
 Paquita la del Barrio,2019-06-04,487,
-Pasión Vega,2019-02-28,89,135
+Pasión Vega,2019-02-28,89,-25
 Pasión Vega,2019-03-01,103,
 Pasión Vega,2019-03-02,362,
 Pasión Vega,2019-03-03,293,
@@ -3491,7 +3491,7 @@ Pasión Vega,2019-06-01,157,
 Pasión Vega,2019-06-02,99,
 Pasión Vega,2019-06-03,59,
 Pasión Vega,2019-06-04,59,
-Patti Smith,2019-02-28,220,231
+Patti Smith,2019-02-28,220,28
 Patti Smith,2019-03-01,243,
 Patti Smith,2019-03-02,179,
 Patti Smith,2019-03-03,262,
@@ -3588,7 +3588,7 @@ Patti Smith,2019-06-01,211,
 Patti Smith,2019-06-02,217,
 Patti Smith,2019-06-03,213,
 Patti Smith,2019-06-04,213,
-Pic-nic,2019-02-28,8,17
+Pic-nic,2019-02-28,8,94
 Pic-nic,2019-03-01,11,
 Pic-nic,2019-03-02,13,
 Pic-nic,2019-03-03,20,
@@ -3685,7 +3685,7 @@ Pic-nic,2019-06-01,13,
 Pic-nic,2019-06-02,22,
 Pic-nic,2019-06-03,19,
 Pic-nic,2019-06-04,13,
-Pimpinela,2019-02-28,467,511
+Pimpinela,2019-02-28,467,4
 Pimpinela,2019-03-01,376,
 Pimpinela,2019-03-02,449,
 Pimpinela,2019-03-03,580,
@@ -3782,7 +3782,7 @@ Pimpinela,2019-06-01,537,
 Pimpinela,2019-06-02,585,
 Pimpinela,2019-06-03,487,
 Pimpinela,2019-06-04,447,
-Rocío Jurado,2019-02-28,655,606
+Rocío Jurado,2019-02-28,655,3
 Rocío Jurado,2019-03-01,436,
 Rocío Jurado,2019-03-02,401,
 Rocío Jurado,2019-03-03,573,
@@ -3879,7 +3879,7 @@ Rocío Jurado,2019-06-01,4288,
 Rocío Jurado,2019-06-02,1367,
 Rocío Jurado,2019-06-03,835,
 Rocío Jurado,2019-06-04,759,
-Rosalía Vila,2019-02-28,1997,6714
+Rosalía Vila,2019-02-28,1997,-1
 Rosalía Vila,2019-03-01,2185,
 Rosalía Vila,2019-03-02,2058,
 Rosalía Vila,2019-03-03,2207,
@@ -3976,7 +3976,7 @@ Rosalía Vila,2019-06-01,10482,
 Rosalía Vila,2019-06-02,16004,
 Rosalía Vila,2019-06-03,10501,
 Rosalía Vila,2019-06-04,7642,
-Salt-N-Pepa,2019-02-28,21,20
+Salt-N-Pepa,2019-02-28,21,55
 Salt-N-Pepa,2019-03-01,22,
 Salt-N-Pepa,2019-03-02,17,
 Salt-N-Pepa,2019-03-03,13,
@@ -4073,7 +4073,7 @@ Salt-N-Pepa,2019-06-01,20,
 Salt-N-Pepa,2019-06-02,28,
 Salt-N-Pepa,2019-06-03,30,
 Salt-N-Pepa,2019-06-04,29,
-Siouxsie And The Banshees,2019-02-28,83,82
+Siouxsie And The Banshees,2019-02-28,83,145
 Siouxsie And The Banshees,2019-03-01,85,
 Siouxsie And The Banshees,2019-03-02,88,
 Siouxsie And The Banshees,2019-03-03,76,
@@ -4170,7 +4170,7 @@ Siouxsie And The Banshees,2019-06-01,89,
 Siouxsie And The Banshees,2019-06-02,62,
 Siouxsie And The Banshees,2019-06-03,75,
 Siouxsie And The Banshees,2019-06-04,80,
-Spice Girls,2019-02-28,1468,821
+Spice Girls,2019-02-28,1468,49
 Spice Girls,2019-03-01,2897,
 Spice Girls,2019-03-02,813,
 Spice Girls,2019-03-03,860,
@@ -4267,7 +4267,7 @@ Spice Girls,2019-06-01,1023,
 Spice Girls,2019-06-02,945,
 Spice Girls,2019-06-03,737,
 Spice Girls,2019-06-04,705,
-Suzi Quatro,2019-02-28,91,124
+Suzi Quatro,2019-02-28,91,59
 Suzi Quatro,2019-03-01,82,
 Suzi Quatro,2019-03-02,135,
 Suzi Quatro,2019-03-03,116,
@@ -4364,7 +4364,7 @@ Suzi Quatro,2019-06-01,158,
 Suzi Quatro,2019-06-02,189,
 Suzi Quatro,2019-06-03,641,
 Suzi Quatro,2019-06-04,238,
-Tahúres Zurdos,2019-02-28,17,24
+Tahúres Zurdos,2019-02-28,17,508
 Tahúres Zurdos,2019-03-01,16,
 Tahúres Zurdos,2019-03-02,17,
 Tahúres Zurdos,2019-03-03,16,
@@ -4461,7 +4461,7 @@ Tahúres Zurdos,2019-06-01,26,
 Tahúres Zurdos,2019-06-02,24,
 Tahúres Zurdos,2019-06-03,17,
 Tahúres Zurdos,2019-06-04,6,
-Teresa Rabal,2019-02-28,64,144
+Teresa Rabal,2019-02-28,64,159
 Teresa Rabal,2019-03-01,98,
 Teresa Rabal,2019-03-02,110,
 Teresa Rabal,2019-03-03,112,
@@ -4558,7 +4558,7 @@ Teresa Rabal,2019-06-01,168,
 Teresa Rabal,2019-06-02,128,
 Teresa Rabal,2019-06-03,76,
 Teresa Rabal,2019-06-04,200,
-Texas,2019-02-28,45,42
+Texas,2019-02-28,45,376
 Texas,2019-03-01,58,
 Texas,2019-03-02,47,
 Texas,2019-03-03,42,
@@ -4655,7 +4655,7 @@ Texas,2019-06-01,47,
 Texas,2019-06-02,66,
 Texas,2019-06-03,48,
 Texas,2019-06-04,47,
-The Bangles,2019-02-28,214,228
+The Bangles,2019-02-28,214,159
 The Bangles,2019-03-01,197,
 The Bangles,2019-03-02,201,
 The Bangles,2019-03-03,235,
@@ -4752,7 +4752,7 @@ The Bangles,2019-06-01,257,
 The Bangles,2019-06-02,272,
 The Bangles,2019-06-03,237,
 The Bangles,2019-06-04,230,
-The Cranberries,2019-02-28,474,552
+The Cranberries,2019-02-28,474,24
 The Cranberries,2019-03-01,539,
 The Cranberries,2019-03-02,502,
 The Cranberries,2019-03-03,553,
@@ -4849,7 +4849,7 @@ The Cranberries,2019-06-01,561,
 The Cranberries,2019-06-02,654,
 The Cranberries,2019-06-03,474,
 The Cranberries,2019-06-04,516,
-The_Go-Go's,2019-02-28,24,34
+The_Go-Go's,2019-02-28,24,41
 The_Go-Go's,2019-03-01,26,
 The_Go-Go's,2019-03-02,25,
 The_Go-Go's,2019-03-03,22,
@@ -4946,7 +4946,7 @@ The_Go-Go's,2019-06-01,37,
 The_Go-Go's,2019-06-02,53,
 The_Go-Go's,2019-06-03,33,
 The_Go-Go's,2019-06-04,41,
-The Pretenders,2019-02-28,89,103
+The Pretenders,2019-02-28,89,100
 The Pretenders,2019-03-01,93,
 The Pretenders,2019-03-02,99,
 The Pretenders,2019-03-03,106,
@@ -5043,7 +5043,7 @@ The Pretenders,2019-06-01,91,
 The Pretenders,2019-06-02,110,
 The Pretenders,2019-06-03,131,
 The Pretenders,2019-06-04,86,
-The Supremes,2019-02-28,93,81
+The Supremes,2019-02-28,93,14
 The Supremes,2019-03-01,86,
 The Supremes,2019-03-02,114,
 The Supremes,2019-03-03,112,
@@ -5140,7 +5140,7 @@ The Supremes,2019-06-01,69,
 The Supremes,2019-06-02,70,
 The Supremes,2019-06-03,60,
 The Supremes,2019-06-04,65,
-Tracy Chapman,2019-02-28,218,249
+Tracy Chapman,2019-02-28,218,106
 Tracy Chapman,2019-03-01,259,
 Tracy Chapman,2019-03-02,257,
 Tracy Chapman,2019-03-03,289,
@@ -5237,7 +5237,7 @@ Tracy Chapman,2019-06-01,283,
 Tracy Chapman,2019-06-02,260,
 Tracy Chapman,2019-06-03,218,
 Tracy Chapman,2019-06-04,203,
-Undershakers,2019-02-28,6,6
+Undershakers,2019-02-28,6,633
 Undershakers,2019-03-01,4,
 Undershakers,2019-03-02,6,
 Undershakers,2019-03-03,8,
@@ -5334,7 +5334,7 @@ Undershakers,2019-06-01,4,
 Undershakers,2019-06-02,3,
 Undershakers,2019-06-03,5,
 Undershakers,2019-06-04,6,
-Vainica Doble,2019-02-28,34,31
+Vainica Doble,2019-02-28,34,170
 Vainica Doble,2019-03-01,33,
 Vainica Doble,2019-03-02,42,
 Vainica Doble,2019-03-03,32,
@@ -5431,7 +5431,7 @@ Vainica Doble,2019-06-01,28,
 Vainica Doble,2019-06-02,25,
 Vainica Doble,2019-06-03,20,
 Vainica Doble,2019-06-04,25,
-Vulpes,2019-02-28,40,48
+Vulpes,2019-02-28,40,550
 Vulpes,2019-03-01,48,
 Vulpes,2019-03-02,46,
 Vulpes,2019-03-03,37,
@@ -5528,7 +5528,7 @@ Vulpes,2019-06-01,48,
 Vulpes,2019-06-02,39,
 Vulpes,2019-06-03,37,
 Vulpes,2019-06-04,35,
-Zahara,2019-02-28,198,243
+Zahara,2019-02-28,198,65
 Zahara,2019-03-01,247,
 Zahara,2019-03-02,174,
 Zahara,2019-03-03,166,
