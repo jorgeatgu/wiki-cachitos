@@ -5,7 +5,7 @@
 }
 
 .chart-text-container {
-    width: 40rem;
+    width: 90%;
     margin: 2rem auto;
 }
 
@@ -25,11 +25,12 @@
 }
 
 .chart-container-full {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 }
 
-.chart {
+.chart,
+.chart-torp-bar-horizontal-container {
     text {
         font-family: var(--roboto);
         font-size: .75rem;
@@ -38,6 +39,9 @@
         fill: none;
         stroke: var(--element-chart);
         stroke-width: 3px;
+    }
+    .bar-horizontal {
+        fill: var(--element-chart);
     }
     .axis-y {
         line {
@@ -57,4 +61,16 @@
 
 .line-chapters {
     position: relative;
+}
+
+@media only screen and (min-width: 64rem) {
+
+    .chart-container-full {
+        width: 80%;
+    }
+
+    .chart-text-container {
+        width: 40rem;
+    }
+
 }

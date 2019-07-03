@@ -1,3 +1,36 @@
+const menu = () => {
+    const overlay = document.querySelector('.overlay');
+    const navigation = document.querySelector('.navegacion');
+    const body = document.querySelector('body');
+    const elementBtn = document.querySelectorAll('.navegacion-btn');
+    const burger = document.querySelector('.burger');
+
+    const classToggle = () => {
+        burger.classList.toggle('clicked');
+        overlay.classList.toggle('show');
+        navigation.classList.toggle('show');
+        body.classList.toggle('overflow');
+    };
+
+    document.querySelector('.burger').addEventListener('click', classToggle);
+    document.querySelector('.overlay').addEventListener('click', classToggle);
+
+    let i = 0;
+    for (i; i < elementBtn.length; i++) {
+        elementBtn[i].addEventListener('click', function() {
+            removeClass();
+        });
+    }
+
+    const removeClass = () => {
+        overlay.classList.remove('show');
+        navigation.classList.remove('show');
+        burger.classList.remove('clicked');
+    };
+};
+
+menu();
+
 const line = (csvFile, chapter, day) => {
     const margin = { top: 24, right: 24, bottom: 24, left: 48 };
     let width = 0;
@@ -38,7 +71,7 @@ const line = (csvFile, chapter, day) => {
         const axisX = d3
             .axisBottom(scales.count.x)
             .tickFormat(d3.timeFormat('%m-%d'))
-            .ticks(13);
+            .ticks(6);
 
         g.select('.axis-x')
             .attr('transform', `translate(0,${height})`)
@@ -222,7 +255,6 @@ const line = (csvFile, chapter, day) => {
                 d.dia = parseTime(d.fecha);
             });
 
-            console.log(dataz)
 
             menuArtist();
             setupElements();
@@ -236,10 +268,6 @@ const line = (csvFile, chapter, day) => {
 
     loadData();
 };
-
-let prueba = ['csv/episodio-uno.csv', 'chapter-one', '2019-05-28'];
-
-line(prueba[0], prueba[1], prueba[2]);
 
 const cachitos = [
     ['csv/episodio-uno.csv', 'chapter-one', '2019-04-23'],
@@ -287,3 +315,129 @@ new SlimSelect({
     select: '#select-chapter-seven',
     searchPlaceholder: 'Selecciona una artista...'
 });
+
+const barHorizontal = () => {
+    const margin = {
+        top: 24,
+        right: 24,
+        bottom: 24,
+        left: 96
+    };
+    let width = 0;
+    let height = 0;
+    const chart = d3.select('.chart-torp-bar-horizontal');
+    const svg = chart.select('svg');
+    const scales = {};
+    let dataz;
+
+    const setupScales = () => {
+        const countX = d3
+            .scaleLinear()
+            .domain([0, d3.max(dataz, (d) => d.diferencia * 1.25)]);
+
+        const countY = d3
+            .scaleBand()
+            .domain(dataz.map((d) => d.artista))
+            .paddingInner(0.1)
+            .paddingOuter(0.5);
+
+        scales.count = { x: countX, y: countY };
+    };
+
+    const setupElements = () => {
+        const g = svg.select('.chart-torp-bar-horizontal-container');
+
+        g.append('g').attr('class', 'axis axis-x');
+
+        g.append('g').attr('class', 'axis axis-y');
+
+        g.append('g').attr('class', 'area-container-chart-horizontal');
+    };
+
+    const updateScales = (width, height) => {
+        scales.count.x.range([0, width]);
+        scales.count.y.range([height, 0]);
+    };
+
+    const drawAxes = (g) => {
+        const axisX = d3
+            .axisTop(scales.count.x)
+            .tickFormat(d3.format('d'))
+            .tickSize(height);
+
+        g.select('.axis-x')
+            .attr('transform', `translate(0,${height})`)
+            .call(axisX);
+
+        const axisY = d3
+            .axisLeft(scales.count.y);
+
+        g.select('.axis-y').call(axisY);
+    };
+
+    const updateChart = (dataz) => {
+        const w = chart.node().offsetWidth;
+        const h = dataz.length * 20;
+
+        width = w - margin.left - margin.right;
+        height = h - margin.top - margin.bottom;
+
+        svg.attr('width', w).attr('height', h);
+
+        const translate = `translate(${margin.left},${margin.top})`;
+
+        const g = svg.select('.chart-torp-bar-horizontal-container');
+
+        g.attr('transform', translate);
+
+        updateScales(width, height);
+
+        const container = chart.select('.area-container-chart-horizontal');
+
+        const layer = container.selectAll('.bar-horizontal').data(dataz);
+
+        const newLayer = layer
+            .enter()
+            .append('rect')
+            .attr('class', 'bar-horizontal');
+
+        layer
+            .merge(newLayer)
+            .attr('x', 0)
+            .attr('y', (d) => scales.count.y(d.artista))
+            .attr('height', height / dataz.length - 2)
+            .attr('width', (d) => scales.count.x(d.diferencia));
+
+        drawAxes(g);
+    };
+
+    const resize = () => {
+        updateChart(dataz);
+    };
+
+    // LOAD THE DATA
+    const loadData = () => {
+        d3.csv('csv/torp.csv', (error, data) => {
+            if (error) {
+                console.log(error);
+            } else {
+                dataz = data;
+                dataz.forEach((d) => {
+                    d.diferencia = +d.diferencia;
+                });
+
+                dataz.sort((a, b) => a.diferencia - b.diferencia);
+                console.log(dataz)
+                setupElements();
+                setupScales();
+                updateChart(dataz);
+            }
+        });
+    };
+
+    window.addEventListener('resize', resize);
+
+    loadData();
+};
+
+barHorizontal();
