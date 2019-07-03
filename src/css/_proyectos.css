@@ -186,6 +186,14 @@
     text-decoration: line-through;
 }
 
+.metodology-container {
+    max-width: 58rem;
+    margin: 0 auto;
+    .chart-text {
+        width: 25rem;
+    }
+}
+
 @media only screen and (min-width: 48em) {
 
     .proyectos {

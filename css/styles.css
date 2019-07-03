@@ -468,7 +468,7 @@ template {
     }
 
     .header-title {
-        font-size: 4rem;
+        font-size: 3rem;
     }
 
 }
@@ -1422,6 +1422,15 @@ template {
 .line-through {
     text-decoration: line-through;
 }
+
+.metodology-container {
+    max-width: 58rem;
+    margin: 0 auto;
+}
+
+.metodology-container .chart-text {
+        width: 25rem;
+    }
 
 @media only screen and (min-width: 48em) {
 
