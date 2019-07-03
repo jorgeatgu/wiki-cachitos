@@ -2,12 +2,12 @@
     --fontSystem: BlinkMacSystemFont, -apple-system, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Helvetica, sans-serif;
     --monospace: 'SFMono-Regular', Consolas, Menlo, Courier, monospace;
     --roboto: 'Roboto Condensed', sans-serif;
-    --title: 'Staatliches', cursive;
-    --text: 'IBM Plex Serif', serif;
+    --title: 'Yeseva One', cursive;
+    --text: 'Merriweather', serif;
     --white: #fff;
     --black: #111;
     --bg: #EBD1CB;
     --element-chart: #9D2C5D;
     --shadow: 0 2px 4px 0 rgba(0, 0, 0, .31), 0 2px 4px 0 rgba(50, 50, 58, .2);
-
+    --bg-torp: #F4E467;
 }

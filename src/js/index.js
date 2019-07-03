@@ -69,7 +69,7 @@ const line = (csvFile, chapter, day) => {
                     .html(
                         (d) =>
                             `
-                        <p class="tooltip-text">Las visitas aumentaron en un: <span class="tooltip-number">${d.diferencia}%</span></p>
+                        <p class="tooltip-text">El día de la emisión las visitas aumentaron en un: <span class="tooltip-number">${d.diferencia}%</span></p>
 
                         `
                     )
@@ -83,7 +83,7 @@ const line = (csvFile, chapter, day) => {
                     .html(
                         (d) =>
                             `
-                        <p class="tooltip-text">Las visitas descendieron en un: <span class="tooltip-number">${d.diferencia}%</span></p>
+                        <p class="tooltip-text">El día de la emisión las visitas descendieron en un: <span class="tooltip-number">${d.diferencia}%</span></p>
 
                         `
                     )

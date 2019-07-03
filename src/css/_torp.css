@@ -1,0 +1,124 @@
+.torp {
+    background-color: #DADBDD;
+    height: 100vh;
+    position: relative;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'%3E%3Ccircle fill='%2359c6d1' cx='30' cy='30' r='5'/%3E%3Cg fill='%23ff513f' fill-opacity='1'%3E%3Ccircle cx='0' cy='60' r='5'/%3E%3Ccircle cx='60' cy='60' r='5'/%3E%3Ccircle cx='60' cy='0' r='5'/%3E%3Ccircle cx='0' cy='0' r='5'/%3E%3C/g%3E%3C/svg%3E");
+
+    .chart-container-full {
+        width: 100%;
+        padding-top: 4rem;
+    }
+
+    &:after {
+        content: '';
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: var(--white);
+        opacity: .25;
+        z-index: 1;
+    }
+}
+
+.torp-container {
+    padding: 2rem 0;
+    padding-top: 0;
+    width: 95vw;
+    display: grid;
+    margin: 2rem auto;
+    margin-top: 0;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: 1rem;
+    justify-items: stretch;
+    align-items: stretch;
+    position: relative;
+    z-index: 2;
+}
+
+.torp-text-container {
+    width: fit-content;
+    background-color: var(--white);
+    padding: 1rem 3rem;
+    position: relative;
+    border-radius: 4px;
+    z-index: 2;
+
+    .chart-text-title {
+        margin-top: 0;
+    }
+}
+
+.torp-element {
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: #ff9d00;
+    height: 40vh;
+    position: relative;
+    box-shadow: var(--shadow);
+}
+
+.torp-bg {
+    width: 100%;
+    height: 100%;
+    opacity: .2;
+    background-color: var(--white);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.torp-number {
+    font-family: var(--roboto);
+    font-weight: bold;
+    font-size: 3.5rem;
+    position: relative;
+    z-index: 2;
+    margin-top: .25rem;
+}
+
+.torp-title {
+    font-family: var(--title);
+    font-size: 1.25rem;
+    color: #182b4d;
+    position: relative;
+    z-index: 2;
+    margin: 0;
+}
+
+.torp-btn {
+    position: relative;
+    z-index: 2;
+    cursor: pointer;
+    width: fit-content;
+    font-size: .75rem;
+    font-family: var(--roboto);
+    display: block;
+    background-color: #2c0e23;
+    color: var(--white);
+    text-decoration: none;
+    padding: .75rem;
+    border-radius: 4px;
+    letter-spacing: 2px;
+    &:not(:last-child) {
+        margin-bottom: 1rem;
+    }
+}
+
+.torp-two {
+    padding-top: 1.75rem;
+}
+
+.torp-three {
+    padding-top: 2.25rem;
+}
+
+.torp-four {
+    padding-top: 2.75rem;
+}
+
+.torp-five {
+    padding-top: 3.25rem;
+}
