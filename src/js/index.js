@@ -71,7 +71,7 @@ const line = (csvFile, chapter, day) => {
         const axisX = d3
             .axisBottom(scales.count.x)
             .tickFormat(d3.timeFormat('%m-%d'))
-            .ticks(6);
+            .ticks(8);
 
         g.select('.axis-x')
             .attr('transform', `translate(0,${height})`)
@@ -329,6 +329,7 @@ const barHorizontal = () => {
     const svg = chart.select('svg');
     const scales = {};
     let dataz;
+    const porcentaje = '%';
 
     const setupScales = () => {
         const countX = d3
@@ -362,7 +363,7 @@ const barHorizontal = () => {
     const drawAxes = (g) => {
         const axisX = d3
             .axisTop(scales.count.x)
-            .tickFormat(d3.format('d'))
+            .tickFormat((d) => d + porcentaje)
             .tickSize(height);
 
         g.select('.axis-x')
@@ -427,7 +428,6 @@ const barHorizontal = () => {
                 });
 
                 dataz.sort((a, b) => a.diferencia - b.diferencia);
-                console.log(dataz)
                 setupElements();
                 setupScales();
                 updateChart(dataz);

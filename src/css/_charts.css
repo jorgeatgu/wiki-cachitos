@@ -59,6 +59,15 @@
     }
 }
 
+.chart-torp-bar-horizontal-container {
+    .axis-x {
+        line {
+            stroke-dasharray: 3px;
+            stroke: #2d1175;
+        }
+    }
+}
+
 .line-chapters {
     position: relative;
 }
