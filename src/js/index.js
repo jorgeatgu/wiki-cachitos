@@ -109,7 +109,7 @@ const line = (csvFile, chapter, day) => {
                     .transition()
                     .duration(300);
 
-            } else {
+            } else if (dataz[0].diferencia < 0) {
                 tooltipOver
                     .attr('class', 'tooltip tooltip-negative')
                     .data(dataz)
@@ -117,6 +117,18 @@ const line = (csvFile, chapter, day) => {
                         (d) =>
                             `
                         <p class="tooltip-text">El día de la emisión las visitas descendieron en un: <span class="tooltip-number">${d.diferencia}%</span></p>
+
+                        `
+                    )
+                    .transition()
+                    .duration(300);
+            } else {
+                tooltipOver
+                    .data(dataz)
+                    .html(
+                        (d) =>
+                            `
+                        <p class="tooltip-text">Las visitas ni aumentaron ni descendieron.</p>
 
                         `
                     )

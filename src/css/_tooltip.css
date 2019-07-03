@@ -12,12 +12,7 @@
     color: var(--white);
     display: inline-block;
     vertical-align: middle;
-    /* stylelint-disable */
-    width: max-content;
-    width: -moz-max-content;
-    width: -webkit-max-content;
-
-    /* stylelint-enable */
+    width: auto;
     &.tooltip-negative {
         .tooltip-number {
             color: red;

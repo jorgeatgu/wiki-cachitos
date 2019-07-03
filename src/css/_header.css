@@ -29,7 +29,7 @@
 .header-paragraph {
     font-size: 1rem;
     font-family: var(--text);
-    width: 25rem;
+    width: 100%;
     .header-title {
         font-size: 1rem;
     }
@@ -42,6 +42,10 @@
 @media only screen and (min-width: 64rem) {
     .header {
         max-height: 100vh;
+    }
+
+    .header-paragraph {
+        width: 25rem;
     }
 
     .header-text {
