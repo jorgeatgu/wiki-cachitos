@@ -57,6 +57,22 @@
     height: 40vh;
     position: relative;
     box-shadow: var(--shadow);
+    &.torp-two {
+        margin-top: 1rem;
+    }
+
+    &.torp-three {
+        margin-top: 1.5rem;
+    }
+
+    &.torp-four {
+        margin-top: 2rem;
+    }
+
+    &.torp-five {
+        margin-top: 2.5rem;
+    }
+
 }
 
 .torp-bg {
@@ -73,7 +89,7 @@
 .torp-number {
     font-family: var(--roboto);
     font-weight: bold;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     position: relative;
     z-index: 2;
     margin-top: .25rem;
@@ -105,20 +121,4 @@
     &:not(:last-child) {
         margin-bottom: 1rem;
     }
-}
-
-.torp-two {
-    padding-top: 1.75rem;
-}
-
-.torp-three {
-    padding-top: 2.25rem;
-}
-
-.torp-four {
-    padding-top: 2.75rem;
-}
-
-.torp-five {
-    padding-top: 3.25rem;
 }

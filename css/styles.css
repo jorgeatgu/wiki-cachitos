@@ -1050,7 +1050,24 @@ template {
     position: relative;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .31), 0 2px 4px 0 rgba(50, 50, 58, .2);
     box-shadow: var(--shadow);
+
 }
+
+.torp-element.torp-two {
+        margin-top: 1rem;
+    }
+
+.torp-element.torp-three {
+        margin-top: 1.5rem;
+    }
+
+.torp-element.torp-four {
+        margin-top: 2rem;
+    }
+
+.torp-element.torp-five {
+        margin-top: 2.5rem;
+    }
 
 .torp-bg {
     width: 100%;
@@ -1068,7 +1085,7 @@ template {
     font-family: 'Roboto Condensed', sans-serif;
     font-family: var(--roboto);
     font-weight: bold;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     position: relative;
     z-index: 2;
     margin-top: .25rem;
@@ -1105,22 +1122,6 @@ template {
 .torp-btn:not(:last-child) {
         margin-bottom: 1rem;
     }
-
-.torp-two {
-    padding-top: 1.75rem;
-}
-
-.torp-three {
-    padding-top: 2.25rem;
-}
-
-.torp-four {
-    padding-top: 2.75rem;
-}
-
-.torp-five {
-    padding-top: 3.25rem;
-}
 
 .tooltip {
     padding: 1rem;
