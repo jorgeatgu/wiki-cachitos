@@ -38,7 +38,12 @@
 }
 
 .torp-text-container {
-    width: fit-content;
+    /* stylelint-disable */
+    width: max-content;
+    width: -moz-max-content;
+    width: -webkit-max-content;
+
+    /* stylelint-enable */
     background-color: var(--white);
     padding: 1rem 3rem;
     position: relative;
@@ -113,7 +118,12 @@
     position: relative;
     z-index: 2;
     cursor: pointer;
-    width: fit-content;
+    /* stylelint-disable */
+    width: max-content;
+    width: -moz-max-content;
+    width: -webkit-max-content;
+    /* stylelint-enable */
+    min-width: 7rem;
     font-size: .75rem;
     font-family: var(--roboto);
     display: inline-block;
@@ -128,8 +138,9 @@
     background-position: 8px 50%;
     background-repeat: no-repeat;
     padding-left: 2rem;
+    margin-right: .5rem;
     &:not(:last-child) {
-        margin-bottom: 1rem;
+        margin-bottom: .5rem;
     }
     &:hover {
         background-color: #ccc;
