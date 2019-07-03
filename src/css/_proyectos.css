@@ -187,7 +187,7 @@
 }
 
 .metodology-container {
-    max-width: 58rem;
+    width: 90%;
     margin: 0 auto;
     .chart-text {
         width: 25rem;
@@ -207,6 +207,10 @@
 
     .proyectos-element {
         padding: 2rem;
+    }
+
+    .metodology-container {
+        max-width: 58rem;
     }
 
 }

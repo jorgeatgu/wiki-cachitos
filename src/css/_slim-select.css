@@ -5,6 +5,7 @@
     user-select: none;
     color: #666;
     width: max-content;
+    margin-left: 2rem;
 }
 
 .ss-main .ss-single-selected {
@@ -435,6 +436,10 @@
     .ss-main .ss-single-selected,
     .ss-main .ss-content {
         margin-left: 3rem !important;
+    }
+
+    .ss-main {
+        margin-left: 0;
     }
 
 }
