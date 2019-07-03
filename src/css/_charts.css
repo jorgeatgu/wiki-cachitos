@@ -50,6 +50,9 @@
             stroke: none;
         }
     }
+    .circles {
+        fill: #3D5266;
+    }
 }
 
 .line-chapters {

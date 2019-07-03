@@ -2,13 +2,13 @@
     background-color: #DADBDD;
     height: 100vh;
     position: relative;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'%3E%3Ccircle fill='%2359c6d1' cx='30' cy='30' r='5'/%3E%3Cg fill='%23ff513f' fill-opacity='1'%3E%3Ccircle cx='0' cy='60' r='5'/%3E%3Ccircle cx='60' cy='60' r='5'/%3E%3Ccircle cx='60' cy='0' r='5'/%3E%3Ccircle cx='0' cy='0' r='5'/%3E%3C/g%3E%3C/svg%3E");
-
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 2 1'%3E%3Cdefs%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='0' x2='0' y1='0' y2='1'%3E%3Cstop offset='0' stop-color='%2377aa77'/%3E%3Cstop offset='1' stop-color='%234fd'/%3E%3C/linearGradient%3E%3ClinearGradient id='b' gradientUnits='userSpaceOnUse' x1='0' y1='0' x2='0' y2='1' gradientTransform='rotate(0,0.5,0.5)'%3E%3Cstop offset='0' stop-color='%23cf8' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23cf8' stop-opacity='1'/%3E%3C/linearGradient%3E%3ClinearGradient id='c' gradientUnits='userSpaceOnUse' x1='0' y1='0' x2='2' y2='2'%3E%3Cstop offset='0' stop-color='%23cf8' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23cf8' stop-opacity='1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' fill='url(%23a)' width='2' height='1'/%3E%3Cg fill-opacity='0.57'%3E%3Cpolygon fill='url(%23b)' points='0 1 0 0 2 0'/%3E%3Cpolygon fill='url(%23c)' points='2 1 2 0 0 0'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
     .chart-container-full {
         width: 100%;
         padding-top: 4rem;
     }
-
     &:after {
         content: '';
         width: 100%;
@@ -44,6 +44,7 @@
     position: relative;
     border-radius: 4px;
     z-index: 2;
+    margin: 0 auto;
 
     .chart-text-title {
         margin-top: 0;
@@ -53,10 +54,11 @@
 .torp-element {
     padding: 1rem;
     border-radius: 4px;
-    background-color: #ff9d00;
+    background-color: #252543;
     height: 40vh;
     position: relative;
     box-shadow: var(--shadow);
+    z-index: 2;
     &.torp-two {
         margin-top: 1rem;
     }
@@ -89,16 +91,20 @@
 .torp-number {
     font-family: var(--roboto);
     font-weight: bold;
-    font-size: 2.5rem;
+    font-size: 3.5rem;
+    color: #2ccc89;
     position: relative;
     z-index: 2;
-    margin-top: .25rem;
+    display: block;
+    margin: 1rem 0;
 }
 
 .torp-title {
     font-family: var(--title);
     font-size: 1.25rem;
-    color: #182b4d;
+    text-transform: uppercase;
+    color: var(--white);
+    letter-spacing: 1px;
     position: relative;
     z-index: 2;
     margin: 0;
@@ -111,14 +117,35 @@
     width: fit-content;
     font-size: .75rem;
     font-family: var(--roboto);
-    display: block;
-    background-color: #2c0e23;
-    color: var(--white);
+    display: inline-block;
+    background-color: var(--white);
+    color: var(--black);
     text-decoration: none;
     padding: .75rem;
     border-radius: 4px;
     letter-spacing: 2px;
+    -webkit-background-size: 1rem;
+    background-size: 1rem;
+    background-position: 8px 50%;
+    background-repeat: no-repeat;
+    padding-left: 2rem;
     &:not(:last-child) {
         margin-bottom: 1rem;
     }
+    &:hover {
+        background-color: #ccc;
+        transition: background-color ease-in .3s;
+    }
+}
+
+.torp-wikipedia {
+    background-image: url("data:image/svg+xml,%3Csvg aria-hidden='true' focusable='false' data-prefix='fab' data-icon='wikipedia-w' class='svg-inline--fa fa-wikipedia-w fa-w-20' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 512'%3E%3Cpath fill='currentColor' d='M640 51.2l-.3 12.2c-28.1.8-45 15.8-55.8 40.3-25 57.8-103.3 240-155.3 358.6H415l-81.9-193.1c-32.5 63.6-68.3 130-99.2 193.1-.3.3-15 0-15-.3C172 352.3 122.8 243.4 75.8 133.4 64.4 106.7 26.4 63.4.2 63.7c0-3.1-.3-10-.3-14.2h161.9v13.9c-19.2 1.1-52.8 13.3-43.3 34.2 21.9 49.7 103.6 240.3 125.6 288.6 15-29.7 57.8-109.2 75.3-142.8-13.9-28.3-58.6-133.9-72.8-160-9.7-17.8-36.1-19.4-55.8-19.7V49.8l142.5.3v13.1c-19.4.6-38.1 7.8-29.4 26.1 18.9 40 30.6 68.1 48.1 104.7 5.6-10.8 34.7-69.4 48.1-100.8 8.9-20.6-3.9-28.6-38.6-29.4.3-3.6 0-10.3.3-13.6 44.4-.3 111.1-.3 123.1-.6v13.6c-22.5.8-45.8 12.8-58.1 31.7l-59.2 122.8c6.4 16.1 63.3 142.8 69.2 156.7L559.2 91.8c-8.6-23.1-36.4-28.1-47.2-28.3V49.6l127.8 1.1.2.5z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.torp-spotify {
+    background-image: url("data:image/svg+xml,%3Csvg aria-hidden='true' focusable='false' data-prefix='fab' data-icon='spotify' class='svg-inline--fa fa-spotify fa-w-16' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 496 512'%3E%3Cpath fill='currentColor' d='M248 8C111.1 8 0 119.1 0 256s111.1 248 248 248 248-111.1 248-248S384.9 8 248 8zm100.7 364.9c-4.2 0-6.8-1.3-10.7-3.6-62.4-37.6-135-39.2-206.7-24.5-3.9 1-9 2.6-11.9 2.6-9.7 0-15.8-7.7-15.8-15.8 0-10.3 6.1-15.2 13.6-16.8 81.9-18.1 165.6-16.5 237 26.2 6.1 3.9 9.7 7.4 9.7 16.5s-7.1 15.4-15.2 15.4zm26.9-65.6c-5.2 0-8.7-2.3-12.3-4.2-62.5-37-155.7-51.9-238.6-29.4-4.8 1.3-7.4 2.6-11.9 2.6-10.7 0-19.4-8.7-19.4-19.4s5.2-17.8 15.5-20.7c27.8-7.8 56.2-13.6 97.8-13.6 64.9 0 127.6 16.1 177 45.5 8.1 4.8 11.3 11 11.3 19.7-.1 10.8-8.5 19.5-19.4 19.5zm31-76.2c-5.2 0-8.4-1.3-12.9-3.9-71.2-42.5-198.5-52.7-280.9-29.7-3.6 1-8.1 2.6-12.9 2.6-13.2 0-23.3-10.3-23.3-23.6 0-13.6 8.4-21.3 17.4-23.9 35.2-10.3 74.6-15.2 117.5-15.2 73 0 149.5 15.2 205.4 47.8 7.8 4.5 12.9 10.7 12.9 22.6 0 13.6-11 23.3-23.2 23.3z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.torp-rtve {
+    background-image: url("data:image/svg+xml,%3Csvg aria-hidden='true' focusable='false' data-prefix='far' data-icon='play' class='svg-inline--fa fa-play fa-w-14' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath fill='currentColor' d='M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6zM48 453.5v-395c0-4.6 5.1-7.5 9.1-5.2l334.2 197.5c3.9 2.3 3.9 8 0 10.3L57.1 458.7c-4 2.3-9.1-.6-9.1-5.2z'%3E%3C/path%3E%3C/svg%3E");
 }
