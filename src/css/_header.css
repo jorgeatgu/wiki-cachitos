@@ -21,7 +21,8 @@
 
 .header-title {
     font-size: 2rem;
-    font-family: var(--title);
+    font-family: var(--super-title);
+    font-weight: 400;
     margin: 0;
 }
 
@@ -47,7 +48,7 @@
         border-top: 5px solid var(--black);
         margin-top: -6rem;
         position: relative;
-        width: 32rem;
+        width: 41rem;
         margin-left: 3rem;
     }
 
